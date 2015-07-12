@@ -1,0 +1,37 @@
+<div class="container-fluid wastemate-inner-nav">
+	<div class="container">
+    	<div class="col-md-10 center-block clearfix">
+			{{ if isset .Params "imageicon"}}
+			  <div class="col-md-2 carts">
+			        <span class="helper"></span>
+			        <img src="{{ .Params.imageicon | absURL }}" />
+			  </div>
+			{{ end }}
+		    <div class="col-md-4 lob">
+		      <div class="row"><h1>{{ .Title }}</h1></div>
+		      <div class="row description">
+		        {{ .Description }}
+		      </div>
+		    </div>
+		    <div class="col-md-3 nav-col-1">
+			  {{ $page := . }}
+		      {{ if isset .Params "subnav1"}}
+			  	<ul>
+				{{ range .Params.subnav1}}
+				  <li><a href="{{ $page.RelPermalink }}#{{ (. | urlize)  }}"> {{.}}</a></li>
+				{{ end }}
+				</ul>
+			  {{ end }}
+		    </div>
+		    <div class="col-md-3 nav-col-2">
+		      {{ if isset .Params "subnav2"}}
+			  	<ul>
+				{{ range .Params.subnav2}}
+				  <li><a href="{{ $page.RelPermalink }}#{{ (. | urlize)  }}"> {{.}}</a></li>
+				{{ end }}
+				</ul>
+			  {{ end }}
+		    </div>
+		</div>
+	</div>
+</div>

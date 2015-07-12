@@ -1,0 +1,8 @@
+BaseURL = ""
+languageCode = "en-us"
+title = "Paso Robles Waste & Recycle"
+theme = "wastemate"
+[params]
+	heading = "Paso Robles’ waste hauler since 1957."
+	site_summary = "Paso Robles Waste & Recycle is dedicated to environmentally sound solutions for its residents’ solid waste management needs. Family owned and operated for three generations—where sustainability and safety are paramount."
+	header_image = "/media/prwaste_header.jpg"
