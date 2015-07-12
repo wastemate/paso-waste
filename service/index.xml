@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Paso Robles Waste &amp; Recycle</title>
-    <link>/service/</link>
+    <link>https://edisoncode.github.io/pasowaste-hugo/service/</link>
     <description>Recent content in Services on Paso Robles Waste &amp; Recycle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Jul 2015 09:27:37 -0700</lastBuildDate>
-    <atom:link href="/service/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://edisoncode.github.io/pasowaste-hugo/service/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Residential</title>
-      <link>/service/residential/</link>
+      <link>https://edisoncode.github.io/pasowaste-hugo/service/residential/</link>
       <pubDate>Fri, 10 Jul 2015 09:27:37 -0700</pubDate>
       
-      <guid>/service/residential/</guid>
+      <guid>https://edisoncode.github.io/pasowaste-hugo/service/residential/</guid>
       <description>
 
 &lt;h2 id=&#34;service-a-id-service:8bb510895c15cdb2b4b1952437a3c932&#34;&gt;Service&lt;a id=&#34;Service&#34;/&gt;&lt;/h2&gt;
@@ -161,7 +161,7 @@ If you have more trash than what fits into your regular service, you can buy tag
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;/media/2015cleanup_map.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
+        &lt;img src=&#34;https://edisoncode.github.io/pasowaste-hugo/media/2015cleanup_map.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -213,10 +213,10 @@ If you have more trash than what fits into your regular service, you can buy tag
     
     <item>
       <title>Commercial</title>
-      <link>/service/commercial/</link>
+      <link>https://edisoncode.github.io/pasowaste-hugo/service/commercial/</link>
       <pubDate>Fri, 10 Jul 2015 09:37:10 -0700</pubDate>
       
-      <guid>/service/commercial/</guid>
+      <guid>https://edisoncode.github.io/pasowaste-hugo/service/commercial/</guid>
       <description>
 
 &lt;h2 id=&#34;bin-sizes:6bb28760d9618c0b43e7f2efea3ea43c&#34;&gt;Bin Sizes&lt;/h2&gt;
@@ -291,10 +291,10 @@ If you have more trash than what fits into your regular service, you can buy tag
     
     <item>
       <title>Rent A Bin</title>
-      <link>/service/Rent-A-Bin/</link>
+      <link>https://edisoncode.github.io/pasowaste-hugo/service/Rent-A-Bin/</link>
       <pubDate>Fri, 10 Jul 2015 12:51:38 -0700</pubDate>
       
-      <guid>/service/Rent-A-Bin/</guid>
+      <guid>https://edisoncode.github.io/pasowaste-hugo/service/Rent-A-Bin/</guid>
       <description>
 
 &lt;p&gt;These bins are handy anytime you are doing a project that will generate a larger volume of trash than you can put in your automated container. Please call our office several days ahead of time to schedule your delivery as availability is limited.&lt;/p&gt;

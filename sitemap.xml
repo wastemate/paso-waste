@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/</loc>
+    <loc>https://edisoncode.github.io/pasowaste-hugo/</loc>
     <lastmod>2015-07-10T11:53:30-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/commercialrates/</loc>
+    <loc>https://edisoncode.github.io/pasowaste-hugo/commercialrates/</loc>
     <lastmod>2015-07-10T11:53:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/service/residential/</loc>
+    <loc>https://edisoncode.github.io/pasowaste-hugo/service/residential/</loc>
     <lastmod>2015-07-10T09:27:37-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/service/commercial/</loc>
+    <loc>https://edisoncode.github.io/pasowaste-hugo/service/commercial/</loc>
     <lastmod>2015-07-10T09:37:10-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/service/Rent-A-Bin/</loc>
+    <loc>https://edisoncode.github.io/pasowaste-hugo/service/Rent-A-Bin/</loc>
     <lastmod>2015-07-10T12:51:38-07:00</lastmod>
   </url>
   
