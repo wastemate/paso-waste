@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Paso Robles Waste &amp; Recycle</title>
+    <link>https://edisoncode.github.io/pasowaste-hugo/page/</link>
+    <description>Recent content in Pages on Paso Robles Waste &amp; Recycle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jul 2015 09:03:05 -0700</lastBuildDate>
+    <atom:link href="https://edisoncode.github.io/pasowaste-hugo/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>contact</title>
+      <link>https://edisoncode.github.io/pasowaste-hugo/page/contact/</link>
+      <pubDate>Mon, 13 Jul 2015 09:03:05 -0700</pubDate>
+      
+      <guid>https://edisoncode.github.io/pasowaste-hugo/page/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://edisoncode.github.io/pasowaste-hugo/page/about/</link>
+      <pubDate>Mon, 13 Jul 2015 09:03:00 -0700</pubDate>
+      
+      <guid>https://edisoncode.github.io/pasowaste-hugo/page/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>faq</title>
+      <link>https://edisoncode.github.io/pasowaste-hugo/page/faq/</link>
+      <pubDate>Mon, 13 Jul 2015 09:02:55 -0700</pubDate>
+      
+      <guid>https://edisoncode.github.io/pasowaste-hugo/page/faq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
