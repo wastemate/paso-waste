@@ -17,7 +17,7 @@
       <guid>https://edisoncode.github.io/paso-waste/service/residential/</guid>
       <description>
 
-&lt;h2 id=&#34;service-a-id-service:8bb510895c15cdb2b4b1952437a3c932&#34;&gt;Service&lt;a id=&#34;Service&#34;/&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;service:8bb510895c15cdb2b4b1952437a3c932&#34;&gt;Service&lt;/h2&gt;
 
 &lt;p&gt;To start or change your service, please &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f&#34;&gt;sign up / log in.&lt;/a&gt; All residential accounts receive weekly automated pickup and include organic waste and commingle curbside recycling services.&lt;/p&gt;
 
@@ -89,9 +89,24 @@
 
 &lt;p&gt;To view current rates, please &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f&#34;&gt;sign up / log in&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary btn-lg&#34; data-toggle=&#34;modal&#34; data-target=&#34;#myModal&#34; id=&#34;yui_3_17_2_1_1436547376749_938&#34;&gt;
-  Additional Information
-&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary btn-lg&#34; data-toggle=&#34;modal&#34; data-target=&#34;#rateModal&#34; href=&#34;https://edisoncode.github.io/paso-waste/modal/residential-rates/&#34;&gt;
+      Additional Information
+&lt;/button&gt;
+&lt;div class=&#34;modal fade&#34; id=&#34;rateModal&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-labelledby=&#34;myModalLabel&#34; style=&#34;display: none;&#34; aria-hidden=&#34;true&#34;&gt;
+  &lt;div class=&#34;modal-dialog&#34; role=&#34;document&#34;&gt;
+    &lt;div class=&#34;modal-content&#34;&gt;
+      &lt;div class=&#34;modal-header&#34;&gt;
+        &lt;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;modal&#34; aria-label=&#34;Close&#34;&gt;&lt;span aria-hidden=&#34;true&#34;&gt;×&lt;/span&gt;&lt;/button&gt;
+        &lt;h4 class=&#34;modal-title&#34; id=&#34;myModalLabel&#34;&gt;Rates&lt;/h4&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;modal-body&#34;&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;modal-footer&#34;&gt;
+        &lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34; data-dismiss=&#34;modal&#34;&gt;Close&lt;/button&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;extra-services:8bb510895c15cdb2b4b1952437a3c932&#34;&gt;Extra Services&lt;/h2&gt;
 
@@ -166,48 +181,6 @@ If you have more trash than what fits into your regular service, you can buy tag
     
 &lt;/figure&gt;
 &lt;/p&gt;
-
-&lt;div class=&#34;modal fade&#34; id=&#34;myModal&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-labelledby=&#34;myModalLabel&#34; style=&#34;display: none;&#34; aria-hidden=&#34;true&#34;&gt;
-  &lt;div class=&#34;modal-dialog&#34; role=&#34;document&#34;&gt;
-    &lt;div class=&#34;modal-content&#34;&gt;
-      &lt;div class=&#34;modal-header&#34;&gt;
-        &lt;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;modal&#34; aria-label=&#34;Close&#34;&gt;&lt;span aria-hidden=&#34;true&#34;&gt;×&lt;/span&gt;&lt;/button&gt;
-        &lt;h4 class=&#34;modal-title&#34; id=&#34;myModalLabel&#34;&gt;Rates&lt;/h4&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;modal-body&#34;&gt;
-        &lt;h3&gt;
-          City Surcharge
-        &lt;/h3&gt;
-        &lt;p&gt;On August 1st, 2006 the Paso Robles City Council passed resolution No. 06-142, a resolution of the City of Paso Robles approving changes to solid waste collection rates for Paso Robles Waste Disposal. The first component of the resolution addresses the solid waste collection surcharge. A portion of the cost incurred by the City of Paso Robles purchasing 53 acres adjacent to the municipal landfill is to be paid by a solid waste collection surcharge on all Paso Robles Waste Disposal customers. The implementation of the surcharge will take place on September 1, 2006.
-        
-        Initially, residential customers will pay an additional $1.10 per month or $13.20 per year and commercial customers will pay an additional $2.34 or $28.08 annually.&lt;/p&gt;
-        &lt;h3&gt;Paso Robles Waste Disposal Rate Increase&lt;/h3&gt;
-        
-        &lt;p class=&#34;modal-date&#34;&gt;January 1, 2007&lt;/p&gt;
-        &lt;p&gt;Paso Robles Waste Disposal will increase rates by the percent increase in the Consumer Price Index as published by the Bureau of Labor Statistics for “All Urban Wage Earners and Clerical Workers” SF-Oak-SJ region for the 12 month period ending 10/31/06.&lt;/p&gt;
-                &lt;p class=&#34;modal-date&#34;&gt;July 1, 2008&lt;/p&gt;
-        &lt;p&gt;
-          Paso Robles Waste Disposal will increase rates by the percent increase in the Consumer Price Index as published by the Bureau of Labor Statistics for “All Urban Wage Earners and Clerical Workers” SF-Oak-SJ region for the 12 month period ending 4/30/08.
-                &lt;/p&gt;
-        
-        &lt;p class=&#34;modal-date&#34;&gt;July 1, 2009&lt;/p&gt;
-        &lt;p&gt;Paso Robles Waste Disposal will increase rates by the percent increase in the Consumer Price Index as published by the Bureau of Labor Statistics for “All Urban Wage Earners and Clerical Workers” SF-Oak-SJ region for the 12 month period ending 4/30/09.&lt;/p&gt;
-        
-        Note: PRWD chose to waive this CPI due to the economic struggles that were occurring at the time in the community and nation.
-        
-        Sources
-        
-        “Solid Waste Collection Fee Adjustment” – Mike Compton, Director of Administrative Services
-        Resolution 06-142 – Paso Robles City Council
-              
-              
-      &lt;/div&gt;
-      &lt;div class=&#34;modal-footer&#34;&gt;
-        &lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34; data-dismiss=&#34;modal&#34;&gt;Close&lt;/button&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
 </description>
     </item>
     
