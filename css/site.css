@@ -566,8 +566,9 @@ main ol li ul li	{
 @media (max-width: 992px){
 
 		#heroImage.home .bg-image {
-				background-position: 100% 50% !important;
+			background-position: 100% 50% !important;
 		}
+
 		.col-md-3.wastemate-hero-signup-form	{
 		width: 50%;
 		}
