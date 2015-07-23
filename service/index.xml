@@ -110,18 +110,19 @@
 
 &lt;h2 id=&#34;extra-services:8bb510895c15cdb2b4b1952437a3c932&#34;&gt;Extra Services&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;BAG TAGS&lt;/strong&gt;
-If you have more trash than what fits into your regular service, you can buy tags for $XX each by calling our office at (805) 238-2381. These tags will cover a 32 gallon container whether it is a box, bag or can (50 lbs. or less).&lt;/p&gt;
+&lt;h3 id=&#34;bag-tags:8bb510895c15cdb2b4b1952437a3c932&#34;&gt;BAG TAGS&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;RENT-A-BIN SERVICE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you have more trash than what fits into your regular service, you can buy tags for $XX each by calling our office at (805) 238-2381. These tags will cover a 32 gallon container whether it is a box, bag or can (50 lbs. or less).&lt;/p&gt;
+
+&lt;h3 id=&#34;rent-a-bin-service:8bb510895c15cdb2b4b1952437a3c932&#34;&gt;RENT-A-BIN SERVICE&lt;/h3&gt;
 
 &lt;p&gt;We offer 3- and 4-yard temporary bin service. You can order a bin any time you have a larger-than-normal volume of garbage to dispose of. These bins are great for home remodeling and construction projects. &lt;a href=&#34;https://paso-waste-site.squarespace.com/rent-a-bin&#34;&gt;Learn More &amp;gt;&amp;gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;IN-YARD SERVICE&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;in-yard-service:8bb510895c15cdb2b4b1952437a3c932&#34;&gt;IN-YARD SERVICE&lt;/h3&gt;
 
 &lt;p&gt;If you have difficulty getting your container to the curb, you can sign up for in-yard service. Your regular driver will come into your yard to retrieve your container, empty it, and then return it to your yard. In many cases we are able to offer this service at no additional charge. All you need is a valid doctor’s note.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;BULKY ITEMS&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;bulky-items:8bb510895c15cdb2b4b1952437a3c932&#34;&gt;BULKY ITEMS&lt;/h3&gt;
 
 &lt;p&gt;We can collect bulky items. Please call our office at (805) 238-2381 for an estimate. Bulky items include appliances, furniture, mattresses, any over-sized item that will not fit into your container. Read below for more information about our annual Clean-Up Week for bulky items.&lt;/p&gt;
 
@@ -131,19 +132,65 @@ If you have more trash than what fits into your regular service, you can buy tag
 
 &lt;h3 id=&#34;christmas-week-service-schedule:8bb510895c15cdb2b4b1952437a3c932&#34;&gt;CHRISTMAS WEEK SERVICE SCHEDULE&lt;/h3&gt;
 
-&lt;p style=&#34;margin-left:40px;&#34;&gt;&lt;strong&gt;Regular Service Day &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Service Day for Christmas Week&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p style=&#34;margin-left:40px&#34; id=&#34;yui_3_17_2_1_1436547376749_829&#34;&gt;Monday &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Monday, December 21, 2015&lt;/p&gt;
-
-&lt;p style=&#34;margin-left:40px&#34;&gt;Tuesday &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Tuesday, December 22, 2015&lt;/p&gt;
-
-&lt;p style=&#34;margin-left:40px&#34; id=&#34;yui_3_17_2_1_1436547376749_835&#34;&gt;Wednesday &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp; Wednesday, December 23, 2015&lt;/p&gt;
-
-&lt;p style=&#34;margin-left:40px&#34;&gt;Thursday &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Thursday, December 24, 2015&lt;/p&gt;
-
-&lt;p style=&#34;margin-left:40px&#34;&gt;Friday &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Saturday, December 26, 2015&lt;/p&gt;
-
-&lt;p style=&#34;margin-left:40px&#34;&gt;&lt;em&gt;Service will return to the regular schedule starting December 28, 2015.&lt;/em&gt;&lt;/p&gt;
+&lt;table class=&#34;christmas-week&#34;&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;
+                &lt;p&gt;&lt;strong&gt;Regular Service Day&lt;/strong&gt;&lt;/p&gt;
+            &lt;/th&gt;
+            &lt;th&gt;
+                &lt;p&gt;&lt;strong&gt;Service Day for Christmas Week&lt;/strong&gt;&lt;/p&gt;
+            &lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;p&gt;Monday&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td&gt;
+                &lt;p&gt;Monday, December 21, 2015&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;p&gt;Tuesday&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td&gt;
+                &lt;p&gt;Tuesday, December 22, 2015&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;p&gt;Wednesday&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td&gt;
+                &lt;p&gt;Wednesday, December 23, 2015&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;p&gt;Thursday&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td&gt;
+                &lt;p&gt;Thursday, December 24, 2015&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                &lt;p&gt;Friday&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td&gt;
+                &lt;p&gt;Saturday, December 26, 2015&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td colspan=&#34;2&#34;&gt;
+                &lt;p&gt;&lt;em&gt;Service will return to the regular schedule starting December 28, 2015.&lt;/em&gt;&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;tbody&gt;
+&lt;/table&gt;
 
 &lt;h3 id=&#34;christmas-tree-pick-up:8bb510895c15cdb2b4b1952437a3c932&#34;&gt;CHRISTMAS TREE PICK-UP&lt;/h3&gt;
 

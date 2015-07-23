@@ -324,7 +324,8 @@ main	{
 		padding: 20px 0;
 }
 
-main	h2 {
+main h2,
+.sidebar h2 {
 		margin-top: 40px;
 		margin-bottom: 5px;
 		color: #1882c2;
@@ -336,7 +337,11 @@ main	h2 {
 main	h3,
 main	p,
 main	ol li,
-main	ul li {
+main	ul li,
+.sidebar h3,
+.sidebar p,
+.sidebar ol li,
+.sidebar ul li {
     font-size: 1.6em;
     font-weight: normal;
 		color: #58595b;
@@ -344,7 +349,8 @@ main	ul li {
 		font-weight: 400;
 }
 
-main	h3 {
+main	h3,
+.sidebar h3 {
 		text-transform: uppercase;
 		color: #0a81c5;
 		font-weight: 700;
@@ -354,16 +360,21 @@ main	h3 {
 main ul li,
 main ol li,
 main ol + ul li,
+.sidebar ul li,
+.sidebar ol li,
+.sidebar ol + ul li,
 .sqs-block-content ul li,
 .sqs-block-content ol li	{
     margin-left: 16px !important;
 }
 
-main ol li ul	{
+main ol li ul,
+.sidebar ol li ul	{
     padding-left: 20px;
 }
 
-main ol li ul li	{
+main ol li ul li
+.sidebar ol li ul li	{
     font-size: 1em;
     list-style: disc;
 }
@@ -459,8 +470,13 @@ main ol li ul li	{
 
 
 
+table.christmas-week	{
+	margin-left: 40px;
+}
 
-
+table.christmas-week td {
+	font-weight: 400;
+}
 
 
 

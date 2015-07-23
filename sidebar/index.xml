@@ -70,5 +70,17 @@
 </description>
     </item>
     
+    <item>
+      <title>about</title>
+      <link>https://edisoncode.github.io/paso-waste/sidebar/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edisoncode.github.io/paso-waste/sidebar/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;sidebar:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Sidebar&lt;/h2&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
