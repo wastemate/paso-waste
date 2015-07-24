@@ -423,8 +423,15 @@ main ol li ul li
 
 .form-control {
 	height: auto;
-
 }
+
+
+.xmas-tree img	{
+	width: 200px;
+	float: left;
+	margin-right: 20px;
+}
+
 
 .sqs-block	{
 	padding-top: 0;
@@ -491,6 +498,7 @@ table.christmas-week	{
 
 table.christmas-week td {
 	font-weight: 400;
+	vertical-align: top;
 }
 
 
