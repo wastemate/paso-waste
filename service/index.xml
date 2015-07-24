@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Paso Robles Waste &amp; Recycle</title>
-    <link>http://localhost:1313/paso-waste/service/</link>
+    <link>https://edisoncode.github.io/paso-waste/service/</link>
     <description>Recent content in Services on Paso Robles Waste &amp; Recycle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Jul 2015 09:27:37 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/paso-waste/service/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://edisoncode.github.io/paso-waste/service/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Residential</title>
-      <link>http://localhost:1313/paso-waste/service/residential/</link>
+      <link>https://edisoncode.github.io/paso-waste/service/residential/</link>
       <pubDate>Fri, 10 Jul 2015 09:27:37 -0700</pubDate>
       
-      <guid>http://localhost:1313/paso-waste/service/residential/</guid>
+      <guid>https://edisoncode.github.io/paso-waste/service/residential/</guid>
       <description>
 
 &lt;h2 id=&#34;service:8bb510895c15cdb2b4b1952437a3c932&#34;&gt;Service&lt;/h2&gt;
@@ -89,8 +89,8 @@
 
 &lt;p&gt;To view current rates, please &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f&#34;&gt;sign up / log in&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary btn-lg&#34; data-toggle=&#34;modal&#34; data-target=&#34;#rateModal&#34; href=&#34;http://localhost:1313/paso-waste/modal/residential-rates/&#34;&gt;
-      Additional Information
+&lt;p&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary btn-lg&#34; data-toggle=&#34;modal&#34; data-target=&#34;#rateModal&#34; href=&#34;https://edisoncode.github.io/paso-waste/modal/residential-rates/&#34;&gt;
+      Surcharges &amp;amp; Increases
 &lt;/button&gt;
 &lt;div class=&#34;modal fade&#34; id=&#34;rateModal&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-labelledby=&#34;myModalLabel&#34; style=&#34;display: none;&#34; aria-hidden=&#34;true&#34;&gt;
   &lt;div class=&#34;modal-dialog&#34; role=&#34;document&#34;&gt;
@@ -194,7 +194,14 @@
 
 &lt;h3 id=&#34;christmas-tree-pick-up:8bb510895c15cdb2b4b1952437a3c932&#34;&gt;CHRISTMAS TREE PICK-UP&lt;/h3&gt;
 
-&lt;p&gt;For no additional charge, you can place your whole undecorated tree at the curb on your regular service day between December 28, 2015 through January 8, 2016. We will be operating an additional truck that will be picking up just the Christmas trees. If you have any questions or concerns please call our office at (805) 238-2381.&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/xmas-tree-pickup.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
+    
+    
+&lt;/figure&gt;
+ For no additional charge, you can place your whole undecorated tree at the curb on your regular service day between December 28, 2015 through January 8, 2016. We will be operating an additional truck that will be picking up just the Christmas trees. If you have any questions or concerns please call our office at (805) 238-2381.&lt;/p&gt;
 
 &lt;p style=&#34;margin-left:40px&#34; id=&#34;yui_3_17_2_1_1436547376749_895&#34;&gt;&lt;strong id=&#34;yui_3_17_2_1_1436547376749_894&#34;&gt;Instructions&lt;/strong&gt;&lt;/p&gt;
 
@@ -208,7 +215,7 @@
 &lt;li&gt;We will not collect trees with decorations or stands&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;we-will-not-collect-trees-with-decorations-or-stands:8bb510895c15cdb2b4b1952437a3c932&#34;&gt;We will not collect trees with decorations or stands&lt;/h2&gt;
+&lt;h2 id=&#34;annual-city-residential-clean-up:8bb510895c15cdb2b4b1952437a3c932&#34;&gt;Annual City / Residential Clean-Up&lt;/h2&gt;
 
 &lt;p&gt;This annual June event allows each single family residence to place a maximum of seven (7) items of bulk household waste for curbside pick up during the clean-up event &lt;strong&gt;FOR FREE!&lt;/strong&gt; Bulk household waste means all discarded household waste matter which is too large to be placed in a covered container including, but not limited to, vehicle tires and/or wheels, furniture, appliances, discarded carpets, discarded mattresses, discarded electronic equipment, residential wastes (including wood waste, tree branches, scrap wood) and similar large items produced from residential premises. Country Disposal Clean-Up week can be viewed here.&lt;/p&gt;
 
@@ -223,7 +230,7 @@
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/paso-waste/media/2015cleanup_map.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/2015cleanup_map.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -233,10 +240,10 @@
     
     <item>
       <title>Commercial</title>
-      <link>http://localhost:1313/paso-waste/service/commercial/</link>
+      <link>https://edisoncode.github.io/paso-waste/service/commercial/</link>
       <pubDate>Fri, 10 Jul 2015 09:37:10 -0700</pubDate>
       
-      <guid>http://localhost:1313/paso-waste/service/commercial/</guid>
+      <guid>https://edisoncode.github.io/paso-waste/service/commercial/</guid>
       <description>
 
 &lt;h2 id=&#34;bin-sizes:6bb28760d9618c0b43e7f2efea3ea43c&#34;&gt;Bin Sizes&lt;/h2&gt;
@@ -311,10 +318,10 @@
     
     <item>
       <title>Rent A Bin</title>
-      <link>http://localhost:1313/paso-waste/service/Rent-A-Bin/</link>
+      <link>https://edisoncode.github.io/paso-waste/service/Rent-A-Bin/</link>
       <pubDate>Fri, 10 Jul 2015 12:51:38 -0700</pubDate>
       
-      <guid>http://localhost:1313/paso-waste/service/Rent-A-Bin/</guid>
+      <guid>https://edisoncode.github.io/paso-waste/service/Rent-A-Bin/</guid>
       <description>
 
 &lt;p&gt;These bins are handy anytime you are doing a project that will generate a larger volume of trash than you can put in your automated container. Please call our office several days ahead of time to schedule your delivery as availability is limited.&lt;/p&gt;
@@ -346,10 +353,10 @@ Some foooooooter content!&lt;/p&gt;
     
     <item>
       <title>Roll-Off</title>
-      <link>http://localhost:1313/paso-waste/service/rolloff/</link>
+      <link>https://edisoncode.github.io/paso-waste/service/rolloff/</link>
       <pubDate>Mon, 13 Jul 2015 09:02:13 -0700</pubDate>
       
-      <guid>http://localhost:1313/paso-waste/service/rolloff/</guid>
+      <guid>https://edisoncode.github.io/paso-waste/service/rolloff/</guid>
       <description></description>
     </item>
     
