@@ -10,6 +10,18 @@
     <atom:link href="https://edisoncode.github.io/paso-waste/sidebar/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>about</title>
+      <link>https://edisoncode.github.io/paso-waste/sidebar/about/</link>
+      <pubDate>Mon, 13 Jul 2015 10:06:50 -0700</pubDate>
+      
+      <guid>https://edisoncode.github.io/paso-waste/sidebar/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;sidebar:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Sidebar&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>contact</title>
       <link>https://edisoncode.github.io/paso-waste/sidebar/contact/</link>
       <pubDate>Mon, 13 Jul 2015 10:06:50 -0700</pubDate>

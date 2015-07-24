@@ -324,7 +324,7 @@ main	{
 }
 
 .sidebar {
-    padding: 20px 0;
+    padding: 20px 0 20px 20px;
 }
 
 main h2,
@@ -334,13 +334,18 @@ main h2,
 		color: #0981c4;
 		font-weight: 200;
 		font-size: 40px;
+}
 
+main h2:first-of-type,
+.sidebar h2:first-of-type {
+		margin-top: 0;
 }
 
 main	h3,
 main	p,
 main	ol li,
 main	ul li,
+main	ol li ul li,
 .sidebar h3,
 .sidebar p,
 .sidebar ol li,
@@ -350,6 +355,10 @@ main	ul li,
 		color: #58595b;
 		line-height: 1.5em;
 		font-weight: 400;
+}
+
+main	ol li ul li {
+    font-size: .92em;
 }
 
 main	h3,
@@ -408,6 +417,10 @@ main ol li ul li
 	float:none
 }
 
+.container-content	{
+	margin-top: 20px;
+}
+
 .form-control {
 	height: auto;
 
@@ -416,9 +429,11 @@ main ol li ul li
 .sqs-block	{
 	padding-top: 0;
 	padding-bottom: 0;
-
 }
 
+.sqs-block-map	{
+	margin-bottom: 20px;
+}
 
 .banner-thumbnail-wrapper {
   background-color: fade(#ccc,100%);
@@ -457,21 +472,18 @@ main ol li ul li
   text-align: center;
 }
 
-
-  .container>.navbar-header,
-  .container-fluid>.navbar-header,
-  .container>.navbar-collapse,
-  .container-fluid>.navbar-collapse {
-    margin-right: 6%;
-    margin-left: 6%;
+.container>.navbar-header,
+.container-fluid>.navbar-header,
+.container>.navbar-collapse,
+.container-fluid>.navbar-collapse {
+	margin-right: 6%;
+	margin-left: 6%;
 }
 
 .sqs-layout > .sqs-row {
     margin-left: -15px;
     margin-right: -15px;
 }
-
-
 
 table.christmas-week	{
 	margin-left: 40px;
