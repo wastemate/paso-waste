@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sidebars on Paso Robles Waste &amp; Recycle</title>
-    <link>https://edisoncode.github.io/paso-waste/sidebar/</link>
+    <link>http://localhost:1313/paso-waste/sidebar/</link>
     <description>Recent content in Sidebars on Paso Robles Waste &amp; Recycle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jul 2015 10:06:50 -0700</lastBuildDate>
-    <atom:link href="https://edisoncode.github.io/paso-waste/sidebar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/paso-waste/sidebar/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>contact</title>
-      <link>https://edisoncode.github.io/paso-waste/sidebar/contact/</link>
+      <link>http://localhost:1313/paso-waste/sidebar/contact/</link>
       <pubDate>Mon, 13 Jul 2015 10:06:50 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/sidebar/contact/</guid>
+      <guid>http://localhost:1313/paso-waste/sidebar/contact/</guid>
       <description>
 
 &lt;h2 id=&#34;resources:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Resources&lt;/h2&gt;
@@ -72,10 +72,10 @@
     
     <item>
       <title>about</title>
-      <link>https://edisoncode.github.io/paso-waste/sidebar/about/</link>
+      <link>http://localhost:1313/paso-waste/sidebar/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/sidebar/about/</guid>
+      <guid>http://localhost:1313/paso-waste/sidebar/about/</guid>
       <description>
 
 &lt;h2 id=&#34;sidebar:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Sidebar&lt;/h2&gt;

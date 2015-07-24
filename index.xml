@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paso Robles Waste &amp; Recycle</title>
-    <link>https://edisoncode.github.io/paso-waste/</link>
+    <link>http://localhost:1313/paso-waste/</link>
     <description>Recent content on Paso Robles Waste &amp; Recycle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jul 2015 22:53:48 -0700</lastBuildDate>
-    <atom:link href="https://edisoncode.github.io/paso-waste/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/paso-waste/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>residential rates</title>
-      <link>https://edisoncode.github.io/paso-waste/modal/residential-rates/</link>
+      <link>http://localhost:1313/paso-waste/modal/residential-rates/</link>
       <pubDate>Mon, 13 Jul 2015 22:53:48 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/modal/residential-rates/</guid>
+      <guid>http://localhost:1313/paso-waste/modal/residential-rates/</guid>
       <description>
 
 &lt;h3 id=&#34;city-surcharge:8c98d231de80e66058b81f079909386f&#34;&gt;City Surcharge&lt;/h3&gt;
@@ -45,10 +45,10 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
     <item>
       <title>commercial rates</title>
-      <link>https://edisoncode.github.io/paso-waste/modal/commercial-rates/</link>
+      <link>http://localhost:1313/paso-waste/modal/commercial-rates/</link>
       <pubDate>Mon, 13 Jul 2015 17:29:59 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/modal/commercial-rates/</guid>
+      <guid>http://localhost:1313/paso-waste/modal/commercial-rates/</guid>
       <description>
 
 &lt;h5 id=&#34;commercial-rates:4ddcafe8b53a1d16ff2415b5073a8de1&#34;&gt;Commercial Rates&lt;/h5&gt;
@@ -288,10 +288,10 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
     <item>
       <title>contact</title>
-      <link>https://edisoncode.github.io/paso-waste/sidebar/contact/</link>
+      <link>http://localhost:1313/paso-waste/sidebar/contact/</link>
       <pubDate>Mon, 13 Jul 2015 10:06:50 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/sidebar/contact/</guid>
+      <guid>http://localhost:1313/paso-waste/sidebar/contact/</guid>
       <description>
 
 &lt;h2 id=&#34;resources:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Resources&lt;/h2&gt;
@@ -349,10 +349,10 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
     <item>
       <title>about</title>
-      <link>https://edisoncode.github.io/paso-waste/sidebar/about/</link>
+      <link>http://localhost:1313/paso-waste/sidebar/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/sidebar/about/</guid>
+      <guid>http://localhost:1313/paso-waste/sidebar/about/</guid>
       <description>
 
 &lt;h2 id=&#34;sidebar:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Sidebar&lt;/h2&gt;
@@ -361,10 +361,10 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
     <item>
       <title>Residential</title>
-      <link>https://edisoncode.github.io/paso-waste/service/residential/</link>
+      <link>http://localhost:1313/paso-waste/service/residential/</link>
       <pubDate>Fri, 10 Jul 2015 09:27:37 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/service/residential/</guid>
+      <guid>http://localhost:1313/paso-waste/service/residential/</guid>
       <description>
 
 &lt;h2 id=&#34;service:8bb510895c15cdb2b4b1952437a3c932&#34;&gt;Service&lt;/h2&gt;
@@ -439,7 +439,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;p&gt;To view current rates, please &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f&#34;&gt;sign up / log in&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary btn-lg&#34; data-toggle=&#34;modal&#34; data-target=&#34;#rateModal&#34; href=&#34;https://edisoncode.github.io/paso-waste/modal/residential-rates/&#34;&gt;
+&lt;p&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary btn-lg&#34; data-toggle=&#34;modal&#34; data-target=&#34;#rateModal&#34; href=&#34;http://localhost:1313/paso-waste/modal/residential-rates/&#34;&gt;
       Additional Information
 &lt;/button&gt;
 &lt;div class=&#34;modal fade&#34; id=&#34;rateModal&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-labelledby=&#34;myModalLabel&#34; style=&#34;display: none;&#34; aria-hidden=&#34;true&#34;&gt;
@@ -573,7 +573,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/2015cleanup_map.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/2015cleanup_map.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -583,10 +583,10 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
     <item>
       <title>Commercial</title>
-      <link>https://edisoncode.github.io/paso-waste/service/commercial/</link>
+      <link>http://localhost:1313/paso-waste/service/commercial/</link>
       <pubDate>Fri, 10 Jul 2015 09:37:10 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/service/commercial/</guid>
+      <guid>http://localhost:1313/paso-waste/service/commercial/</guid>
       <description>
 
 &lt;h2 id=&#34;bin-sizes:6bb28760d9618c0b43e7f2efea3ea43c&#34;&gt;Bin Sizes&lt;/h2&gt;
@@ -661,10 +661,10 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
     <item>
       <title>Recycling</title>
-      <link>https://edisoncode.github.io/paso-waste/page/recycling/</link>
+      <link>http://localhost:1313/paso-waste/page/recycling/</link>
       <pubDate>Mon, 13 Jul 2015 09:02:05 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/page/recycling/</guid>
+      <guid>http://localhost:1313/paso-waste/page/recycling/</guid>
       <description>
 
 &lt;p&gt;&lt;a href=&#34;http://paso-waste-site.squarespace.com/s/prwaste_activity-guide_spanish.pdf&#34;&gt;&lt;strong&gt;GUÍA DE RECICLAJE EN ESPAÑOL&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
@@ -772,10 +772,10 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
     <item>
       <title>Rent A Bin</title>
-      <link>https://edisoncode.github.io/paso-waste/service/Rent-A-Bin/</link>
+      <link>http://localhost:1313/paso-waste/service/Rent-A-Bin/</link>
       <pubDate>Fri, 10 Jul 2015 12:51:38 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/service/Rent-A-Bin/</guid>
+      <guid>http://localhost:1313/paso-waste/service/Rent-A-Bin/</guid>
       <description>
 
 &lt;p&gt;These bins are handy anytime you are doing a project that will generate a larger volume of trash than you can put in your automated container. Please call our office several days ahead of time to schedule your delivery as availability is limited.&lt;/p&gt;
@@ -807,19 +807,19 @@ Some foooooooter content!&lt;/p&gt;
     
     <item>
       <title>Roll-Off</title>
-      <link>https://edisoncode.github.io/paso-waste/service/rolloff/</link>
+      <link>http://localhost:1313/paso-waste/service/rolloff/</link>
       <pubDate>Mon, 13 Jul 2015 09:02:13 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/service/rolloff/</guid>
+      <guid>http://localhost:1313/paso-waste/service/rolloff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FAQs</title>
-      <link>https://edisoncode.github.io/paso-waste/page/faq/</link>
+      <link>http://localhost:1313/paso-waste/page/faq/</link>
       <pubDate>Mon, 13 Jul 2015 09:02:55 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/page/faq/</guid>
+      <guid>http://localhost:1313/paso-waste/page/faq/</guid>
       <description>
 
 &lt;h2 id=&#34;service-questions:4a1318da06786ac52626178ca960109e&#34;&gt;Service Questions&lt;/h2&gt;
@@ -852,10 +852,10 @@ Some foooooooter content!&lt;/p&gt;
     
     <item>
       <title>About</title>
-      <link>https://edisoncode.github.io/paso-waste/page/about/</link>
+      <link>http://localhost:1313/paso-waste/page/about/</link>
       <pubDate>Mon, 13 Jul 2015 09:03:00 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/page/about/</guid>
+      <guid>http://localhost:1313/paso-waste/page/about/</guid>
       <description>
 
 &lt;h2 id=&#34;mission-statement:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Mission Statement&lt;/h2&gt;
@@ -959,10 +959,10 @@ Some foooooooter content!&lt;/p&gt;
     
     <item>
       <title>Contact</title>
-      <link>https://edisoncode.github.io/paso-waste/page/contact/</link>
+      <link>http://localhost:1313/paso-waste/page/contact/</link>
       <pubDate>Mon, 13 Jul 2015 09:03:05 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/page/contact/</guid>
+      <guid>http://localhost:1313/paso-waste/page/contact/</guid>
       <description>
 
 &lt;div class=&#34;sqs-block map-block sqs-block-map&#34; data-aspect-ratio=&#34;53.49887133182844&#34; data-block-json=&#34;{&amp;quot;location&amp;quot;:{&amp;quot;mapLat&amp;quot;:35.6452094,&amp;quot;mapLng&amp;quot;:-120.65458969999997,&amp;quot;mapZoom&amp;quot;:12,&amp;quot;markerLat&amp;quot;:35.6452094,&amp;quot;markerLng&amp;quot;:-120.65458969999997,&amp;quot;addressLine1&amp;quot;:&amp;quot;2951 Wallace Dr&amp;quot;,&amp;quot;addressLine2&amp;quot;:&amp;quot;Paso Robles, CA, 93446&amp;quot;,&amp;quot;addressCountry&amp;quot;:&amp;quot;United States&amp;quot;,&amp;quot;addressTitle&amp;quot;:&amp;quot;Paso Waste &amp;amp; Recycle&amp;quot;},&amp;quot;vSize&amp;quot;:null,&amp;quot;style&amp;quot;:1,&amp;quot;labels&amp;quot;:true,&amp;quot;terrain&amp;quot;:false,&amp;quot;controls&amp;quot;:true,&amp;quot;hSize&amp;quot;:null,&amp;quot;floatDir&amp;quot;:null,&amp;quot;aspectRatio&amp;quot;:53.49887133182844}&#34; data-block-type=&#34;4&#34; id=&#34;block-yui_3_17_2_4_1435618061132_9315&#34;&gt;&lt;div class=&#34;sqs-block-content sqs-intrinsic page-map&#34; id=&#34;yui_3_17_2_1_1436806105753_188&#34; style=&#34;padding-bottom: 53.49887133182844%; position: relative; background-color: rgb(229, 227, 223); overflow: hidden; -webkit-transform: translateZ(0px);&#34;&gt;&lt;div class=&#34;gm-style&#34; style=&#34;position: absolute; left: 0px; top: 0px; overflow: hidden; width: 100%; height: 100%; z-index: 0;&#34; id=&#34;yui_3_17_2_1_1436806105753_271&#34;&gt;&lt;div style=&#34;position: absolute; left: 0px; top: 0px; overflow: hidden; width: 100%; height: 100%; z-index: 0; cursor: url(http://maps.gstatic.com/mapfiles/openhand_8_8.cur) 8 8, default;&#34; id=&#34;yui_3_17_2_1_1436806105753_270&#34;&gt;&lt;div style=&#34;position: absolute; left: 0px; top: 0px; z-index: 1; width: 100%; -webkit-transform-origin: 0px 0px; -webkit-transform: matrix(1, 0, 0, 1, 0, 0);&#34;&gt;&lt;div style=&#34;-webkit-transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 100; width: 100%;&#34;&gt;&lt;div style=&#34;position: absolute; left: 0px; top: 0px; z-index: 0;&#34;&gt;&lt;div aria-hidden=&#34;true&#34; style=&#34;position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;&#34;&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 164px; top: 11px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: -92px; top: 11px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 164px; top: -245px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 164px; top: 267px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 420px; top: 11px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: -92px; top: -245px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: -92px; top: 267px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 420px; top: -245px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 420px; top: 267px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;-webkit-transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 101; width: 100%;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;-webkit-transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 102; width: 100%;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;-webkit-transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 103; width: 100%;&#34;&gt;&lt;div style=&#34;position: absolute; left: 0px; top: 0px; z-index: -1;&#34;&gt;&lt;div aria-hidden=&#34;true&#34; style=&#34;position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;&#34;&gt;&lt;div style=&#34;width: 256px; height: 256px; overflow: hidden; -webkit-transform: translateZ(0px); position: absolute; left: 164px; top: 11px;&#34;&gt;&lt;canvas draggable=&#34;false&#34; height=&#34;256&#34; width=&#34;256&#34; style=&#34;-webkit-user-select: none; position: absolute; left: 0px; top: 0px; height: 256px; width: 256px;&#34;&gt;&lt;/canvas&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; overflow: hidden; -webkit-transform: translateZ(0px); position: absolute; left: -92px; top: 11px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; overflow: hidden; -webkit-transform: translateZ(0px); position: absolute; left: 164px; top: -245px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; overflow: hidden; -webkit-transform: translateZ(0px); position: absolute; left: 164px; top: 267px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; overflow: hidden; -webkit-transform: translateZ(0px); position: absolute; left: 420px; top: 11px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; overflow: hidden; -webkit-transform: translateZ(0px); position: absolute; left: -92px; top: -245px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; overflow: hidden; -webkit-transform: translateZ(0px); position: absolute; left: -92px; top: 267px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; overflow: hidden; -webkit-transform: translateZ(0px); position: absolute; left: 420px; top: -245px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; overflow: hidden; -webkit-transform: translateZ(0px); position: absolute; left: 420px; top: 267px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;position: absolute; z-index: 0; -webkit-transform: translateZ(0px); left: 0px; top: 0px;&#34;&gt;&lt;div style=&#34;overflow: hidden;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;position: absolute; left: 0px; top: 0px; z-index: 0;&#34;&gt;&lt;div aria-hidden=&#34;true&#34; style=&#34;position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;&#34;&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 164px; top: 11px; opacity: 1; transition: opacity 200ms ease-out; -webkit-transition: opacity 200ms ease-out;&#34;&gt;&lt;img src=&#34;http://mt1.googleapis.com/vt?pb=!1m4!1m3!1i12!2i675!3i1613!2m3!1e0!2sm!3i310112778!3m14!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0&#34; draggable=&#34;false&#34; style=&#34;width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: -92px; top: 11px; opacity: 1; transition: opacity 200ms ease-out; -webkit-transition: opacity 200ms ease-out;&#34;&gt;&lt;img src=&#34;http://mt0.googleapis.com/vt?pb=!1m4!1m3!1i12!2i674!3i1613!2m3!1e0!2sm!3i310112778!3m14!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0&#34; draggable=&#34;false&#34; style=&#34;width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 164px; top: -245px; opacity: 1; transition: opacity 200ms ease-out; -webkit-transition: opacity 200ms ease-out;&#34;&gt;&lt;img src=&#34;http://mt1.googleapis.com/vt?pb=!1m4!1m3!1i12!2i675!3i1612!2m3!1e0!2sm!3i310112778!3m14!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0&#34; draggable=&#34;false&#34; style=&#34;width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 164px; top: 267px; opacity: 1; transition: opacity 200ms ease-out; -webkit-transition: opacity 200ms ease-out;&#34;&gt;&lt;img src=&#34;http://mt1.googleapis.com/vt?pb=!1m4!1m3!1i12!2i675!3i1614!2m3!1e0!2sm!3i310113497!3m14!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0&#34; draggable=&#34;false&#34; style=&#34;width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 420px; top: 11px; opacity: 1; transition: opacity 200ms ease-out; -webkit-transition: opacity 200ms ease-out;&#34;&gt;&lt;img src=&#34;http://mt0.googleapis.com/vt?pb=!1m4!1m3!1i12!2i676!3i1613!2m3!1e0!2sm!3i310112778!3m14!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0&#34; draggable=&#34;false&#34; style=&#34;width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: -92px; top: -245px; opacity: 1; transition: opacity 200ms ease-out; -webkit-transition: opacity 200ms ease-out;&#34;&gt;&lt;img src=&#34;http://mt0.googleapis.com/vt?pb=!1m4!1m3!1i12!2i674!3i1612!2m3!1e0!2sm!3i310112778!3m14!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0&#34; draggable=&#34;false&#34; style=&#34;width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: -92px; top: 267px; opacity: 1; transition: opacity 200ms ease-out; -webkit-transition: opacity 200ms ease-out;&#34;&gt;&lt;img src=&#34;http://mt0.googleapis.com/vt?pb=!1m4!1m3!1i12!2i674!3i1614!2m3!1e0!2sm!3i310113497!3m14!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0&#34; draggable=&#34;false&#34; style=&#34;width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 420px; top: -245px; opacity: 1; transition: opacity 200ms ease-out; -webkit-transition: opacity 200ms ease-out;&#34;&gt;&lt;img src=&#34;http://mt0.googleapis.com/vt?pb=!1m4!1m3!1i12!2i676!3i1612!2m3!1e0!2sm!3i310112778!3m14!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0&#34; draggable=&#34;false&#34; style=&#34;width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 256px; height: 256px; -webkit-transform: translateZ(0px); position: absolute; left: 420px; top: 267px; opacity: 1; transition: opacity 200ms ease-out; -webkit-transition: opacity 200ms ease-out;&#34;&gt;&lt;img src=&#34;http://mt0.googleapis.com/vt?pb=!1m4!1m3!1i12!2i676!3i1614!2m3!1e0!2sm!3i310113497!3m14!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0&#34; draggable=&#34;false&#34; style=&#34;width: 256px; height: 256px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;position: absolute; left: 0px; top: 0px; z-index: 2; width: 100%; height: 100%;&#34; id=&#34;yui_3_17_2_1_1436806105753_269&#34;&gt;&lt;/div&gt;&lt;div style=&#34;position: absolute; left: 0px; top: 0px; z-index: 3; width: 100%; -webkit-transform-origin: 0px 0px; -webkit-transform: matrix(1, 0, 0, 1, 0, 0);&#34;&gt;&lt;div style=&#34;-webkit-transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 104; width: 100%;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;-webkit-transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 105; width: 100%;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;-webkit-transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 106; width: 100%;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;-webkit-transform: translateZ(0px); position: absolute; left: 0px; top: 0px; z-index: 107; width: 100%;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;margin-left: 5px; margin-right: 5px; z-index: 1000000; position: absolute; left: 0px; bottom: 0px;&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://maps.google.com/maps?ll=35.645209,-120.65459&amp;amp;z=12&amp;amp;t=m&amp;amp;hl=en-US&amp;amp;gl=US&amp;amp;mapclient=apiv3&#34; title=&#34;Click to see this area on Google Maps&#34; style=&#34;position: static; overflow: visible; float: none; display: inline;&#34;&gt;&lt;div style=&#34;width: 62px; height: 26px; cursor: pointer;&#34;&gt;&lt;img src=&#34;http://maps.gstatic.com/mapfiles/api-3/images/google_white2.png&#34; draggable=&#34;false&#34; style=&#34;position: absolute; left: 0px; top: 0px; width: 62px; height: 26px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;&#34;&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;gmnoprint&#34; style=&#34;z-index: 1000001; position: absolute; right: 266px; bottom: 0px; width: 55px;&#34;&gt;&lt;div draggable=&#34;false&#34; class=&#34;gm-style-cc&#34; style=&#34;-webkit-user-select: none;&#34;&gt;&lt;div style=&#34;opacity: 0.7; width: 100%; height: 100%; position: absolute;&#34;&gt;&lt;div style=&#34;width: 1px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right;&#34;&gt;&lt;a style=&#34;color: rgb(68, 68, 68); text-decoration: none; cursor: pointer;&#34;&gt;Map Data&lt;/a&gt;&lt;span style=&#34;display: none;&#34;&gt;Map data ©2015 Google&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;background-color: white; padding: 15px 21px; border: 1px solid rgb(171, 171, 171); font-family: Roboto, Arial, sans-serif; color: rgb(34, 34, 34); -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 16px; box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 16px; z-index: 10000002; display: none; width: 256px; height: 148px; position: absolute; left: 71px; top: 28px;&#34;&gt;&lt;div style=&#34;padding: 0px 0px 10px; font-size: 16px;&#34;&gt;Map Data&lt;/div&gt;&lt;div style=&#34;font-size: 13px;&#34;&gt;Map data ©2015 Google&lt;/div&gt;&lt;div style=&#34;width: 13px; height: 13px; overflow: hidden; position: absolute; opacity: 0.7; right: 12px; top: 12px; z-index: 10000; cursor: pointer;&#34;&gt;&lt;img src=&#34;http://maps.gstatic.com/mapfiles/api-3/images/mapcnt6.png&#34; draggable=&#34;false&#34; style=&#34;position: absolute; left: -2px; top: -336px; width: 59px; height: 492px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;gmnoscreen&#34; style=&#34;position: absolute; right: 0px; bottom: 0px;&#34;&gt;&lt;div style=&#34;font-family: Roboto, Arial, sans-serif; font-size: 11px; color: rgb(68, 68, 68); direction: ltr; text-align: right; background-color: rgb(245, 245, 245);&#34;&gt;Map data ©2015 Google&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;gmnoprint gm-style-cc&#34; draggable=&#34;false&#34; style=&#34;z-index: 1000001; position: absolute; -webkit-user-select: none; right: 95px; bottom: 0px;&#34;&gt;&lt;div style=&#34;opacity: 0.7; width: 100%; height: 100%; position: absolute;&#34;&gt;&lt;div style=&#34;width: 1px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right;&#34;&gt;&lt;a href=&#34;https://www.google.com/intl/en-US_US/help/terms_maps.html&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none; cursor: pointer; color: rgb(68, 68, 68);&#34;&gt;Terms of Use&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div draggable=&#34;false&#34; class=&#34;gm-style-cc&#34; style=&#34;-webkit-user-select: none; position: absolute; right: 0px; bottom: 0px;&#34;&gt;&lt;div style=&#34;opacity: 0.7; width: 100%; height: 100%; position: absolute;&#34;&gt;&lt;div style=&#34;width: 1px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right;&#34;&gt;&lt;a target=&#34;_new&#34; title=&#34;Report errors in the road map or imagery to Google&#34; href=&#34;https://www.google.com/maps/@35.6452094,-120.6545897,12z/data=!10m1!1e1!12b1?source=apiv3&amp;amp;rapsrc=apiv3&#34; style=&#34;font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); text-decoration: none; position: relative;&#34;&gt;Report a map error&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;gmnoprint&#34; draggable=&#34;false&#34; controlwidth=&#34;78&#34; controlheight=&#34;124&#34; style=&#34;margin: 5px; -webkit-user-select: none; position: absolute; left: 0px; top: 0px;&#34;&gt;&lt;div class=&#34;gmnoprint&#34; controlwidth=&#34;78&#34; controlheight=&#34;80&#34; style=&#34;cursor: url(http://maps.gstatic.com/mapfiles/openhand_8_8.cur) 8 8, default; width: 78px; height: 78px; position: absolute; left: 0px; top: 0px;&#34;&gt;&lt;div class=&#34;gmnoprint&#34; controlwidth=&#34;78&#34; controlheight=&#34;80&#34; style=&#34;width: 78px; height: 78px; position: absolute; left: 0px; top: 0px;&#34;&gt;&lt;div style=&#34;visibility: hidden;&#34;&gt;&lt;svg version=&#34;1.1&#34; overflow=&#34;hidden&#34; width=&#34;78px&#34; style=&#34;position: absolute; left: 0px; top: 0px;&#34; height=&#34;78px&#34; viewBox=&#34;0 0 78 78&#34;&gt;&lt;circle cx=&#34;39&#34; cy=&#34;39&#34; r=&#34;35&#34; stroke-width=&#34;3&#34; fill-opacity=&#34;0.2&#34; fill=&#34;#f2f4f6&#34; stroke=&#34;#f2f4f6&#34;&gt;&lt;/circle&gt;&lt;g transform=&#34;rotate(0 39 39)&#34;&gt;&lt;rect x=&#34;33&#34; y=&#34;0&#34; rx=&#34;4&#34; ry=&#34;4&#34; width=&#34;12&#34; height=&#34;11&#34; stroke=&#34;#a6a6a6&#34; stroke-width=&#34;1&#34; fill=&#34;#f2f4f6&#34;&gt;&lt;/rect&gt;&lt;polyline points=&#34;36.5,8.5 36.5,2.5 41.5,8.5 41.5,2.5&#34; stroke-linejoin=&#34;bevel&#34; stroke-width=&#34;1.5&#34; fill=&#34;#f2f4f6&#34; stroke=&#34;#000&#34;&gt;&lt;/polyline&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;gmnoprint&#34; controlwidth=&#34;59&#34; controlheight=&#34;59&#34; style=&#34;position: absolute; left: 10px; top: 11px;&#34;&gt;&lt;div style=&#34;width: 59px; height: 59px; overflow: hidden; position: relative;&#34;&gt;&lt;img src=&#34;http://maps.gstatic.com/mapfiles/api-3/images/mapcnt6.png&#34; draggable=&#34;false&#34; style=&#34;position: absolute; left: 0px; top: 0px; width: 59px; height: 492px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;&#34;&gt;&lt;div title=&#34;Pan left&#34; style=&#34;position: absolute; left: 0px; top: 20px; width: 19.666666666666668px; height: 19.666666666666668px; cursor: pointer;&#34;&gt;&lt;/div&gt;&lt;div title=&#34;Pan right&#34; style=&#34;position: absolute; left: 39px; top: 20px; width: 19.666666666666668px; height: 19.666666666666668px; cursor: pointer;&#34;&gt;&lt;/div&gt;&lt;div title=&#34;Pan up&#34; style=&#34;position: absolute; left: 20px; top: 0px; width: 19.666666666666668px; height: 19.666666666666668px; cursor: pointer;&#34;&gt;&lt;/div&gt;&lt;div title=&#34;Pan down&#34; style=&#34;position: absolute; left: 20px; top: 39px; width: 19.666666666666668px; height: 19.666666666666668px; cursor: pointer;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;gmnoprint&#34; controlwidth=&#34;20&#34; controlheight=&#34;39&#34; style=&#34;position: absolute; left: 29px; top: 85px;&#34;&gt;&lt;div style=&#34;width: 20px; height: 39px; overflow: hidden; position: absolute;&#34;&gt;&lt;img src=&#34;http://maps.gstatic.com/mapfiles/api-3/images/mapcnt6.png&#34; draggable=&#34;false&#34; style=&#34;position: absolute; left: -39px; top: -401px; width: 59px; height: 492px; -webkit-user-select: none; border: 0px; padding: 0px; margin: 0px;&#34;&gt;&lt;/div&gt;&lt;div title=&#34;Zoom in&#34; style=&#34;position: absolute; left: 0px; top: 2px; width: 20px; height: 17px; cursor: pointer;&#34;&gt;&lt;/div&gt;&lt;div title=&#34;Zoom out&#34; style=&#34;position: absolute; left: 0px; top: 19px; width: 20px; height: 17px; cursor: pointer;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div draggable=&#34;false&#34; class=&#34;gm-style-cc&#34; style=&#34;-webkit-user-select: none; position: absolute; right: 166px; bottom: 0px;&#34;&gt;&lt;div style=&#34;opacity: 0.7; width: 100%; height: 100%; position: absolute;&#34;&gt;&lt;div style=&#34;width: 1px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right;&#34;&gt;&lt;span&gt;2 km&amp;nbsp;&lt;/span&gt;&lt;div style=&#34;position: relative; display: inline-block; height: 8px; bottom: -1px; width: 64px;&#34;&gt;&lt;div style=&#34;width: 100%; height: 4px; position: absolute; background-color: rgb(255, 255, 255); bottom: 0px; left: 0px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;position: absolute; left: 0px; top: 0px; width: 4px; height: 8px; background-color: rgb(255, 255, 255);&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 4px; height: 8px; position: absolute; background-color: rgb(255, 255, 255); bottom: 0px; right: 0px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;position: absolute; background-color: rgb(102, 102, 102); height: 2px; bottom: 1px; right: 1px; left: 1px;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;position: absolute; left: 1px; top: 1px; width: 2px; height: 6px; background-color: rgb(102, 102, 102);&#34;&gt;&lt;/div&gt;&lt;div style=&#34;width: 2px; height: 6px; position: absolute; background-color: rgb(102, 102, 102); bottom: 1px; right: 1px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
