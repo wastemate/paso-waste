@@ -266,10 +266,6 @@ a:hover {
 
 
 /* INSIDE GREEN BAR */
-#collection-55336c39e4b062ec5810e6f1 .carts img {
-  width: 100%;
-}
-
 .wastemate-inner-nav h1 {
   font-size: 40px;
   font-weight: 300;
@@ -277,17 +273,27 @@ a:hover {
   margin-top: 0px;
 }
 
-.wastemate-inner-nav .container	.lob{
+.wastemate-inner-nav .container	.lob	{
   font-size: 1.7em;
 	color: #fff;
 	line-height: 1.3em;
 	font-weight: 300;
 }
 
+.wastemate-inner-nav .container .lob .icon {
+	float: left;
+	margin-right: 20px;
+}
+
+.wastemate-inner-nav .container .lob .title {
+	overflow:hidden;
+}
+
 .wastemate-inner-nav .container .lob a {
 	color: #fff;
 	text-decoration: underline;
 }
+
 
 .wastemate-inner-nav .nav-col-1 a:hover,
 .wastemate-inner-nav .nav-col-2 a:hover {
