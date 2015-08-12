@@ -602,6 +602,13 @@ table.christmas-week td {
 		.col-md-3.wastemate-hero-signup-form	{
 			width: 33%;
 		}
+
+		.wastemate-inner-nav .container .lob .icon {
+			display: none;
+		}
+
+
+
 }
 
 
@@ -654,7 +661,6 @@ table.christmas-week td {
 			padding: 0 15px;
 		}
 
-		.wastemate-inner-nav .carts,
 		.wastemate-inner-nav .nav-col-1,
 		.wastemate-inner-nav .nav-col-2	{
 			display: none;
