@@ -477,7 +477,6 @@ main ol li ul li
 }
 
 .footer	{
-  height: 130px;
   background-color:#a7a9ab;
   color:#fff;
   box-shadow: inset 0px 7px 10px -1px rgba(0,0,0,.2);
@@ -506,12 +505,6 @@ table.christmas-week td {
 	font-weight: 400;
 	vertical-align: top;
 }
-
-
-
-
-
-
 
 @media (max-width: 1200px) {
 
