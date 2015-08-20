@@ -58,7 +58,10 @@ a:hover {
 .navbar-nav > li.active > a {
   border-radius: 0px;
   padding-bottom: 8px;
-  border-bottom: 2px solid #6cb344;
+}
+
+.navbar-nav > li.active > a span {
+  border-bottom: 1px solid #6cb33e;
 }
 
 .navbar-nav > li > a.btn-nav-exteral {
@@ -141,19 +144,19 @@ a:hover {
   color: #fff;
 }
 
-#heroImage.home .wastemate-hero-signup	{
-	margin-top: 25px;
-	background-color: rgba(175,175,172,.8);
-	border-radius: 10px;
-	box-shadow: 0px 0px 19px 0px rgba(0,0,0,0.75);
-}
-
 .wastemate-hero-title h1 {
   font-size: 5.7em;
   font-weight: 300;
   color: #1882c2;
   margin: 0;
   text-shadow: 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #fff, 0 0 25px #fff, 0 0 30px #fff, 0 0 35px #fff, 0 0 35px #fff, 0 0 40px #fff;
+}
+
+.wastemate-hero-signup	{
+	margin-top: 25px;
+	background-color: rgba(175,175,172,.8);
+	border-radius: 10px;
+	box-shadow: 0px 0px 19px 0px rgba(0,0,0,0.75);
 }
 
 .wastemate-hero-signup-title	{
@@ -217,30 +220,6 @@ a:hover {
 }
 
 
-
-
-
-
-/* HOMEPAGE GREEN BAR */
-
-.wastemate-inner-nav {
-  color:#fff;
-	padding: 40px 0;
-	background: #6cb344; /* Old browsers */
-	background-image: linear-gradient(40deg, #6cb344, #378c42);
-}
-
-
-.wastemate-page-description {
-  max-width: 850px;
-  font-size: 2.4em;
-  font-weight: 300;
-  line-height: 1.32em;
-}
-
-
-
-
 /* HOMEPAGE ROW OF BINS */
 .wastemate-landing-nav-contianer {
   padding:0;
@@ -255,9 +234,9 @@ a:hover {
 }
 
 .wastemate-landing-thumb .helper {
-    display: inline-block;
-    height: 100%;
-    vertical-align: middle;
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
 }
 
 .wastemate-landing-thumb img	{
@@ -281,62 +260,89 @@ a:hover {
 }
 
 
+/* GREEN BAR */
 
+.inner-nav {
+  color:#fff;
+	height: 190px;
+	background: #6cb344; /* Old browsers */
+	background-image: linear-gradient(40deg, #6cb344, #378c42);
+	display: table;
+	width: 100%;
+}
 
-/* INSIDE GREEN BAR */
-.wastemate-inner-nav h1 {
+.inner-nav .float-middle {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.inner-nav .site-summary {
+  max-width: 850px;
+  font-size: 2.4em;
+  font-weight: 300;
+  line-height: 1.32em;
+	text-align: center;
+}
+
+.inner-nav h1 {
   font-size: 40px;
   font-weight: 300;
   margin-bottom: 5px;
   margin-top: 0px;
 }
 
-.wastemate-inner-nav .container	.lob	{
-  font-size: 1.7em;
+.inner-nav .container	.lob	{
+  font-size: 1.6em;
 	color: #fff;
 	line-height: 1.3em;
 	font-weight: 300;
 }
 
-.wastemate-inner-nav .container .lob .icon {
+.inner-nav .container .lob .icon {
 	float: left;
 	margin-right: 20px;
 }
 
-.wastemate-inner-nav .container .lob .title {
+.inner-nav .container .lob .title {
 	overflow:hidden;
 }
 
-.wastemate-inner-nav .container .lob a {
+.inner-nav .container .lob a {
 	color: #fff;
 	text-decoration: underline;
 }
 
-
-.wastemate-inner-nav .nav-col-1 a:hover,
-.wastemate-inner-nav .nav-col-2 a:hover {
+.inner-nav .nav-col-1 a:hover,
+.inner-nav .nav-col-2 a:hover {
 	text-decoration: none;
 }
 
-.wastemate-inner-nav .container ul {
+.inner-nav .container ul {
 	border-left: 1px #3b7b3f solid;
   padding: 5px 0 5px 10px;
   margin: 0;
 }
 
-.wastemate-inner-nav .container ul li {
+.inner-nav .container ul li {
   list-style: none;
   margin-left: 0;
   margin-bottom: 5px;
   text-transform: uppercase;
 }
 
-.wastemate-inner-nav .container li a {
+.inner-nav .container li a {
   font-size: 1.7em;
 	color: #fff;
 	line-height: 1.3em;
 	font-weight: 400;
 }
+
+
+.sidebar	{
+	background: #e1f3f4;
+	border-radius: 10px;
+}
+
 
 
 
@@ -381,26 +387,26 @@ main	ol li ul li,
 	font-weight: 400;
 }
 
-main	ol li ul li {
-  font-size: .92em;
+main	ol li ul li,
+main	ol li p {
+  font-size: 1em;
 }
 
 main	h3,
 .sidebar h3 {
 	text-transform: uppercase;
-	color: #0081c6;
+	color: #6cb33e;
 	font-weight: 700;
 	margin-bottom: 10;
 }
 
+.sidebar h3	{
+	color: #58595b;
+}
+
 main ul li,
 main ol li,
-main ol + ul li,
-.sidebar ul li,
-.sidebar ol li,
-.sidebar ol + ul li,
-.sqs-block-content ul li,
-.sqs-block-content ol li	{
+main ol + ul li	{
   margin-left: 16px !important;
 }
 
@@ -415,6 +421,15 @@ main ol li ul li
   list-style: disc;
 }
 
+.sidebar ul	{
+  padding-left: 20px;
+}
+
+.sidebar ul li	{
+  list-style: none;
+  padding-left: 0;
+}
+
 .markdown-block ol li	{
 	font-weight: 700;
 }
@@ -424,13 +439,17 @@ main ol li ul li
 }
 
 
-
+.btn-primary	{
+	background-color: #fff;
+  border-color: #6cb33e;
+  color: #58595b;
+	font-size: 1em;
+}
 
 /* Overrides different inlines styles between FF and Chrome */
 .index-section-image img.loaded	{
 	top: 0 !important;
 	width: 100% !important;
-
 }
 
 .center {
@@ -443,27 +462,17 @@ main ol li ul li
 
 .container-content	{
 	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 .form-control {
 	height: auto;
 }
 
-
 .xmas-tree img	{
 	width: 200px;
 	float: left;
 	margin-right: 20px;
-}
-
-
-.sqs-block	{
-	padding-top: 0;
-	padding-bottom: 0;
-}
-
-.sqs-block-map	{
-	margin-bottom: 20px;
 }
 
 .banner-thumbnail-wrapper {
@@ -510,6 +519,33 @@ table.christmas-week td {
 	font-weight: 400;
 	vertical-align: top;
 }
+
+
+
+/* Modals */
+.modal-dialog	{
+
+}
+
+.modal-dialog	h4 {
+  font-size: 1.6em;
+	text-transform: uppercase;
+	color: #6cb33e;
+	font-weight: 700;
+	margin-bottom: 10;
+
+}
+
+.modal-header,
+.modal-footer	{
+	border: none;
+}
+
+.modal-body {
+  padding: 0 15px;
+}
+
+
 
 /* Footer */
 .footer	{
