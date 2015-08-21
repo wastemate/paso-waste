@@ -13,6 +13,12 @@ a:hover {
     text-decoration: none;
 }
 
+.container {
+    max-width: 1000px;
+}
+
+
+
 /* HEADER & NAVBAR */
 
 #header {
@@ -221,37 +227,36 @@ a:hover {
 
 
 /* HOMEPAGE ROW OF BINS */
-.wastemate-landing-nav-contianer {
-  padding:0;
+.landing-nav-contianer {
   text-align: center;
 }
 
-.wastemate-landing-nav {
+.landing-nav {
   padding: 30px 0;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.wastemate-landing-thumb .helper {
+.landing-thumb .helper {
   display: inline-block;
   height: 100%;
   vertical-align: middle;
 }
 
-.wastemate-landing-thumb img	{
+.landing-thumb img	{
   vertical-align: middle;
   width: 100%;
 }
 
-.wastemate-landing-service {
+.landing-service {
 	padding-top: 25px;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 40px;
 }
 
-.wastemate-landing-description {
+.landing-description {
   font-size: 1.7em;
   font-weight: normal;
 	color: #58595b;
@@ -274,6 +279,10 @@ a:hover {
 .inner-nav .float-middle {
   display: table-cell;
   vertical-align: middle;
+}
+
+.inner-nav .container	{
+  padding: 0;
 }
 
 .inner-nav .site-summary {
@@ -550,7 +559,7 @@ table.christmas-week td {
 /* Footer */
 .footer	{
   background-color: #afafac;
-  padding-top: 10px;
+  padding: 10px 0 20px 0;
 }
 
 footer h2	{
@@ -597,7 +606,6 @@ footer .copyright	{
   font-weight: 600;
   color: #fff;
 }
-
 
 
 
