@@ -1,25 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on Paso Robles Waste &amp; Recycle</title>
-    <link>https://edisoncode.github.io/paso-waste/service/</link>
-    <description>Recent content in Services on Paso Robles Waste &amp; Recycle</description>
+    <title>Residentials on Paso Robles Waste &amp; Recycle</title>
+    <link>http://localhost:1313/paso-waste/residential/</link>
+    <description>Recent content in Residentials on Paso Robles Waste &amp; Recycle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2015 09:27:37 -0700</lastBuildDate>
-    <atom:link href="https://edisoncode.github.io/paso-waste/service/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Aug 2015 23:21:21 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/paso-waste/residential/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Residential</title>
-      <link>https://edisoncode.github.io/paso-waste/service/residential/</link>
-      <pubDate>Fri, 10 Jul 2015 09:27:37 -0700</pubDate>
+      <title>Service</title>
+      <link>http://localhost:1313/paso-waste/residential/service/</link>
+      <pubDate>Sun, 16 Aug 2015 23:21:21 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/service/residential/</guid>
+      <guid>http://localhost:1313/paso-waste/residential/service/</guid>
       <description>
 
 &lt;h2 id=&#34;service&#34;&gt;Service&lt;/h2&gt;
 
 &lt;p&gt;To start or change your service, please &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f&#34;&gt;sign up / log in.&lt;/a&gt; All residential accounts receive weekly automated pickup and include organic waste and commingle curbside recycling services.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Containers</title>
+      <link>http://localhost:1313/paso-waste/residential/containers/</link>
+      <pubDate>Sun, 16 Aug 2015 23:21:26 -0700</pubDate>
+      
+      <guid>http://localhost:1313/paso-waste/residential/containers/</guid>
+      <description>
 
 &lt;h2 id=&#34;containers&#34;&gt;Containers&lt;/h2&gt;
 
@@ -43,6 +53,16 @@
 &lt;li&gt;&lt;strong&gt;Place bins at curb no later than 6am on your pick-up day&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Maintain three feet of space between bins and cars&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recycling</title>
+      <link>http://localhost:1313/paso-waste/residential/recycling/</link>
+      <pubDate>Tue, 18 Aug 2015 17:07:48 -0700</pubDate>
+      
+      <guid>http://localhost:1313/paso-waste/residential/recycling/</guid>
+      <description>
 
 &lt;h2 id=&#34;recycling&#34;&gt;Recycling&lt;/h2&gt;
 
@@ -56,7 +76,7 @@
 
 &lt;p&gt;It’s easy, convenient and free. Call our office at (805) 238-2381 to schedule a pick-up of your used motor oil. We will provide you with a 15-quart capacity oil container and an oil filter bag.&lt;/p&gt;
 
-&lt;h3 id=&#34;batteries-%2f-e-waste&#34;&gt;BATTERIES AND ELECTRONIC WASTE&lt;/h3&gt;
+&lt;h3 id=&#34;batteries-&amp;-e-waste&#34;&gt;BATTERIES AND ELECTRONIC WASTE&lt;/h3&gt;
 
 &lt;p&gt;The San Luis Obispo Integrated Waste Management Authority (IWMA) had provided us with containers to accept your household batteries and electronic waste, which are located at our office. You can drop off your materials Monday–Friday, 8am–5pm.&lt;/p&gt;
 
@@ -77,13 +97,23 @@
 
 &lt;p style=&#34;margin-left:40px&#34;&gt;Rechargeable batteries are a great way to cut down on the amount of batteries that end up in our waste stream. It is possible for one rechargeable battery to do the work of hundreds of single-use batteries. Once a rechargeable battery no longer holds a charge, it is best to recycle it so that it never ends up in our landfills.&lt;/p&gt;
 
-&lt;h3 id=&#34;fluorescents&#34;&gt;FLUORESCENT LAMP AND TUBE RECYCLING&lt;/h3&gt;
+&lt;h3 id=&#34;flourescent-lamp&#34;&gt;FLUORESCENT LAMP AND TUBE RECYCLING&lt;/h3&gt;
 
 &lt;p&gt;The San Luis Obispo IWMA has provided us with containers to accept your household fluorescent lamps and tubes at our office. You can drop off your materials Monday–Friday, 8am–5pm.&lt;/p&gt;
 
 &lt;p&gt;For information about safely recycling or disposing of fluorescent lamps and tubes, visit the California Integrated Waste Management Board website, &lt;a href=&#34;http://www.calrecycle.ca.gov/&#34;&gt;CalRecycle.CA.gov.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rates &amp; Billing</title>
+      <link>http://localhost:1313/paso-waste/residential/rates/</link>
+      <pubDate>Tue, 18 Aug 2015 17:08:51 -0700</pubDate>
+      
+      <guid>http://localhost:1313/paso-waste/residential/rates/</guid>
+      <description>
 
-&lt;h2 id=&#34;rates--billing&#34;&gt;Rates &amp;amp; Billing&lt;/h2&gt;
+&lt;h2 id=&#34;rates-billing&#34;&gt;Rates &amp;amp; Billing&lt;/h2&gt;
 
 &lt;p&gt;To view your bill, please visit &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f0&#34;&gt;Pay Bill&lt;/a&gt;. Payment methods accepted are cash, check, and VISA/MasterCard. We also offer recurring monthly ACH or VISA/MasterCard payments in addition to e-Invoices.&lt;/p&gt;
 
@@ -97,10 +127,10 @@
     &lt;div class=&#34;modal-content&#34;&gt;
       &lt;div class=&#34;modal-header&#34;&gt;
         &lt;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;modal&#34; aria-label=&#34;Close&#34;&gt;&lt;span aria-hidden=&#34;true&#34;&gt;×&lt;/span&gt;&lt;/button&gt;
-        &lt;h4 class=&#34;modal-title&#34; id=&#34;myModalLabel&#34;&gt;CITY SURCHARGE&lt;/h4&gt;
+        &lt;h4 class=&#34;modal-title&#34; id=&#34;myModalLabel&#34;&gt;Rates&lt;/h4&gt;
       &lt;/div&gt;
       &lt;div class=&#34;modal-body&#34;&gt;
-            &lt;p&gt;On August 1st, 2006 the Paso Robles City Council passed resolution No. 06-142, a resolution of the City of Paso Robles approving changes to solid waste collection rates for Paso Robles Waste Disposal. The first component of the resolution addresses the solid waste collection surcharge. A portion of the cost incurred by the City of Paso Robles purchasing 53 acres adjacent to the municipal landfill is to be paid by a solid waste collection surcharge on all Paso Robles Waste Disposal customers. The implementation of the surcharge will take place on September 1st, 2006.&lt;/p&gt;
+      sdflksdj
       &lt;/div&gt;
       &lt;div class=&#34;modal-footer&#34;&gt;
         &lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34; data-dismiss=&#34;modal&#34;&gt;Close&lt;/button&gt;
@@ -108,6 +138,16 @@
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Extra Services</title>
+      <link>http://localhost:1313/paso-waste/residential/extras/</link>
+      <pubDate>Tue, 18 Aug 2015 17:08:57 -0700</pubDate>
+      
+      <guid>http://localhost:1313/paso-waste/residential/extras/</guid>
+      <description>
 
 &lt;h2 id=&#34;extra-services&#34;&gt;Extra Services&lt;/h2&gt;
 
@@ -126,6 +166,16 @@
 &lt;h3 id=&#34;bulky-items&#34;&gt;BULKY ITEMS&lt;/h3&gt;
 
 &lt;p&gt;We can collect bulky items. Please call our office at (805) 238-2381 for an estimate. Bulky items include appliances, furniture, mattresses, any over-sized item that will not fit into your container. Read below for more information about our annual Clean-Up Week for bulky items.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Holiday Schedule</title>
+      <link>http://localhost:1313/paso-waste/residential/holiday/</link>
+      <pubDate>Tue, 18 Aug 2015 17:09:03 -0700</pubDate>
+      
+      <guid>http://localhost:1313/paso-waste/residential/holiday/</guid>
+      <description>
 
 &lt;h2 id=&#34;holiday-schedule&#34;&gt;Holiday Schedule&lt;/h2&gt;
 
@@ -198,7 +248,7 @@
 &lt;p&gt;
 &lt;figure class=&#34;xmas-tree&#34;&gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/xmas-tree-pickup.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/xmas-tree-pickup.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -217,6 +267,16 @@
 &lt;li&gt;We won’t accept flocked trees for recycling (you’ll need to cut it up and place it in your trash can)&lt;/li&gt;
 &lt;li&gt;We will not collect trees with decorations or stands&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Annual Clean-Up</title>
+      <link>http://localhost:1313/paso-waste/residential/clean-up/</link>
+      <pubDate>Tue, 18 Aug 2015 17:09:11 -0700</pubDate>
+      
+      <guid>http://localhost:1313/paso-waste/residential/clean-up/</guid>
+      <description>
 
 &lt;h2 id=&#34;annual-clean-up&#34;&gt;Annual City / Residential Clean-Up&lt;/h2&gt;
 
@@ -233,131 +293,12 @@
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/2015cleanup_map_smaller.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/2015cleanup_map_smaller.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
     
     
 &lt;/figure&gt;
 &lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Commercial</title>
-      <link>https://edisoncode.github.io/paso-waste/service/commercial/</link>
-      <pubDate>Fri, 10 Jul 2015 09:37:10 -0700</pubDate>
-      
-      <guid>https://edisoncode.github.io/paso-waste/service/commercial/</guid>
-      <description>
-
-&lt;h2 id=&#34;for-business&#34;&gt;For Business&lt;/h2&gt;
-
-&lt;p&gt;Something awesome to say about how businesses &amp;lt;3 commercial services&lt;/p&gt;
-
-&lt;h2 id=&#34;bin-sizes&#34;&gt;Bin Sizes&lt;/h2&gt;
-
-&lt;p&gt;You can choose from the following container sizes: 1.5-yard, 2-yard, 3-yard, and 4-yard.&lt;/p&gt;
-
-&lt;h2 id=&#34;rates&#34;&gt;Rates&lt;/h2&gt;
-
-&lt;p&gt;To view current service rates please &lt;a href=&#34;service/commercial#modal-address&#34;&gt;sign up for service&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;service-frequency&#34;&gt;Service Frequency&lt;/h2&gt;
-
-&lt;p&gt;You may choose to have your containers emptied from once to six times per week. Saturday service is only available on 3 and 4-yard containers.&lt;/p&gt;
-
-&lt;h2 id=&#34;recycling&#34;&gt;Recycling&lt;/h2&gt;
-
-&lt;p&gt;We have three main recycling programs all of which are available to our customers at no additional charge.&lt;/p&gt;
-
-&lt;h3 id=&#34;why-recycle-at-your-business&#34;&gt;WHY RECYCLE AT YOUR BUSINESS?&lt;/h3&gt;
-
-&lt;p&gt;Recycling is an environmentally sound choice and it will save your business money. By effectively recycling you will be able to reduce the volume of materials that are placed in your garbage dumpster. Since our pricing structure is based on the size/frequency of only your garbage service there is an excellent economic advantage to recycling any and all materials that are recyclable.&lt;/p&gt;
-
-&lt;h3 id=&#34;what-commercial-recycling-programs-do-we-offer&#34;&gt;WHAT COMMERCIAL RECYCLING PROGRAMS DO WE OFFER?&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Commingle &amp;ldquo;single stream&amp;rdquo; recycling&lt;/p&gt;
-
-&lt;p&gt;Using this program you are able to mix all of your non-organic recyclables in a single container. This is the most efficient way for us to collect recyclables from your business because a single truck will come to service this container that may have dozens of different recyclable materials in it. All materials are transferred to a recycling processor where they are sorted for recycling.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;ve found that most businesses greatly benefit from this service. Your employees don&amp;rsquo;t need to waste time sorting materials. Also, this is the same type of recycling service that most people have at their homes and all of the same materials are accepted so educating your employees to fully participate in the recycling program at your business takes less effort.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Container sizes available&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;96-gallon automated cart&lt;/li&gt;
-&lt;li&gt;1.5-yard split-bin*&lt;/li&gt;
-&lt;li&gt;2-yard split-bin*&lt;/li&gt;
-&lt;li&gt;3-yard bin&lt;/li&gt;
-&lt;li&gt;4-yard bin&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;*1.5 and 2-yard service is provided in a split-bin and must be matched with the same size garbage service because the bin is literally split in half.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We are happy to provide your business with assistance in developing a recycling plan as well as helping you determine if your waste is recyclable.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Organics recycling (green container)&lt;/p&gt;
-
-&lt;p&gt;With this service you can recycle all of your organic recyclable materials (no food waste just yet). This is a great service if you have landscaping that is maintained at your business.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Container size available&lt;/strong&gt;: 96-gallon automated carts (we will give you several if needed)&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;container-placement&#34;&gt;Container Placement&lt;/h2&gt;
-
-&lt;p&gt;We require that your container is placed on a cement pad with easy access. Often businesses prefer to have their container placed inside of an enclosure. A representative can be sent to your location to discuss the placement of your container as well as provide you with assistance on designing either a pad or an enclosure.&lt;/p&gt;
-
-&lt;h2 id=&#34;container-cleaning&#34;&gt;Container Cleaning&lt;/h2&gt;
-
-&lt;p&gt;You can request to have you containers steam cleaned twice per year. Any additional cleanings will be billed to your account. To schedule a cleaning please &lt;a href=&#34;https://edisoncode.github.io/paso-waste/contact&#34;&gt;contact&lt;/a&gt; our office.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rent-A-Bin</title>
-      <link>https://edisoncode.github.io/paso-waste/service/Rent-A-Bin/</link>
-      <pubDate>Fri, 10 Jul 2015 12:51:38 -0700</pubDate>
-      
-      <guid>https://edisoncode.github.io/paso-waste/service/Rent-A-Bin/</guid>
-      <description>
-
-&lt;h2 id=&#34;drop-off--pick-up&#34;&gt;Drop Off &amp;amp; Pick-Up&lt;/h2&gt;
-
-&lt;p&gt;These bins are handy anytime you are doing a project that will generate a larger volume of trash than you can put in your automated container. Please call our office several days ahead of time to schedule your delivery as availability is limited.&lt;/p&gt;
-
-&lt;h2 id=&#34;bin-sizes&#34;&gt;Bin Sizes&lt;/h2&gt;
-
-&lt;p&gt;You can choose from the following container sizes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;3-yard  &lt;strong&gt;6&amp;rsquo;9&amp;rdquo; wide&lt;/strong&gt; x &lt;strong&gt;4&amp;rsquo;4&amp;rdquo; high&lt;/strong&gt; x &lt;strong&gt;4&amp;rsquo; deep&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;4-yard  &lt;strong&gt;6&amp;rsquo;9&amp;rdquo; wide&lt;/strong&gt; x &lt;strong&gt;4&amp;rsquo;4&amp;rdquo; high&lt;/strong&gt; x &lt;strong&gt;5&amp;rsquo;6&amp;rdquo; deep&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To learn more about sizes and how much waste they hold, please&lt;/p&gt;
-
-&lt;h2 id=&#34;rates&#34;&gt;Rates&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;3-yard  &lt;strong&gt;$70.64&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;4-yard  &lt;strong&gt;$84.51&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;We charge rent of $2.00 per day after the first 10 days excluding the day of delivery and removal.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;categories-of-waste&#34;&gt;Categories of Waste&lt;/h2&gt;
-
-&lt;p&gt;There are many options for&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Roll-Off</title>
-      <link>https://edisoncode.github.io/paso-waste/service/rolloff/</link>
-      <pubDate>Mon, 13 Jul 2015 09:02:13 -0700</pubDate>
-      
-      <guid>https://edisoncode.github.io/paso-waste/service/rolloff/</guid>
-      <description></description>
     </item>
     
   </channel>
