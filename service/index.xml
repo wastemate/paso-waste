@@ -17,6 +17,15 @@
       <guid>https://edisoncode.github.io/paso-waste/service/residential/</guid>
       <description>
 
+
+&lt;figure class=&#34;xmas-tree&#34;&gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/residential/landfill_cart.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
 &lt;h2 id=&#34;service&#34;&gt;Service&lt;/h2&gt;
 
 &lt;p&gt;To start or change your service, please &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f&#34;&gt;sign up / log in.&lt;/a&gt; All residential accounts receive weekly automated pickup and include organic waste and commingle curbside recycling services.&lt;/p&gt;
@@ -62,20 +71,56 @@
 
 &lt;p&gt;Batteries in the landfill present many health and environmental risks. By recycling these products, we will be cutting down on the amount of natural resources needed to produce the never-ending supply of batteries that our society has come to depend on.&lt;/p&gt;
 
-&lt;p style=&#34;margin-left:40px&#34;&gt;&lt;strong&gt;Battery Facts (www.epa.gov)&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;modal-btn&#34;&gt;
+    &lt;button type=&#34;button&#34; class=&#34;btn btn-primary btn-lg&#34; data-toggle=&#34;modal&#34; data-target=&#34;#BatteryFactsModal&#34;&gt;
+                Battery Facts
+    &lt;/button&gt;
+    &lt;div class=&#34;modal fade&#34; id=&#34;BatteryFactsModal&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-labelledby=&#34;myModalLabel&#34; aria-hidden=&#34;true&#34;&gt;
+        &lt;div class=&#34;modal-dialog&#34; role=&#34;document&#34;&gt;
+            &lt;div class=&#34;modal-content&#34;&gt;
+                &lt;div class=&#34;modal-header&#34;&gt;
+                    &lt;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;modal&#34; aria-label=&#34;Close&#34;&gt;&lt;span aria-hidden=&#34;true&#34;&gt;×&lt;/span&gt;&lt;/button&gt;
+                    &lt;h4 class=&#34;modal-title&#34; id=&#34;myModalLabel&#34;&gt;Battery Facts (www.epa.gov)&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;modal-body&#34;&gt;
+                    &lt;ol&gt;
+                        &lt;li&gt;Americans purchase nearly 3 billion dry-cell batteries every year to power radios, toys, cellular phones, watches, laptop computers, and portable power tools&lt;/li&gt;
+                        &lt;li&gt;Inside a battery, heavy metals react with chemical electrolyte to produce the battery’s power&lt;/li&gt;
+                        &lt;li&gt;Wet-cell batteries, which contain a liquid electrolyte, commonly power automobiles, boats, or motorcycles&lt;/li&gt;
+                        &lt;li&gt;Nearly 99 million wet-cell lead-acid car batteries are manufactured each year&lt;/li&gt;
+                        &lt;li&gt;Mercury was phased out of certain types of batteries in conjunction with the “Mercury-Containing and Rechargeable Battery Management Act,” passed in 1996&lt;/li&gt;
+                        &lt;li&gt;Recycling batteries keeps heavy metals out of landfills and the air. Recycling saves resources because recovered plastic and metals can be used to make new batteries&lt;/li&gt;
+                    &lt;/ol&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;modal-footer&#34;&gt;
+                    &lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34; data-dismiss=&#34;modal&#34;&gt;Close&lt;/button&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;ol&gt;
-&lt;li&gt;Americans purchase nearly 3 billion dry-cell batteries every year to power radios, toys, cellular phones, watches, laptop computers, and portable power tools&lt;/li&gt;
-&lt;li&gt;Inside a battery, heavy metals react with chemical electrolyte to produce the battery’s power&lt;/li&gt;
-&lt;li&gt;Wet-cell batteries, which contain a liquid electrolyte, commonly power automobiles, boats, or motorcycles&lt;/li&gt;
-&lt;li&gt;Nearly 99 million wet-cell lead-acid car batteries are manufactured each year&lt;/li&gt;
-&lt;li&gt;Mercury was phased out of certain types of batteries in conjunction with the “Mercury-Containing and Rechargeable Battery Management Act,” passed in 1996&lt;/li&gt;
-&lt;li&gt;Recycling batteries keeps heavy metals out of landfills and the air. Recycling saves resources because recovered plastic and metals can be used to make new batteries&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p style=&#34;margin-left:40px&#34;&gt;&lt;strong&gt;Battery Facts (www.epa.gov)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p style=&#34;margin-left:40px&#34;&gt;Rechargeable batteries are a great way to cut down on the amount of batteries that end up in our waste stream. It is possible for one rechargeable battery to do the work of hundreds of single-use batteries. Once a rechargeable battery no longer holds a charge, it is best to recycle it so that it never ends up in our landfills.&lt;/p&gt;
+&lt;div class=&#34;modal-btn&#34;&gt;
+    &lt;button type=&#34;button&#34; class=&#34;btn btn-primary btn-lg&#34; data-toggle=&#34;modal&#34; data-target=&#34;#rechargeableModal&#34;&gt;
+                Rechargeable Batteries
+    &lt;/button&gt;
+    &lt;div class=&#34;modal fade&#34; id=&#34;rechargeableModal&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-labelledby=&#34;myModalLabel&#34; aria-hidden=&#34;true&#34;&gt;
+        &lt;div class=&#34;modal-dialog&#34; role=&#34;document&#34;&gt;
+            &lt;div class=&#34;modal-content&#34;&gt;
+                &lt;div class=&#34;modal-header&#34;&gt;
+                    &lt;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;modal&#34; aria-label=&#34;Close&#34;&gt;&lt;span aria-hidden=&#34;true&#34;&gt;×&lt;/span&gt;&lt;/button&gt;
+                    &lt;h4 class=&#34;modal-title&#34; id=&#34;myModalLabel&#34;&gt;Rechargeable batteries&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;modal-body&#34;&gt;
+                    &lt;p&gt;Rechargeable batteries are a great way to cut down on the amount of batteries that end up in our waste stream. It is possible for one rechargeable battery to do the work of hundreds of single-use batteries. Once a rechargeable battery no longer holds a charge, it is best to recycle it so that it never ends up in our landfills.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;modal-footer&#34;&gt;
+                    &lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34; data-dismiss=&#34;modal&#34;&gt;Close&lt;/button&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h3 id=&#34;fluorescents&#34;&gt;FLUORESCENT LAMP AND TUBE RECYCLING&lt;/h3&gt;
 
@@ -89,25 +134,27 @@
 
 &lt;p&gt;To view current rates, please &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f&#34;&gt;sign up / log in&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-primary btn-lg&#34; data-toggle=&#34;modal&#34; data-target=&#34;#rateModal&#34;&gt;
-      Surcharges &amp;amp; Increases
-&lt;/button&gt;
-&lt;div class=&#34;modal fade&#34; id=&#34;rateModal&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-labelledby=&#34;myModalLabel&#34; aria-hidden=&#34;true&#34;&gt;
-  &lt;div class=&#34;modal-dialog&#34; role=&#34;document&#34;&gt;
-    &lt;div class=&#34;modal-content&#34;&gt;
-      &lt;div class=&#34;modal-header&#34;&gt;
-        &lt;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;modal&#34; aria-label=&#34;Close&#34;&gt;&lt;span aria-hidden=&#34;true&#34;&gt;×&lt;/span&gt;&lt;/button&gt;
-        &lt;h4 class=&#34;modal-title&#34; id=&#34;myModalLabel&#34;&gt;CITY SURCHARGE&lt;/h4&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;modal-body&#34;&gt;
-            &lt;p&gt;On August 1st, 2006 the Paso Robles City Council passed resolution No. 06-142, a resolution of the City of Paso Robles approving changes to solid waste collection rates for Paso Robles Waste Disposal. The first component of the resolution addresses the solid waste collection surcharge. A portion of the cost incurred by the City of Paso Robles purchasing 53 acres adjacent to the municipal landfill is to be paid by a solid waste collection surcharge on all Paso Robles Waste Disposal customers. The implementation of the surcharge will take place on September 1st, 2006.&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;modal-footer&#34;&gt;
-        &lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34; data-dismiss=&#34;modal&#34;&gt;Close&lt;/button&gt;
-      &lt;/div&gt;
+&lt;div class=&#34;modal-btn&#34;&gt;
+    &lt;button type=&#34;button&#34; class=&#34;btn btn-primary btn-lg&#34; data-toggle=&#34;modal&#34; data-target=&#34;#rateModal&#34;&gt;
+                Surcharges &amp; Increases
+    &lt;/button&gt;
+    &lt;div class=&#34;modal fade&#34; id=&#34;rateModal&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-labelledby=&#34;myModalLabel&#34; aria-hidden=&#34;true&#34;&gt;
+        &lt;div class=&#34;modal-dialog&#34; role=&#34;document&#34;&gt;
+            &lt;div class=&#34;modal-content&#34;&gt;
+                &lt;div class=&#34;modal-header&#34;&gt;
+                    &lt;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;modal&#34; aria-label=&#34;Close&#34;&gt;&lt;span aria-hidden=&#34;true&#34;&gt;×&lt;/span&gt;&lt;/button&gt;
+                    &lt;h4 class=&#34;modal-title&#34; id=&#34;myModalLabel&#34;&gt;CITY SURCHARGE&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;modal-body&#34;&gt;
+                    &lt;p&gt;On August 1st, 2006 the Paso Robles City Council passed resolution No. 06-142, a resolution of the City of Paso Robles approving changes to solid waste collection rates for Paso Robles Waste Disposal. The first component of the resolution addresses the solid waste collection surcharge. A portion of the cost incurred by the City of Paso Robles purchasing 53 acres adjacent to the municipal landfill is to be paid by a solid waste collection surcharge on all Paso Robles Waste Disposal customers. The implementation of the surcharge will take place on September 1st, 2006.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;modal-footer&#34;&gt;
+                    &lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34; data-dismiss=&#34;modal&#34;&gt;Close&lt;/button&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
     &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;extra-services&#34;&gt;Extra Services&lt;/h2&gt;
 
@@ -198,7 +245,7 @@
 
 &lt;figure class=&#34;xmas-tree&#34;&gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/xmas-tree-pickup.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/residential/xmas-tree-pickup.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -233,7 +280,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/2015cleanup_map_smaller.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/residential/2015cleanup_map_smaller.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -256,6 +303,49 @@
 &lt;h2 id=&#34;bin-sizes&#34;&gt;Bin Sizes&lt;/h2&gt;
 
 &lt;p&gt;You can choose from the following container sizes: 1.5-yard, 2-yard, 3-yard, and 4-yard.&lt;/p&gt;
+
+&lt;div class=&#34;clearfix&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-3&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/commercial/1.5yard_brown.png&#34; alt=&#34;Household&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;waste-categories col-md-3&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/commercial/2yard_brown.png&#34; alt=&#34;Remodel&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;waste-categories col-md-3&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/commercial/3yard_brown.png&#34; alt=&#34;Remodel&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;waste-categories col-md-3&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/commercial/4yard_brown.png&#34; alt=&#34;Remodel&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;rates&#34;&gt;Rates&lt;/h2&gt;
 
@@ -329,6 +419,29 @@
 
 &lt;p&gt;You can choose from the following container sizes:&lt;/p&gt;
 
+&lt;div class=&#34;clearfix&#34;&gt;
+&lt;div class=&#34;container-sizes col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rent-a-bin/3yard_blue.png&#34; alt=&#34;3 Yard&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;container-sizes col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rent-a-bin/4yard_blue.png&#34; alt=&#34;4 Yard&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
 &lt;ul&gt;
 &lt;li&gt;3-yard  &lt;strong&gt;6&amp;rsquo;9&amp;rdquo; wide&lt;/strong&gt; x &lt;strong&gt;4&amp;rsquo;4&amp;rdquo; high&lt;/strong&gt; x &lt;strong&gt;4&amp;rsquo; deep&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;4-yard  &lt;strong&gt;6&amp;rsquo;9&amp;rdquo; wide&lt;/strong&gt; x &lt;strong&gt;4&amp;rsquo;4&amp;rdquo; high&lt;/strong&gt; x &lt;strong&gt;5&amp;rsquo;6&amp;rdquo; deep&lt;/strong&gt;&lt;/li&gt;
@@ -348,6 +461,81 @@
 &lt;h2 id=&#34;categories-of-waste&#34;&gt;Categories of Waste&lt;/h2&gt;
 
 &lt;p&gt;There are many options for&amp;hellip;&lt;/p&gt;
+
+&lt;div class=&#34;clearfix&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rent-a-bin/household.png&#34; alt=&#34;Household&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+    &lt;h3&gt;Household Waste&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rent-a-bin/remodel.png&#34; alt=&#34;Remodel&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+    &lt;h3&gt;Remodel / Construction&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;clearfix&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rent-a-bin/roofing.png&#34; alt=&#34;Roofing&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+    &lt;h3&gt;Roofing&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rent-a-bin/sod.png&#34; alt=&#34;Sod&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+    &lt;h3&gt;Sod&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;clearfix&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rent-a-bin/concrete.png&#34; alt=&#34;Concrete&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+    &lt;h3&gt;Concrete / Brick&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rent-a-bin/other.png&#34; alt=&#34;Other&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+    &lt;h3&gt;Other&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -357,7 +545,129 @@
       <pubDate>Mon, 13 Jul 2015 09:02:13 -0700</pubDate>
       
       <guid>https://edisoncode.github.io/paso-waste/service/rolloff/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;clearfix&#34;&gt;
+&lt;div class=&#34;container-sizes col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/10yard.png&#34; alt=&#34;10 Yard&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;container-sizes col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/20yard.png&#34; alt=&#34;20 Yard&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;clearfix&#34;&gt;
+&lt;div class=&#34;container-sizes col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/30yard.png&#34; alt=&#34;30 yard&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;container-sizes col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/40yard.png&#34; alt=&#34;40 yard&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Text goes here.&lt;/p&gt;
+
+&lt;div class=&#34;clearfix&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/household.png&#34; alt=&#34;Household&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+    &lt;h3&gt;Household Waste&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/remodel.png&#34; alt=&#34;Remodel&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+    &lt;h3&gt;Remodel / Construction&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;clearfix&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/roofing.png&#34; alt=&#34;Roofing&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+    &lt;h3&gt;Roofing&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/sod.png&#34; alt=&#34;Sod&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+    &lt;h3&gt;Sod&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;clearfix&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/concrete.png&#34; alt=&#34;Concrete&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+    &lt;h3&gt;Concrete / Brick&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+    
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/other.png&#34; alt=&#34;Other&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+    &lt;h3&gt;Other&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>

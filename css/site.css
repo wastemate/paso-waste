@@ -251,17 +251,18 @@ a:hover {
 
 .landing-service {
 	padding-top: 25px;
-	font-weight: 300;
-	font-style: normal;
+	font-weight: 200;
 	font-size: 40px;
+	line-height: 1.1;
+		margin-bottom: 5px;
 }
 
 .landing-description {
-  font-size: 1.7em;
-  font-weight: normal;
+  font-size: 1.6em;
 	color: #58595b;
 	max-width: none;
 	line-height: 1.5em;
+	
 }
 
 
@@ -413,21 +414,49 @@ main	h3,
 	color: #58595b;
 }
 
-main ul li,
-main ol li,
-main ol + ul li	{
-  margin-left: 16px !important;
+main ul,
+main ol	{
+  padding-left: 20px;
 }
 
 main ol li ul,
 .sidebar ol li ul	{
   padding-left: 20px;
+  margin-bottom: 10px;
+  margin-left: 30px;
 }
 
 main ol li ul li
 .sidebar ol li ul li	{
   font-size: 1em;
   list-style: disc;
+}
+
+main ol li,
+main ol li	p:first-of-type	{
+  color: #0081c6;
+  margin-left: 0px;
+  font-weight: 600;
+}
+
+.multiColumn {
+    -moz-column-count: 2;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 20px;
+    column-count: 2;
+    column-gap: 20px;
+}
+
+
+
+
+
+
+main ul li p,
+
+main ol li	p	{
+  margin-left: 30px;
 }
 
 .sidebar ul	{
@@ -529,11 +558,50 @@ table.christmas-week td {
 	vertical-align: top;
 }
 
+.waste-categories,
+.container-sizes	{
+	display: inline;
+	float: left;
+	text-align: center;
+}
+
+.waste-categories	figure,
+.container-sizes figure {
+	display: inline;
+}
+
+.waste-categories	h3 {
+	margin-top: 0;
+}
+
+.waste-categories	img,
+container-sizes img {
+	width: 100%;
+}
+
+del	{
+ color: #d2232a;
+ text-decoration: none;
+}
+
+
 
 
 /* Modals */
-.modal-dialog	{
 
+.modal-btn	{
+	display: inline;
+}
+
+.modal-btn +.modal-btn	{
+	margin-left: 20px;
+}
+
+.modal-btn + p	{
+	margin-top: 10px;
+}
+.modal-btn .btn	{
+  font-size: 1.6em;
 }
 
 .modal-dialog	h4 {
@@ -542,7 +610,6 @@ table.christmas-week td {
 	color: #6cb33e;
 	font-weight: 700;
 	margin-bottom: 10;
-
 }
 
 .modal-header,
@@ -552,6 +619,11 @@ table.christmas-week td {
 
 .modal-body {
   padding: 0 15px;
+}
+
+.modal-body ol,
+.modal-body ul	{
+	padding-left: 0;
 }
 
 
