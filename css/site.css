@@ -4,13 +4,16 @@ body {
 
 }
 
-a {
+a,
+.btn-link {
     color: #0081c6;
     text-decoration: none;
 }
 
-a:hover {
+a:hover,
+.btn-link:hover {
     text-decoration: none;
+    cursor: pointer;
 }
 
 .container {
@@ -201,6 +204,10 @@ a:hover {
 	color: #fff;
 }
 
+.wastemate-hero-signup-form .form-control::-webkit-input-placeholder {
+	color: #fff;
+}
+
 .wastemate-hero-signup-form .input-group-btn:last-child > .btn,
 .wastemate-hero-signup-form .input-group-btn:last-child > .btn-group {
     margin-left: 0;
@@ -280,6 +287,7 @@ a:hover {
 .inner-nav .float-middle {
   display: table-cell;
   vertical-align: middle;
+  width: 1000px;
 }
 
 .inner-nav .container	{
@@ -296,7 +304,7 @@ a:hover {
 
 .inner-nav h1 {
   font-size: 40px;
-  font-weight: 300;
+  font-weight: 200;
   margin-bottom: 5px;
   margin-top: 0px;
 }
@@ -364,13 +372,13 @@ main	{
 }
 
 .sidebar {
-  padding: 20px 0 20px 20px;
+  padding: 0 20px;
 }
 
 main h2,
 .sidebar h2 {
 	margin-top: 40px;
-	margin-bottom: 5px;
+	margin-bottom: 10px;
 	color: #0081c6;
 	font-weight: 200;
 	font-size: 40px;
@@ -432,14 +440,19 @@ main ol li ul li
   list-style: disc;
 }
 
-main ol li,
-main ol li	p:first-of-type	{
+#list-commercial + ol li,
+#list-commercial + ol li	p:first-of-type	{
   color: #0081c6;
   margin-left: 0px;
   font-weight: 600;
 }
 
-.multiColumn {
+#list-commercial + ol li ul li	{
+  color: #333;
+  font-weight: 400;
+}
+
+[id |= list-columns]  + ul {
     -moz-column-count: 2;
     -moz-column-gap: 20px;
     -webkit-column-count: 2;
@@ -448,13 +461,7 @@ main ol li	p:first-of-type	{
     column-gap: 20px;
 }
 
-
-
-
-
-
 main ul li p,
-
 main ol li	p	{
   margin-left: 30px;
 }
@@ -476,13 +483,21 @@ main ol li	p	{
 	font-weight: 300;
 }
 
-
 .btn-primary	{
 	background-color: #fff;
   border-color: #6cb33e;
   color: #58595b;
 	font-size: 1em;
 }
+
+
+
+#content + p + figure	{
+	display: none;
+	float: left;
+}
+
+
 
 /* Overrides different inlines styles between FF and Chrome */
 .index-section-image img.loaded	{
@@ -584,6 +599,21 @@ del	{
  text-decoration: none;
 }
 
+.about-map	{
+	border:0;
+	float: left;
+	margin-right: 20px;
+	margin-top: 16px;
+}
+
+.roll-off-logo	{
+	float: left;
+	display: inline;
+	padding-right: 20px;
+}
+
+
+
 
 
 
@@ -625,6 +655,9 @@ del	{
 .modal-body ul	{
 	padding-left: 0;
 }
+
+
+
 
 
 
@@ -683,6 +716,9 @@ footer .copyright	{
 
 @media (max-width: 1200px) {
 
+		.inner-nav .float-middle {
+			width: 970px;
+		}
 		.navbar-brand img	{
 			width: 78%;
 		}
@@ -831,6 +867,10 @@ footer .copyright	{
 
 		#heroImage.home .wastemate-hero-signup	{
 			margin-top: 5px;
+		}
+
+		.inner-nav .float-middle {
+			width: 750px;
 		}
 
 		.inner-nav {

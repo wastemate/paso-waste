@@ -210,12 +210,12 @@ determine which materials are considered recyclable and which are not</p>
 </div>
 
 <p>Any item placed in your recycling cart will be sorted by a recycling processor that will determine the type of
-material. As long as the item isn’t on the “Not Acceptable” list, place it in the blue cart and we’ll take care of
+material. As long as the item isn&rsquo;t on the &ldquo;Not Acceptable&rdquo; list, place it in the blue cart and we&rsquo;ll take care of
 the rest.</p>
 
 <h2 id="recyclables">Recyclables</h2>
 
-<h3 id="paper-cardboard">Paper &amp; Cardboard</h3>
+<h3 id="list-columns">Paper &amp; Cardboard</h3>
 
 <ul>
 <li>Newspapers including inserts, newsprint publications</li>
@@ -230,9 +230,7 @@ the rest.</p>
 <li>Paper egg cartons</li>
 </ul>
 
-<p>{# theIdYouWant }</p>
-
-<h3 id="glass">Glass</h3>
+<h3 id="list-columns-1">Glass</h3>
 
 <ul>
 <li>Glass bottles &amp; jars</li>
@@ -241,7 +239,7 @@ the rest.</p>
 <li>Miscellaneous glass</li>
 </ul>
 
-<h3 id="cans-foil">Cans &amp; Foil</h3>
+<h3 id="list-columns-2">Cans &amp; Foil</h3>
 
 <ul>
 <li>Aluminum cans</li>
@@ -255,7 +253,7 @@ the rest.</p>
 <li>Miscellaneous metals</li>
 </ul>
 
-<h3 id="plastic">Plastic</h3>
+<h3 id="list-columns-3">Plastic</h3>
 
 <ul>
 <li>Plastic food containers any color</li>
@@ -267,7 +265,7 @@ the rest.</p>
 <li>Styrofoam</li>
 </ul>
 
-<h3 id="not-acceptable"><del>Not Acceptable</del></h3>
+<h3 id="list-columns-4"><del>Not Acceptable</del></h3>
 
 <ul>
 <li>Hazardous waste of any kind</li>
@@ -287,7 +285,7 @@ the rest.</p>
 <p>Please do not place any recycling or garbage in your green cart. Everything in the green cart
 needs to be compostable. Animal waste is not accepted as green waste.</p>
 
-<h3 id="yard-trimmings">Yard Trimmings</h3>
+<h3 id="list-columns-5">Yard Trimmings</h3>
 
 <ul>
 <li>Grass</li>
@@ -301,7 +299,7 @@ needs to be compostable. Animal waste is not accepted as green waste.</p>
 <li>Trees cut to fit in cart</li>
 </ul>
 
-<h3 id="not-acceptable-1"><del>Not Acceptable</del></h3>
+<h3 id="list-columns-6"><del>Not Acceptable</del></h3>
 
 <p><del>Our organics truck has a video camera to monitor containers as they are emptied.
 Containers contaminated with trash will receive a service charge per incident. Repeat
@@ -332,15 +330,15 @@ operates hazardous waste disposal facilities throughout the county for no-charge
 disposal. Please visit <a href="http://www.iwma.com">iwma.com</a> for locations and information. Items which cannot
 be placed in our containers for collection:</p>
 
-<p><strong><del>Not Acceptable</del></strong></p>
+<h3 id="list-columns-7"><strong><del>Not Acceptable</del></strong></h3>
 
 <ul>
-<li>Oil</li>
-<li>Used oil filters</li>
-<li>Electronic waste</li>
-<li>Batteries</li>
-<li>Fluorescent lights</li>
-<li>Televisions</li>
+<li><href="#" class="btn-link" data-toggle="modal" data-target="#oilModal">Oil</a></li>
+<li><href="#" class="btn-link" data-toggle="modal" data-target="#oilModal">Used oil filters</a></li>
+<li><href="#" class="btn-link" data-toggle="modal" data-target="#ewasteModal">Electronic waste</a></li>
+<li><href="#" class="btn-link" data-toggle="modal" data-target="#ewasteModal">Batteries</a></li>
+<li><href="#" class="btn-link" data-toggle="modal" data-target="#ewasteModal">Fluorescent lights</a></li>
+<li><href="#" class="btn-link" data-toggle="modal" data-target="#ewasteModal">Televisions</a></li>
 <li>Pesticides</li>
 <li>Paint</li>
 <li>Cleansers</li>
@@ -356,6 +354,46 @@ be placed in our containers for collection:</p>
 <li>Engine coolant</li>
 <li>Pesticides</li>
 </ul>
+
+<div class="modal-btn">
+    <div class="modal fade" id="oilModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Oil & Filters</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Free curbside oil recycling is available. [Contact](No page found with path or logical name "/contact.md".
+) our office to schedule a pick-up of your used motor oil. We will provide you with a 15-quart capacity oil container and an oil filter bag.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal-btn">
+    <div class="modal fade" id="ewasteModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Electronic Waste, Batteries, Fluorescent Lights, Televisions</h4>
+                </div>
+                <div class="modal-body">
+                    <p>The San Luis Obispo Integrated Waste Management Authority had provided us with containers to accept your electronic waste, household batteries, fluorescent lamps and tubes which are located at our [office](No page found with path or logical name "/contact.md".
+).</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 	      		</main>
 				</div>

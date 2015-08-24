@@ -407,9 +407,9 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
       <description>
 
 
-&lt;figure class=&#34;xmas-tree&#34;&gt;
+&lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/residential/landfill_cart.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/residential/landfill_cart.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -738,6 +738,8 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h2 id=&#34;rates&#34;&gt;Rates&lt;/h2&gt;
 
+&lt;!-- TODO:  jed needs to resolve these with js --&gt;
+
 &lt;p&gt;To view current service rates please &lt;a href=&#34;service/commercial#modal-address&#34;&gt;sign up for service&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;service-frequency&#34;&gt;Service Frequency&lt;/h2&gt;
@@ -752,7 +754,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;p&gt;Recycling is an environmentally sound choice and it will save your business money. By effectively recycling you will be able to reduce the volume of materials that are placed in your garbage dumpster. Since our pricing structure is based on the size/frequency of only your garbage service there is an excellent economic advantage to recycling any and all materials that are recyclable.&lt;/p&gt;
 
-&lt;h3 id=&#34;what-commercial-recycling-programs-do-we-offer&#34;&gt;WHAT COMMERCIAL RECYCLING PROGRAMS DO WE OFFER?&lt;/h3&gt;
+&lt;h3 id=&#34;list-commercial&#34;&gt;WHAT COMMERCIAL RECYCLING PROGRAMS DO WE OFFER?&lt;/h3&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Commingle &amp;ldquo;single stream&amp;rdquo; recycling&lt;/p&gt;
@@ -812,12 +814,12 @@ determine which materials are considered recyclable and which are not&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Any item placed in your recycling cart will be sorted by a recycling processor that will determine the type of
-material. As long as the item isn’t on the “Not Acceptable” list, place it in the blue cart and we’ll take care of
+material. As long as the item isn&amp;rsquo;t on the &amp;ldquo;Not Acceptable&amp;rdquo; list, place it in the blue cart and we&amp;rsquo;ll take care of
 the rest.&lt;/p&gt;
 
 &lt;h2 id=&#34;recyclables&#34;&gt;Recyclables&lt;/h2&gt;
 
-&lt;h3 id=&#34;paper-cardboard&#34;&gt;Paper &amp;amp; Cardboard&lt;/h3&gt;
+&lt;h3 id=&#34;list-columns&#34;&gt;Paper &amp;amp; Cardboard&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Newspapers including inserts, newsprint publications&lt;/li&gt;
@@ -832,9 +834,7 @@ the rest.&lt;/p&gt;
 &lt;li&gt;Paper egg cartons&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;{# theIdYouWant }&lt;/p&gt;
-
-&lt;h3 id=&#34;glass&#34;&gt;Glass&lt;/h3&gt;
+&lt;h3 id=&#34;list-columns-1&#34;&gt;Glass&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Glass bottles &amp;amp; jars&lt;/li&gt;
@@ -843,7 +843,7 @@ the rest.&lt;/p&gt;
 &lt;li&gt;Miscellaneous glass&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;cans-foil&#34;&gt;Cans &amp;amp; Foil&lt;/h3&gt;
+&lt;h3 id=&#34;list-columns-2&#34;&gt;Cans &amp;amp; Foil&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Aluminum cans&lt;/li&gt;
@@ -857,7 +857,7 @@ the rest.&lt;/p&gt;
 &lt;li&gt;Miscellaneous metals&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;plastic&#34;&gt;Plastic&lt;/h3&gt;
+&lt;h3 id=&#34;list-columns-3&#34;&gt;Plastic&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Plastic food containers any color&lt;/li&gt;
@@ -869,7 +869,7 @@ the rest.&lt;/p&gt;
 &lt;li&gt;Styrofoam&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;not-acceptable&#34;&gt;&lt;del&gt;Not Acceptable&lt;/del&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;list-columns-4&#34;&gt;&lt;del&gt;Not Acceptable&lt;/del&gt;&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Hazardous waste of any kind&lt;/li&gt;
@@ -889,7 +889,7 @@ the rest.&lt;/p&gt;
 &lt;p&gt;Please do not place any recycling or garbage in your green cart. Everything in the green cart
 needs to be compostable. Animal waste is not accepted as green waste.&lt;/p&gt;
 
-&lt;h3 id=&#34;yard-trimmings&#34;&gt;Yard Trimmings&lt;/h3&gt;
+&lt;h3 id=&#34;list-columns-5&#34;&gt;Yard Trimmings&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Grass&lt;/li&gt;
@@ -903,7 +903,7 @@ needs to be compostable. Animal waste is not accepted as green waste.&lt;/p&gt;
 &lt;li&gt;Trees cut to fit in cart&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;not-acceptable-1&#34;&gt;&lt;del&gt;Not Acceptable&lt;/del&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;list-columns-6&#34;&gt;&lt;del&gt;Not Acceptable&lt;/del&gt;&lt;/h3&gt;
 
 &lt;p&gt;&lt;del&gt;Our organics truck has a video camera to monitor containers as they are emptied.
 Containers contaminated with trash will receive a service charge per incident. Repeat
@@ -934,15 +934,15 @@ operates hazardous waste disposal facilities throughout the county for no-charge
 disposal. Please visit &lt;a href=&#34;http://www.iwma.com&#34;&gt;iwma.com&lt;/a&gt; for locations and information. Items which cannot
 be placed in our containers for collection:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;del&gt;Not Acceptable&lt;/del&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;list-columns-7&#34;&gt;&lt;strong&gt;&lt;del&gt;Not Acceptable&lt;/del&gt;&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Oil&lt;/li&gt;
-&lt;li&gt;Used oil filters&lt;/li&gt;
-&lt;li&gt;Electronic waste&lt;/li&gt;
-&lt;li&gt;Batteries&lt;/li&gt;
-&lt;li&gt;Fluorescent lights&lt;/li&gt;
-&lt;li&gt;Televisions&lt;/li&gt;
+&lt;li&gt;&lt;href=&#34;#&#34; class=&#34;btn-link&#34; data-toggle=&#34;modal&#34; data-target=&#34;#oilModal&#34;&gt;Oil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;href=&#34;#&#34; class=&#34;btn-link&#34; data-toggle=&#34;modal&#34; data-target=&#34;#oilModal&#34;&gt;Used oil filters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;href=&#34;#&#34; class=&#34;btn-link&#34; data-toggle=&#34;modal&#34; data-target=&#34;#ewasteModal&#34;&gt;Electronic waste&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;href=&#34;#&#34; class=&#34;btn-link&#34; data-toggle=&#34;modal&#34; data-target=&#34;#ewasteModal&#34;&gt;Batteries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;href=&#34;#&#34; class=&#34;btn-link&#34; data-toggle=&#34;modal&#34; data-target=&#34;#ewasteModal&#34;&gt;Fluorescent lights&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;href=&#34;#&#34; class=&#34;btn-link&#34; data-toggle=&#34;modal&#34; data-target=&#34;#ewasteModal&#34;&gt;Televisions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Pesticides&lt;/li&gt;
 &lt;li&gt;Paint&lt;/li&gt;
 &lt;li&gt;Cleansers&lt;/li&gt;
@@ -958,6 +958,46 @@ be placed in our containers for collection:&lt;/p&gt;
 &lt;li&gt;Engine coolant&lt;/li&gt;
 &lt;li&gt;Pesticides&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;div class=&#34;modal-btn&#34;&gt;
+    &lt;div class=&#34;modal fade&#34; id=&#34;oilModal&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-labelledby=&#34;myModalLabel&#34; aria-hidden=&#34;true&#34;&gt;
+        &lt;div class=&#34;modal-dialog&#34; role=&#34;document&#34;&gt;
+            &lt;div class=&#34;modal-content&#34;&gt;
+                &lt;div class=&#34;modal-header&#34;&gt;
+                    &lt;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;modal&#34; aria-label=&#34;Close&#34;&gt;&lt;span aria-hidden=&#34;true&#34;&gt;×&lt;/span&gt;&lt;/button&gt;
+                    &lt;h4 class=&#34;modal-title&#34; id=&#34;myModalLabel&#34;&gt;Oil &amp; Filters&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;modal-body&#34;&gt;
+                    &lt;p&gt;Free curbside oil recycling is available. [Contact](No page found with path or logical name &#34;/contact.md&#34;.
+) our office to schedule a pick-up of your used motor oil. We will provide you with a 15-quart capacity oil container and an oil filter bag.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;modal-footer&#34;&gt;
+                    &lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34; data-dismiss=&#34;modal&#34;&gt;Close&lt;/button&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;modal-btn&#34;&gt;
+    &lt;div class=&#34;modal fade&#34; id=&#34;ewasteModal&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-labelledby=&#34;myModalLabel&#34; aria-hidden=&#34;true&#34;&gt;
+        &lt;div class=&#34;modal-dialog&#34; role=&#34;document&#34;&gt;
+            &lt;div class=&#34;modal-content&#34;&gt;
+                &lt;div class=&#34;modal-header&#34;&gt;
+                    &lt;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;modal&#34; aria-label=&#34;Close&#34;&gt;&lt;span aria-hidden=&#34;true&#34;&gt;×&lt;/span&gt;&lt;/button&gt;
+                    &lt;h4 class=&#34;modal-title&#34; id=&#34;myModalLabel&#34;&gt;Electronic Waste, Batteries, Fluorescent Lights, Televisions&lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;modal-body&#34;&gt;
+                    &lt;p&gt;The San Luis Obispo Integrated Waste Management Authority had provided us with containers to accept your electronic waste, household batteries, fluorescent lamps and tubes which are located at our [office](No page found with path or logical name &#34;/contact.md&#34;.
+).&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;modal-footer&#34;&gt;
+                    &lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34; data-dismiss=&#34;modal&#34;&gt;Close&lt;/button&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -1103,7 +1143,31 @@ be placed in our containers for collection:&lt;/p&gt;
       <pubDate>Mon, 13 Jul 2015 09:02:13 -0700</pubDate>
       
       <guid>https://edisoncode.github.io/paso-waste/service/rolloff/</guid>
-      <description>&lt;div class=&#34;clearfix&#34;&gt;
+      <description>
+
+&lt;h2 id=&#34;our-sister-company&#34;&gt;Our Sister Company&lt;/h2&gt;
+
+&lt;div class=&#34;roll-off-logo&#34;&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/roll-off_logo.png&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Paso Robles Roll-Off, Inc. is your specialty hauling service in Paso Robles, Templeton, Atascadero, Santa Margarita, Creston, Pozo, and most of northern San Luis Obispo County. Our hauling services are primarily for solid waste and general debris although we are able to haul a wide variety of materials (non-
+hazardous). Often we are able to offer same day or next day service for most locations.&lt;/p&gt;
+
+&lt;p&gt;To learn more and to order service, please visit &lt;a href=&#34;http://www.pasorolloff.com/&#34;&gt;PasoRolloff.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;bin-sizes&#34;&gt;Bin Sizes&lt;/h2&gt;
+
+&lt;p&gt;You can choose from the following four container sizes:&lt;/p&gt;
+
+&lt;div class=&#34;clearfix&#34;&gt;
 &lt;div class=&#34;container-sizes col-md-4&#34;&gt;
     
 &lt;figure &gt;
@@ -1149,7 +1213,15 @@ be placed in our containers for collection:&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Text goes here.&lt;/p&gt;
+&lt;h2 id=&#34;rates&#34;&gt;Rates&lt;/h2&gt;
+
+&lt;!-- TODO:  jed needs to resolve these with js --&gt;
+
+&lt;p&gt;To view current rates please sign up for service.&lt;/p&gt;
+
+&lt;h2 id=&#34;categories-of-waste&#34;&gt;Categories of Waste&lt;/h2&gt;
+
+&lt;p&gt;There are many options for&amp;hellip;&lt;/p&gt;
 
 &lt;div class=&#34;clearfix&#34;&gt;
 &lt;div class=&#34;waste-categories col-md-4&#34;&gt;
@@ -1308,7 +1380,7 @@ be placed in our containers for collection:&lt;/p&gt;
 
 &lt;p&gt;Dennis returned from serving in the Navy in January of 1966; he became actively involved in the company. He drove a commercial front loader route until he retired in January of 2003. He now manages a miniature cattle ranch.&lt;/p&gt;
 
-&lt;iframe width=&#34;200&#34; height=&#34;200&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; src=&#34;https://www.google.com/maps/embed/v1/place?q=2951%20Wallace%20Drive%2C%20Paso%20Robles%2C%20CA%2C%20United%20States&amp;key=AIzaSyDZspx1zEYwbVyAxxd56a7dkUltNnLOFc0&#34;&gt;&lt;/iframe&gt;   
+&lt;iframe width=&#34;200&#34; height=&#34;200&#34; frameborder=&#34;0&#34; class=&#34;about-map&#34; src=&#34;https://www.google.com/maps/embed/v1/place?q=2951%20Wallace%20Drive%2C%20Paso%20Robles%2C%20CA%2C%20United%20States&amp;key=AIzaSyDZspx1zEYwbVyAxxd56a7dkUltNnLOFc0&#34;&gt;&lt;/iframe&gt;  
 
 &lt;h3 id=&#34;location&#34;&gt;LOCATION&lt;/h3&gt;
 
@@ -1324,7 +1396,7 @@ be placed in our containers for collection:&lt;/p&gt;
 
 &lt;p&gt;Isiah Gomer, Kathy and Dale’s younger son, graduated from Cal Lutheran in May 2011 and joined the company in June.&lt;/p&gt;
 
-&lt;h2 id=&#34;our-vision&#34;&gt;OUR VISION&lt;/h2&gt;
+&lt;h2 id=&#34;our-vision&#34;&gt;Our Vision&lt;/h2&gt;
 
 &lt;p&gt;The Gomer family is pushing the company forward using technologies that have never been available to the solid waste industry. In many ways PRW&amp;amp;R is setting new standards for the industry in terms of innovative technologies and sustainable practices that are unseen at other hauling companies throughout the nation. Since PRW&amp;amp;R’s inception, the fundamental element of the company has been the employees. Without all the amazing people who have worked for us over the years, it would have been impossible to service the City of Paso Robles.&lt;/p&gt;
 

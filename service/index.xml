@@ -18,9 +18,9 @@
       <description>
 
 
-&lt;figure class=&#34;xmas-tree&#34;&gt;
+&lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/residential/landfill_cart.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/residential/landfill_cart.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -349,6 +349,8 @@
 
 &lt;h2 id=&#34;rates&#34;&gt;Rates&lt;/h2&gt;
 
+&lt;!-- TODO:  jed needs to resolve these with js --&gt;
+
 &lt;p&gt;To view current service rates please &lt;a href=&#34;service/commercial#modal-address&#34;&gt;sign up for service&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;service-frequency&#34;&gt;Service Frequency&lt;/h2&gt;
@@ -363,7 +365,7 @@
 
 &lt;p&gt;Recycling is an environmentally sound choice and it will save your business money. By effectively recycling you will be able to reduce the volume of materials that are placed in your garbage dumpster. Since our pricing structure is based on the size/frequency of only your garbage service there is an excellent economic advantage to recycling any and all materials that are recyclable.&lt;/p&gt;
 
-&lt;h3 id=&#34;what-commercial-recycling-programs-do-we-offer&#34;&gt;WHAT COMMERCIAL RECYCLING PROGRAMS DO WE OFFER?&lt;/h3&gt;
+&lt;h3 id=&#34;list-commercial&#34;&gt;WHAT COMMERCIAL RECYCLING PROGRAMS DO WE OFFER?&lt;/h3&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Commingle &amp;ldquo;single stream&amp;rdquo; recycling&lt;/p&gt;
@@ -545,7 +547,31 @@
       <pubDate>Mon, 13 Jul 2015 09:02:13 -0700</pubDate>
       
       <guid>https://edisoncode.github.io/paso-waste/service/rolloff/</guid>
-      <description>&lt;div class=&#34;clearfix&#34;&gt;
+      <description>
+
+&lt;h2 id=&#34;our-sister-company&#34;&gt;Our Sister Company&lt;/h2&gt;
+
+&lt;div class=&#34;roll-off-logo&#34;&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/roll-off_logo.png&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Paso Robles Roll-Off, Inc. is your specialty hauling service in Paso Robles, Templeton, Atascadero, Santa Margarita, Creston, Pozo, and most of northern San Luis Obispo County. Our hauling services are primarily for solid waste and general debris although we are able to haul a wide variety of materials (non-
+hazardous). Often we are able to offer same day or next day service for most locations.&lt;/p&gt;
+
+&lt;p&gt;To learn more and to order service, please visit &lt;a href=&#34;http://www.pasorolloff.com/&#34;&gt;PasoRolloff.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;bin-sizes&#34;&gt;Bin Sizes&lt;/h2&gt;
+
+&lt;p&gt;You can choose from the following four container sizes:&lt;/p&gt;
+
+&lt;div class=&#34;clearfix&#34;&gt;
 &lt;div class=&#34;container-sizes col-md-4&#34;&gt;
     
 &lt;figure &gt;
@@ -591,7 +617,15 @@
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Text goes here.&lt;/p&gt;
+&lt;h2 id=&#34;rates&#34;&gt;Rates&lt;/h2&gt;
+
+&lt;!-- TODO:  jed needs to resolve these with js --&gt;
+
+&lt;p&gt;To view current rates please sign up for service.&lt;/p&gt;
+
+&lt;h2 id=&#34;categories-of-waste&#34;&gt;Categories of Waste&lt;/h2&gt;
+
+&lt;p&gt;There are many options for&amp;hellip;&lt;/p&gt;
 
 &lt;div class=&#34;clearfix&#34;&gt;
 &lt;div class=&#34;waste-categories col-md-4&#34;&gt;
