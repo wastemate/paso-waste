@@ -601,14 +601,11 @@ table.christmas-week td {
 	vertical-align: top;
 }
 
-
-
 .waste-categories	{
 	display: inline;
 	float: left;
 	text-align: center;
-		padding: 30px 20px 10px 20px;
-
+	padding: 30px 20px 10px 20px;
 }
 
 .waste-categories:nth-child(odd)	{
@@ -650,7 +647,6 @@ table.christmas-week td {
 		margin: 40px 0 30px 0;
 }
 
-
 del	{
  color: #d2232a;
  text-decoration: none;
@@ -661,12 +657,6 @@ del	{
 	float: left;
 	margin-right: 20px;
 	margin-top: 16px;
-}
-
-.roll-off-logo	{
-	float: left;
-	display: inline;
-	padding-right: 20px;
 }
 
 .article-icon	{
@@ -680,6 +670,9 @@ del	{
 	margin-top: 40px;
 }
 
+.community-icons	{
+	margin: 0 0 20px 0;
+}
 
 
 /* Modals */
@@ -887,13 +880,7 @@ footer .copyright	{
 			margin-top: 20px;
 		}
 
-		main img	{
-			width: 100%;
-		}
 
-		footer ul	{
-			display: none;
-		}
 
 }
 
@@ -960,6 +947,35 @@ footer .copyright	{
 			padding: 15px 0;
 		}
 
+
+		.sidebar {
+			padding: 20px;
+		}
+
+		footer ul,
+		.article-icon,
+		.article-image-center	{
+			display: none;
+		}
+
+		.recyclables,
+		.organics,
+		.landfill,
+		.hazardous-materials	{
+			padding-left: 0;
+			background: none;
+		}
+
+		[id |= list-columns]  + ul {
+			-moz-column-count: 1;
+			-webkit-column-count: 1;
+			column-count: 1;
+		}
+
+
+
+
+
 }
 
 /* 750px */
@@ -982,6 +998,12 @@ footer .copyright	{
 		.landing-thumb img {
 			height: 60%;
 			width: 60%;
+		}
+
+		.bin-sizes .bin,
+		.waste-categories	{
+			display: block;
+			width: 100%;
 		}
 
 }
