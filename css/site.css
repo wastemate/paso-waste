@@ -384,7 +384,7 @@ main h2,
 	font-size: 40px;
 }
 
-main h2:first-of-type,
+.content > h2:first-of-type,
 .sidebar h2:first-of-type {
 		margin-top: 0;
 }
@@ -414,7 +414,7 @@ main	h3,
 .sidebar h3 {
 	text-transform: uppercase;
 	color: #6cb33e;
-	font-weight: 700;
+	font-weight: 600;
 	margin-bottom: 10;
 }
 
@@ -489,6 +489,32 @@ main ol li	p	{
   color: #58595b;
 	font-size: 1em;
 }
+
+.recyclables,
+.organics,
+.landfill,
+.hazardous-materials	{
+	padding-left: 110px;
+}
+
+.recyclables	{
+	background: url("../media/recycling/recycle_cart.png") no-repeat;
+}
+
+.organics	{
+	background: url("../media/recycling/organics_cart.png") no-repeat;
+}
+
+.landfill	{
+	background: url("../media/recycling/landfill_cart.png") no-repeat;
+}
+
+.hazardous-materials	{
+	background: url("../media/recycling/hazardous.png") no-repeat;
+}
+
+
+
 
 
 
