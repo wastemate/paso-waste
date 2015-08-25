@@ -802,7 +802,7 @@ footer .copyright	{
 			border-width: 0 0 1px;
 		}
     .navbar-collapse.collapse {
-      display: none!important;
+      display: none !important;
     }
     .navbar-nav {
       float: none!important;
@@ -815,8 +815,13 @@ footer .copyright	{
       padding-top: 10px;
       padding-bottom: 10px;
     }
-    .collapse.in{
+    .collapse.in	{
   		display:block !important;
+		}
+
+		.navbar-fixed-bottom .navbar-collapse,
+		.navbar-fixed-top .navbar-collapse {
+				max-height: none;
 		}
 
 		.container>.navbar-header,
