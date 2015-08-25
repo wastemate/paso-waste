@@ -299,13 +299,13 @@ a:hover,
 }
 
 .inner-nav h1 {
-  font-size: 40px;
+  font-size: 4.1em;
   font-weight: 200;
   margin-bottom: 5px;
   margin-top: 0px;
 }
 
-.inner-nav .container	.lob	{
+.inner-nav .container	.lob .description	{
   font-size: 1.6em;
 	color: #fff;
 	line-height: 1.3em;
@@ -377,7 +377,7 @@ main h2,
 	margin-bottom: 10px;
 	color: #0081c6;
 	font-weight: 200;
-	font-size: 40px;
+	font-size: 4.1em;
 }
 
 .content > h2:first-of-type,
@@ -972,10 +972,6 @@ footer .copyright	{
 			column-count: 1;
 		}
 
-
-
-
-
 }
 
 /* 750px */
@@ -1005,6 +1001,13 @@ footer .copyright	{
 			display: block;
 			width: 100%;
 		}
+
+.waste-categories:nth-child(odd),
+.bin-sizes  .bin:nth-child(odd)	{
+	margin-right: 0;
+}
+
+
 
 }
 
