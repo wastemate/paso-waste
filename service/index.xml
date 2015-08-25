@@ -374,50 +374,60 @@
 
 &lt;h2 id=&#34;bin-sizes&#34;&gt;Bin Sizes&lt;/h2&gt;
 
-&lt;p&gt;You can choose from the following container sizes: 1.5-yard, 2-yard, 3-yard, and 4-yard.&lt;/p&gt;
+&lt;p&gt;You can choose from the following container sizes:&lt;/p&gt;
 
-&lt;div class=&#34;clearfix&#34;&gt;
-&lt;div class=&#34;waste-categories col-md-3&#34;&gt;
+&lt;div class=&#34;bin-sizes clearfix&#34;&gt;
+&lt;div class=&#34;bin col-md-5&#34;&gt;
+    &lt;p class=&#34;size&#34;&gt;1.5-yard&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/commercial/1.5yard_brown.png&#34; alt=&#34;Household&#34; /&gt;
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/commercial/1.5yard_brown.png&#34; alt=&#34;1.5-yard&#34; /&gt;
     
     
 &lt;/figure&gt;
 
+    &lt;p&gt;approx. 72” W x 34.5” H x 29.5” D &lt;br&gt; holds 1.5 cubic yards of waste&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&#34;waste-categories col-md-3&#34;&gt;
+&lt;div class=&#34;bin col-md-5&#34;&gt;
+    &lt;p class=&#34;size&#34;&gt;2-yard&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/commercial/2yard_brown.png&#34; alt=&#34;Remodel&#34; /&gt;
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/commercial/2yard_brown.png&#34; alt=&#34;2-yard&#34; /&gt;
     
     
 &lt;/figure&gt;
 
+    &lt;p&gt;approx. 72” W x 41.5” H x 34.5” D &lt;br&gt; holds 2 cubic yards of waste&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&#34;waste-categories col-md-3&#34;&gt;
+&lt;div class=&#34;bin col-md-5&#34;&gt;
+    &lt;p class=&#34;size&#34;&gt;3-yard&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/commercial/3yard_brown.png&#34; alt=&#34;Remodel&#34; /&gt;
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/commercial/3yard_brown.png&#34; alt=&#34;3-yard&#34; /&gt;
     
     
 &lt;/figure&gt;
 
+    &lt;p&gt;approx. 72” W x 50.5 H x 41.5” D &lt;br&gt; holds 3 cubic yards of waste&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&#34;waste-categories col-md-3&#34;&gt;
+&lt;div class=&#34;bin col-md-5&#34;&gt;
+    &lt;p class=&#34;size&#34;&gt;4-yard&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/commercial/4yard_brown.png&#34; alt=&#34;Remodel&#34; /&gt;
+        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/commercial/4yard_brown.png&#34; alt=&#34;4-yard&#34; /&gt;
     
     
 &lt;/figure&gt;
 
+    &lt;p&gt;approx. 72” W x 57” H x 50.5” D &lt;br&gt; holds 4 cubic yards of waste&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
+&lt;p&gt;To learn more please &lt;a href=&#34;service/commercial#modal-address&#34;&gt;sign up for service&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;rates&#34;&gt;Rates&lt;/h2&gt;
 
@@ -493,8 +503,9 @@
 
 &lt;p&gt;You can choose from the following container sizes:&lt;/p&gt;
 
-&lt;div class=&#34;clearfix&#34;&gt;
-&lt;div class=&#34;container-sizes col-md-4&#34;&gt;
+&lt;div class=&#34;bin-sizes clearfix&#34;&gt;
+&lt;div class=&#34;bin col-md-5&#34;&gt;
+    &lt;p class=&#34;size&#34;&gt;3-yard&lt;/p&gt;
     
 &lt;figure &gt;
     
@@ -503,8 +514,10 @@
     
 &lt;/figure&gt;
 
+    &lt;p&gt;approx. 72” W x 50.5 H x 41.5” D &lt;br&gt; holds 3 cubic yards of waste&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&#34;container-sizes col-md-4&#34;&gt;
+&lt;div class=&#34;bin col-md-5&#34;&gt;
+    &lt;p class=&#34;size&#34;&gt;4-yard&lt;/p&gt;
     
 &lt;figure &gt;
     
@@ -513,31 +526,22 @@
     
 &lt;/figure&gt;
 
+    &lt;p&gt;approx. 72” W x 57” H x 50.5” D &lt;br&gt; holds 4 cubic yards of waste&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;ul&gt;
-&lt;li&gt;3-yard  &lt;strong&gt;6&amp;rsquo;9&amp;rdquo; wide&lt;/strong&gt; x &lt;strong&gt;4&amp;rsquo;4&amp;rdquo; high&lt;/strong&gt; x &lt;strong&gt;4&amp;rsquo; deep&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;4-yard  &lt;strong&gt;6&amp;rsquo;9&amp;rdquo; wide&lt;/strong&gt; x &lt;strong&gt;4&amp;rsquo;4&amp;rdquo; high&lt;/strong&gt; x &lt;strong&gt;5&amp;rsquo;6&amp;rdquo; deep&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To learn more about sizes and how much waste they hold, please&lt;/p&gt;
+&lt;p&gt;To learn more about sizes and how much waste they hold, please &lt;a href=&#34;service/commercial#modal-address&#34;&gt;sign up for service&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;rates&#34;&gt;Rates&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;3-yard  &lt;strong&gt;$70.64&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;4-yard  &lt;strong&gt;$84.51&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;We charge rent of $2.00 per day after the first 10 days excluding the day of delivery and removal.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;To view current rates please &lt;a href=&#34;service/commercial#modal-address&#34;&gt;sign up for service&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;categories-of-waste&#34;&gt;Categories of Waste&lt;/h2&gt;
 
 &lt;p&gt;There are many options for&amp;hellip;&lt;/p&gt;
 
 &lt;div class=&#34;clearfix&#34;&gt;
-&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-5&#34;&gt;
     
 &lt;figure &gt;
     
@@ -548,7 +552,7 @@
 
     &lt;h3&gt;Household Waste&lt;/h3&gt;
 &lt;/div&gt;
-&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-5&#34;&gt;
     
 &lt;figure &gt;
     
@@ -562,7 +566,7 @@
 &lt;/div&gt;
 
 &lt;div class=&#34;clearfix&#34;&gt;
-&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-5&#34;&gt;
     
 &lt;figure &gt;
     
@@ -573,7 +577,7 @@
 
     &lt;h3&gt;Roofing&lt;/h3&gt;
 &lt;/div&gt;
-&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-5&#34;&gt;
     
 &lt;figure &gt;
     
@@ -587,7 +591,7 @@
 &lt;/div&gt;
 
 &lt;div class=&#34;clearfix&#34;&gt;
-&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-5&#34;&gt;
     
 &lt;figure &gt;
     
@@ -598,7 +602,7 @@
 
     &lt;h3&gt;Concrete / Brick&lt;/h3&gt;
 &lt;/div&gt;
-&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-5&#34;&gt;
     
 &lt;figure &gt;
     
@@ -643,8 +647,9 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;p&gt;You can choose from the following four container sizes:&lt;/p&gt;
 
-&lt;div class=&#34;clearfix&#34;&gt;
-&lt;div class=&#34;container-sizes col-md-4&#34;&gt;
+&lt;div class=&#34;bin-sizes clearfix&#34;&gt;
+&lt;div class=&#34;bin col-md-5&#34;&gt;
+    &lt;p class=&#34;size&#34;&gt;10-yard&lt;/p&gt;
     
 &lt;figure &gt;
     
@@ -653,8 +658,10 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;/figure&gt;
 
+    &lt;p&gt;approx. 20’ W x 1.5’ H x 8’ D &lt;br&gt; holds 10 cubic yards of waste&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&#34;container-sizes col-md-4&#34;&gt;
+&lt;div class=&#34;bin col-md-5&#34;&gt;
+    &lt;p class=&#34;size&#34;&gt;20-yard&lt;/p&gt;
     
 &lt;figure &gt;
     
@@ -663,11 +670,10 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;/figure&gt;
 
+    &lt;p&gt;approx. 20’ W x 4’ H x 8’ D &lt;br&gt; holds 20 cubic yards of waste&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;clearfix&#34;&gt;
-&lt;div class=&#34;container-sizes col-md-4&#34;&gt;
+&lt;div class=&#34;bin col-md-5&#34;&gt;
+    &lt;p class=&#34;size&#34;&gt;30-yard&lt;/p&gt;
     
 &lt;figure &gt;
     
@@ -676,8 +682,10 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;/figure&gt;
 
+    &lt;p&gt;approx. 22’ W x 5’ H x 8’ D &lt;br&gt; holds 30 cubic yards of waste&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&#34;container-sizes col-md-4&#34;&gt;
+&lt;div class=&#34;bin col-md-5&#34;&gt;
+    &lt;p class=&#34;size&#34;&gt;40-yard&lt;/p&gt;
     
 &lt;figure &gt;
     
@@ -686,6 +694,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;/figure&gt;
 
+    &lt;p&gt;approx. 22’ W x 6’ H x 8’ D &lt;br&gt; holds 40 cubic yards of waste&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -693,14 +702,14 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;!-- TODO:  jed needs to resolve these with js --&gt;
 
-&lt;p&gt;To view current rates please sign up for service.&lt;/p&gt;
+&lt;p&gt;To view current rates please &lt;a href=&#34;service/commercial#modal-address&#34;&gt;sign up for service&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;categories-of-waste&#34;&gt;Categories of Waste&lt;/h2&gt;
 
 &lt;p&gt;There are many options for&amp;hellip;&lt;/p&gt;
 
 &lt;div class=&#34;clearfix&#34;&gt;
-&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-5&#34;&gt;
     
 &lt;figure &gt;
     
@@ -711,7 +720,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
     &lt;h3&gt;Household Waste&lt;/h3&gt;
 &lt;/div&gt;
-&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-5&#34;&gt;
     
 &lt;figure &gt;
     
@@ -725,7 +734,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 &lt;/div&gt;
 
 &lt;div class=&#34;clearfix&#34;&gt;
-&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-5&#34;&gt;
     
 &lt;figure &gt;
     
@@ -736,7 +745,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
     &lt;h3&gt;Roofing&lt;/h3&gt;
 &lt;/div&gt;
-&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-5&#34;&gt;
     
 &lt;figure &gt;
     
@@ -750,7 +759,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 &lt;/div&gt;
 
 &lt;div class=&#34;clearfix&#34;&gt;
-&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-5&#34;&gt;
     
 &lt;figure &gt;
     
@@ -761,7 +770,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
     &lt;h3&gt;Concrete / Brick&lt;/h3&gt;
 &lt;/div&gt;
-&lt;div class=&#34;waste-categories col-md-4&#34;&gt;
+&lt;div class=&#34;waste-categories col-md-5&#34;&gt;
     
 &lt;figure &gt;
     

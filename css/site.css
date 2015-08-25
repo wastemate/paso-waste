@@ -601,26 +601,55 @@ table.christmas-week td {
 	vertical-align: top;
 }
 
-.waste-categories,
-.container-sizes	{
+
+
+.waste-categories	{
 	display: inline;
 	float: left;
 	text-align: center;
+		padding: 30px 20px 10px 20px;
+
 }
 
-.waste-categories	figure,
-.container-sizes figure {
-	display: inline;
+.waste-categories:nth-child(odd)	{
+	margin-right: 20px;
 }
 
 .waste-categories	h3 {
 	margin-top: 0;
 }
 
-.waste-categories	img,
-container-sizes img {
-	width: 100%;
+.bin-sizes	{
+	margin-top: 20px;
 }
+
+.bin-sizes .bin	{
+	display: inline;
+	float: left;
+	text-align: center;
+	background: #f5f5f5;
+	border: 1px solid #dbdcdd;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	padding: 30px 20px 10px 20px;
+}
+
+.bin-sizes  .bin:nth-child(odd)	{
+	margin-right: 20px;
+}
+
+.bin-sizes .bin .size	{
+	display: inline;
+	background: #fff;
+	padding: 12px 20px;
+	border: 1px solid #99d7da;
+	border-radius: 5px;
+}
+
+.bin-sizes .bin figure	{
+		margin: 40px 0 30px 0;
+}
+
 
 del	{
  color: #d2232a;
