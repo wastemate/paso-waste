@@ -640,8 +640,16 @@ del	{
 	padding-right: 20px;
 }
 
+.article-icon	{
+	float: left;
+	display: inline;
+	padding-right: 20px;
+}
 
-
+.article-image-center	{
+	text-align: center;
+	margin-top: 40px;
+}
 
 
 
