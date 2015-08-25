@@ -135,10 +135,6 @@ a:hover,
   background-size: cover !important;
 }
 
-#heroImage.home .bg-image {
-  background-position: 0% 90% !important;
-}
-
 .wastemate-hero-center	{
   display: table;
   width: 100%;
