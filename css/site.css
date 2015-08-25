@@ -455,6 +455,12 @@ main ol li ul li
     -webkit-column-gap: 20px;
     column-count: 2;
     column-gap: 20px;
+    padding-left: 0;
+}
+
+[id |= list-columns]  + ul li {
+    list-style-position: outside;
+    margin-left: 1em;
 }
 
 main ul li p,
