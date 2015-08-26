@@ -1003,6 +1003,11 @@ footer .copyright	{
 			width: 100%;
 		}
 
+		.bin-sizes .bin img,
+		.waste-categories img	{
+			width: 100%;
+		}
+
 		.waste-categories:nth-child(odd),
 		.bin-sizes  .bin:nth-child(odd)	{
 			margin-right: 0;
