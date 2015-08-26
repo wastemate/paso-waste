@@ -17,7 +17,7 @@ a:hover,
 }
 
 .container {
-    max-width: 1000px;
+    width: 1000px;
 }
 
 
@@ -283,11 +283,6 @@ a:hover,
 .inner-nav .float-middle {
   display: table-cell;
   vertical-align: middle;
-  width: 1000px;
-}
-
-.inner-nav .container	{
-  padding: 0;
 }
 
 .inner-nav .site-summary {
@@ -774,8 +769,8 @@ footer .copyright	{
 
 @media (max-width: 1200px) {
 
-		.inner-nav .float-middle {
-			width: 950px;
+		.container {
+			width: 100%;
 		}
 		.navbar-brand img	{
 			width: 78%;
@@ -892,6 +887,7 @@ footer .copyright	{
 
 @media (max-width: 992px){
 
+
 		#heroImage.home .bg-image {
 			background-position: 100% 50% !important;
 		}
@@ -927,7 +923,7 @@ footer .copyright	{
 		}
 
 		.inner-nav .float-middle {
-			width: 750px;
+			width: none;
 		}
 
 		.inner-nav {
@@ -941,6 +937,7 @@ footer .copyright	{
 		.inner-nav .lob	{
 			border-right: none;
 			padding: 0 15px;
+			width: 100%;
 		}
 
 		.inner-nav .nav-col-1,
@@ -949,9 +946,8 @@ footer .copyright	{
 		}
 
 		main	{
-			padding: 15px 0;
+			padding: 15px;
 		}
-
 
 		.sidebar {
 			padding: 20px;
@@ -1007,11 +1003,10 @@ footer .copyright	{
 			width: 100%;
 		}
 
-.waste-categories:nth-child(odd),
-.bin-sizes  .bin:nth-child(odd)	{
-	margin-right: 0;
-}
-
+		.waste-categories:nth-child(odd),
+		.bin-sizes  .bin:nth-child(odd)	{
+			margin-right: 0;
+		}
 
 
 }
