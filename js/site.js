@@ -17,3 +17,31 @@ $('a[href*=#]:not([href=#])').on('click', function(event){
 		});
 	}
 });
+
+/**
+ *  Fix the Green Bar when it touches the nav
+ */
+$(document).ready(function () {
+  try {
+    var $obj = $('#greenBar');
+    if($obj){
+      var top = ($obj.offset().top - parseFloat($obj.css('marginTop').replace(/auto/, 0))) - $('#header').height();  
+      $(window).scroll(function (event) {
+        // what the y position of the scroll is
+        var y = $(this).scrollTop();
+        
+        // whether that's below the form
+        if (y >= top) {
+          // if so, ad the fixed class
+          $obj.addClass('fixed-below-navbar');
+        } else {
+          // otherwise remove it
+          $obj.removeClass('fixed-below-navbar');
+        }
+      });
+    }
+  } catch(ex){
+    console.log("Error handled -- Greenbar fixed scroll spy");
+    console.log(ex);
+  }
+});

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paso Robles Waste &amp; Recycle</title>
-    <link>https://edisoncode.github.io/paso-waste/</link>
+    <link>http://localhost:1313/paso-waste/</link>
     <description>Recent content on Paso Robles Waste &amp; Recycle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jul 2015 22:53:48 -0700</lastBuildDate>
-    <atom:link href="https://edisoncode.github.io/paso-waste/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/paso-waste/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>residential rates</title>
-      <link>https://edisoncode.github.io/paso-waste/modal/residential-rates/</link>
+      <link>http://localhost:1313/paso-waste/modal/residential-rates/</link>
       <pubDate>Mon, 13 Jul 2015 22:53:48 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/modal/residential-rates/</guid>
+      <guid>http://localhost:1313/paso-waste/modal/residential-rates/</guid>
       <description>
 
 &lt;h3 id=&#34;city-surcharge&#34;&gt;City Surcharge&lt;/h3&gt;
@@ -45,10 +45,10 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
     <item>
       <title>service agreement</title>
-      <link>https://edisoncode.github.io/paso-waste/modal/service-agreement/</link>
+      <link>http://localhost:1313/paso-waste/modal/service-agreement/</link>
       <pubDate>Mon, 13 Jul 2015 22:53:48 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/modal/service-agreement/</guid>
+      <guid>http://localhost:1313/paso-waste/modal/service-agreement/</guid>
       <description>
 
 &lt;h3 id=&#34;service-agreement&#34;&gt;Service Agreement&lt;/h3&gt;
@@ -59,10 +59,10 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
     <item>
       <title>commercial rates</title>
-      <link>https://edisoncode.github.io/paso-waste/modal/commercial-rates/</link>
+      <link>http://localhost:1313/paso-waste/modal/commercial-rates/</link>
       <pubDate>Mon, 13 Jul 2015 17:29:59 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/modal/commercial-rates/</guid>
+      <guid>http://localhost:1313/paso-waste/modal/commercial-rates/</guid>
       <description>
 
 &lt;h5 id=&#34;commercial-rates&#34;&gt;Commercial Rates&lt;/h5&gt;
@@ -301,21 +301,81 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     </item>
     
     <item>
-      <title>about</title>
-      <link>https://edisoncode.github.io/paso-waste/sidebar/about/</link>
+      <title>contact</title>
+      <link>http://localhost:1313/paso-waste/sidebar/contact/</link>
       <pubDate>Mon, 13 Jul 2015 10:06:50 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/sidebar/about/</guid>
+      <guid>http://localhost:1313/paso-waste/sidebar/contact/</guid>
       <description>
 
-&lt;h2 id=&#34;the-environment&#34;&gt;The Environment&lt;/h2&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+
+&lt;h3 id=&#34;general-links&#34;&gt;GENERAL LINKS&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.prcity.com/&#34;&gt;City of Paso Robles&lt;/a&gt;&lt;br/&gt;(805) 227-7276&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.pasorobleschamber.com/&#34;&gt;Paso Robles Chamber of Commerce&lt;/a&gt;&lt;br/&gt;(805) 238-0506&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;recycling-information&#34;&gt;RECYCLING INFORMATION&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sarecycling.com/default.aspx&#34;&gt;SA Recycling&lt;/a&gt;&lt;br/&gt;(805) 227-1090&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.iwma.com/index.html&#34;&gt;Integrated Waste Management Authority&lt;/a&gt;&lt;br/&gt;(805) 782-8530&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.calrecycle.ca.gov/&#34;&gt;CalRecycle&lt;/a&gt;&lt;br/&gt;(916) 322-4027&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.paperrecycles.org/&#34;&gt;Paper Recycles&lt;/a&gt;&lt;br/&gt;(202) 463-2711&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;buy-back-centers&#34;&gt;BUY BACK CENTERS&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.iwma.com/directory-aj/buybackcenters.html&#34;&gt;IWMA Buy Back List&lt;/a&gt;&lt;br/&gt;(805) 782-8530&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sarecycling.com/default.aspx&#34;&gt;SA Recycling&lt;/a&gt;&lt;br/&gt;(805) 227-1090&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;hazardous-waste&#34;&gt;HAZARDOUS WASTE&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.prcity.com/government/departments/publicworks/trash-recycling/hazwaste.asp#facility&#34;&gt;City of Paso Robles: Guide to Hazardous Waste&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.iwma.com/householdhaz/dropoff.html&#34;&gt;Integrated Waste Management Authority&lt;/a&gt;&lt;br/&gt;(805) 782-8530&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.calrecycle.ca.gov/HomeHazWaste/&#34;&gt;CalRecycle&lt;/a&gt;&lt;br/&gt;(916) 322-4027&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;disposal-facilities&#34;&gt;DISPOSAL FACILITIES&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.prcity.com/government/departments/publicworks/trash-recycling/landfill.asp&#34;&gt;Paso Robles Landfill&lt;/a&gt;&lt;br/&gt;(805) 481-9213&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.iwma.com/householdhaz/dropoff.html&#34;&gt;IWMA Facilities List&lt;/a&gt;&lt;br/&gt;(805) 782-8530&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;other-local-solid-waste-haulers&#34;&gt;OTHER LOCAL SOLID WASTE HAULERS&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.pasorolloff.com/&#34;&gt;Paso Robles Roll-Off, Inc.&lt;/a&gt;&lt;br/&gt;(805) 238-4897&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.countrydisposal.com/&#34;&gt;Paso Robles Country Disposal, Inc.&lt;/a&gt;&lt;br/&gt;(805) 238-2385&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sanmiguelgarbage.com/&#34;&gt;San Miguel Garbage&lt;/a&gt;&lt;br/&gt;(805) 467-9283&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wm.com/&#34;&gt;Atascadero Waste Alternatives, Inc.&lt;/a&gt;&lt;br/&gt;(805) 466-3636&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sanluisgarbage.com/&#34;&gt;San Luis Garbage&lt;/a&gt;&lt;br/&gt;(805) 543-0875&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/paso-waste/sidebar/about/</link>
+      <pubDate>Mon, 13 Jul 2015 10:06:50 -0700</pubDate>
+      
+      <guid>http://localhost:1313/paso-waste/sidebar/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;environment&#34;&gt;Environment&lt;/h2&gt;
 
 &lt;p&gt;We embrace all movements to protect the environment and feel that our company holds a critical role in the environmental responsibility of our community. We have taken steps to make our facility and fleet have as little impact on the environment as possible. Also, we reach out to our customers to provide educational material on recycling and source reduction of waste.&lt;/p&gt;
 
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/aboutus/3G_logo.png&#34; alt=&#34;3G CNG &amp;amp; FLEET&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/aboutus/3G_logo.png&#34; alt=&#34;3G CNG &amp;amp; FLEET&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -338,79 +398,18 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     </item>
     
     <item>
-      <title>contact</title>
-      <link>https://edisoncode.github.io/paso-waste/sidebar/contact/</link>
-      <pubDate>Mon, 13 Jul 2015 10:06:50 -0700</pubDate>
-      
-      <guid>https://edisoncode.github.io/paso-waste/sidebar/contact/</guid>
-      <description>
-
-&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
-
-&lt;h3 id=&#34;general-links&#34;&gt;GENERAL LINKS&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.prcity.com/&#34;&gt;City of Paso Robles&lt;/a&gt; (805) 227-7276&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.pasorobleschamber.com/&#34;&gt;Paso Robles Chamber of Commerce&lt;/a&gt;
-(805) 238-0506&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;recycling-information&#34;&gt;RECYCLING INFORMATION&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sarecycling.com/default.aspx&#34;&gt;SA Recycling&lt;/a&gt; (805) 227-1090&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.iwma.com/index.html&#34;&gt;Integrated Waste Management Authority&lt;/a&gt; (805) 782-8530&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.calrecycle.ca.gov/&#34;&gt;CalRecycle&lt;/a&gt; (916) 322-4027&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.paperrecycles.org/&#34;&gt;Paper Recycles&lt;/a&gt; (202) 463-2711&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;buy-back-centers&#34;&gt;BUY BACK CENTERS&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.iwma.com/directory-aj/buybackcenters.html&#34;&gt;IWMA Buy Back List&lt;/a&gt; (805) 782-8530&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sarecycling.com/default.aspx&#34;&gt;SA Recycling&lt;/a&gt; (805) 227-1090&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;hazardous-waste&#34;&gt;HAZARDOUS WASTE&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.prcity.com/government/departments/publicworks/trash-recycling/hazwaste.asp#facility&#34;&gt;City of Paso Robles: Guide to Hazardous Waste&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.iwma.com/householdhaz/dropoff.html&#34;&gt;Integrated Waste Management Authority&lt;/a&gt; (805) 782-8530&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.calrecycle.ca.gov/HomeHazWaste/&#34;&gt;CalRecycle&lt;/a&gt; (916) 322-4027&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;disposal-facilities&#34;&gt;DISPOSAL FACILITIES&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.prcity.com/government/departments/publicworks/trash-recycling/landfill.asp&#34;&gt;Paso Robles Landfill&lt;/a&gt; (805) 481-9213&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.iwma.com/householdhaz/dropoff.html&#34;&gt;IWMA Facilities List&lt;/a&gt; (805) 782-8530&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;other-local-solid-waste-haulers&#34;&gt;OTHER LOCAL SOLID WASTE HAULERS&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.pasorolloff.com/&#34;&gt;Paso Robles Roll-Off, Inc.&lt;/a&gt; (805) 238-4897&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.countrydisposal.com/&#34;&gt;Paso Robles Country Disposal, Inc.&lt;/a&gt; (805) 238-2385&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sanmiguelgarbage.com/&#34;&gt;San Miguel Garbage&lt;/a&gt; (805) 467-9283&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wm.com/&#34;&gt;Atascadero Waste Alternatives, Inc.&lt;/a&gt; (805) 466-3636&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sanluisgarbage.com/&#34;&gt;San Luis Garbage&lt;/a&gt; (805) 543-0875&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Residential</title>
-      <link>https://edisoncode.github.io/paso-waste/service/residential/</link>
+      <link>http://localhost:1313/paso-waste/service/residential/</link>
       <pubDate>Fri, 10 Jul 2015 09:27:37 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/service/residential/</guid>
+      <guid>http://localhost:1313/paso-waste/service/residential/</guid>
       <description>
 
 &lt;div class=&#34;article-icon&#34;&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/residential/landfill_cart.png&#34;  /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/residential/landfill_cart.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -419,7 +418,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h2 id=&#34;service&#34;&gt;Service&lt;/h2&gt;
 
-&lt;p&gt;To start or change your service, please &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f&#34;&gt;sign up / log in.&lt;/a&gt; All residential accounts receive weekly automated pickup and include organic waste and commingle curbside recycling services.&lt;/p&gt;
+&lt;p&gt;To start service please &lt;a href=&#34;#sign-up&#34;&gt;sign up&lt;/a&gt;. To pay for existing service please &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f&#34;&gt;log in.&lt;/a&gt; All residential accounts receive weekly automated pick-up and include waste, organics, and commingle curbside recycling services.&lt;/p&gt;
 
 &lt;h2 id=&#34;containers&#34;&gt;Containers&lt;/h2&gt;
 
@@ -428,16 +427,15 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 &lt;h3 id=&#34;instructions&#34;&gt;INSTRUCTIONS&lt;/h3&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Keep lids closed&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;Keep lids closed to Prevent:&lt;/strong&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Prevent attracting flies, birds, rats and other pests&lt;/li&gt;
-&lt;li&gt;Prevent lightweight waste from being blown out of containers and littering neighborhoods&lt;/li&gt;
-&lt;li&gt;Prevent unpleasant odors during warm weather&lt;/li&gt;
-&lt;li&gt;Prevent rain water from pooling inside the containers&lt;/li&gt;
-&lt;li&gt;Prevent over-full container charges&lt;/li&gt;
+&lt;li&gt;Attracting flies, birds, rats and other pests&lt;/li&gt;
+&lt;li&gt;Lightweight waste from being blown out of containers and littering neighborhoods&lt;/li&gt;
+&lt;li&gt;Unpleasant odors during warm weather&lt;/li&gt;
+&lt;li&gt;Rain water from pooling inside the containers (wishful thinking)&lt;/li&gt;
+&lt;li&gt;Over-full container charges&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Use only the containers provided by Paso Robles Waste &amp;amp; Recycle&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Use only the containers provided by Paso Robles Waste &amp;amp; Recycle&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;No hazardous materials such as oil, pesticides, paint or cleaners. No putrescible waste like food scraps, diapers, etc.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Place bins at curb no later than 6am on your pick-up day&lt;/strong&gt;&lt;/li&gt;
@@ -448,7 +446,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/residential/3_ft_space.png&#34;  /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/residential/3_ft_space.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -457,17 +455,17 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h2 id=&#34;recycling&#34;&gt;Recycling&lt;/h2&gt;
 
-&lt;p&gt;View our list of recyclable materials and check back for updates. Our list increases as recycling technology improves. We offer weekly curbside pick-up of household commingled recyclables (blue cart) and organic waste (green cart) for all residential customers.&lt;/p&gt;
+&lt;p&gt;View our list of &lt;a href=&#34;http://localhost:1313/paso-waste/recycling&#34;&gt;recyclable materials&lt;/a&gt; and check back for updates. Our list increases as recycling technology improves. We offer weekly curbside pick-up of household commingled recyclables (blue cart) and organics waste (green cart) for all residential customers.&lt;/p&gt;
 
 &lt;h3 id=&#34;contamination&#34;&gt;CONTAMINATION&lt;/h3&gt;
 
-&lt;p&gt;Clean organic waste is a must. Our organic waste truck has a video camera to monitor organic waste container contents as it is emptied. Containers contaminated with trash will receive a service charge of $7.40 per incident. Repeat offenders will have containers removed&lt;/p&gt;
+&lt;p&gt;Clean organics waste is a must. Our organics waste truck has a video camera to monitor organics waste container contents as it is emptied. Containers contaminated with trash will receive a service charge of $7.40 per incident. Repeat offenders will have containers removed.&lt;/p&gt;
 
 &lt;div class=&#34;article-icon&#34;&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/residential/motor-oil.png&#34;  /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/residential/motor-oil.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -476,17 +474,17 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h3 id=&#34;motor-oil&#34;&gt;MOTOR OIL&lt;/h3&gt;
 
-&lt;p&gt;It’s easy, convenient and free. Call our office at (805) 238-2381 to schedule a pick-up of your used motor oil. We will provide you with a 15-quart capacity oil container and an oil filter bag.&lt;/p&gt;
+&lt;p&gt;It’s easy, convenient and free. &lt;a href=&#34;http://localhost:1313/paso-waste/contact&#34;&gt;Call our office&lt;/a&gt; to schedule a pick-up of your used motor oil. We will provide you with a 15-quart capacity oil container and an oil filter bag.&lt;/p&gt;
 
 &lt;h3 id=&#34;batteries-%2f-e-waste&#34;&gt;BATTERIES AND ELECTRONIC WASTE&lt;/h3&gt;
 
-&lt;p&gt;The San Luis Obispo Integrated Waste Management Authority (IWMA) had provided us with containers to accept your household batteries and electronic waste, which are located at our office. You can drop off your materials Monday–Friday, 8am–5pm.&lt;/p&gt;
+&lt;p&gt;The San Luis Obispo Integrated Waste Management Authority (&lt;a href=&#34;http://www.iwma.com&#34;&gt;IWMA&lt;/a&gt;) had provided us with containers to accept your household batteries and electronic waste, which are located at our office. You can drop off your materials Monday–Friday, 8am–5pm.&lt;/p&gt;
 
 &lt;div class=&#34;article-icon&#34;&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/residential/batteries.png&#34;  /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/residential/batteries.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -504,16 +502,16 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
             &lt;div class=&#34;modal-content&#34;&gt;
                 &lt;div class=&#34;modal-header&#34;&gt;
                     &lt;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;modal&#34; aria-label=&#34;Close&#34;&gt;&lt;span aria-hidden=&#34;true&#34;&gt;×&lt;/span&gt;&lt;/button&gt;
-                    &lt;h4 class=&#34;modal-title&#34; id=&#34;myModalLabel&#34;&gt;Battery Facts (www.epa.gov)&lt;/h4&gt;
+                    &lt;h4 class=&#34;modal-title&#34; id=&#34;myModalLabel&#34;&gt;Battery Facts – &lt;a href=&#34;http://www.epa.gov&#34;&gt;www.epa.gov&lt;/a&gt;&lt;/h4&gt;
                 &lt;/div&gt;
                 &lt;div class=&#34;modal-body&#34;&gt;
                     &lt;ol&gt;
-                        &lt;li&gt;Americans purchase nearly 3 billion dry-cell batteries every year to power radios, toys, cellular phones, watches, laptop computers, and portable power tools&lt;/li&gt;
-                        &lt;li&gt;Inside a battery, heavy metals react with chemical electrolyte to produce the battery’s power&lt;/li&gt;
-                        &lt;li&gt;Wet-cell batteries, which contain a liquid electrolyte, commonly power automobiles, boats, or motorcycles&lt;/li&gt;
-                        &lt;li&gt;Nearly 99 million wet-cell lead-acid car batteries are manufactured each year&lt;/li&gt;
-                        &lt;li&gt;Mercury was phased out of certain types of batteries in conjunction with the “Mercury-Containing and Rechargeable Battery Management Act,” passed in 1996&lt;/li&gt;
-                        &lt;li&gt;Recycling batteries keeps heavy metals out of landfills and the air. Recycling saves resources because recovered plastic and metals can be used to make new batteries&lt;/li&gt;
+                        &lt;li&gt;Americans purchase nearly 3 billion dry-cell batteries every year to power radios, toys, cellular phones, watches, laptop computers, and portable power tools.&lt;/li&gt;
+                        &lt;li&gt;Inside a battery, heavy metals react with chemical electrolyte to produce the battery’s power.&lt;/li&gt;
+                        &lt;li&gt;Wet-cell batteries, which contain a liquid electrolyte, commonly power automobiles, boats, or motorcycles.&lt;/li&gt;
+                        &lt;li&gt;Nearly 99 million wet-cell lead-acid car batteries are manufactured each year.&lt;/li&gt;
+                        &lt;li&gt;Mercury was phased out of certain types of batteries in conjunction with the “Mercury-Containing and Rechargeable Battery Management Act,” passed in 1996.&lt;/li&gt;
+                        &lt;li&gt;Recycling batteries keeps heavy metals out of landfills and the air. Recycling saves resources because recovered plastic and metals can be used to make new batteries.&lt;/li&gt;
                     &lt;/ol&gt;
                 &lt;/div&gt;
                 &lt;div class=&#34;modal-footer&#34;&gt;
@@ -552,7 +550,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/residential/lightbulb.png&#34;  /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/residential/lightbulb.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -567,7 +565,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;p&gt;To view your bill, please visit &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f0&#34;&gt;Pay Bill&lt;/a&gt;. Payment methods accepted are cash, check, and VISA/MasterCard. We also offer recurring monthly ACH or VISA/MasterCard payments in addition to e-Invoices.&lt;/p&gt;
 
-&lt;p&gt;To view current rates, please &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f&#34;&gt;sign up / log in&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To view current rates please &lt;a href=&#34;#sign-up&#34;&gt;enter your address&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&#34;modal-btn&#34;&gt;
     &lt;button type=&#34;button&#34; class=&#34;btn btn-primary btn-lg&#34; data-toggle=&#34;modal&#34; data-target=&#34;#rateModal&#34;&gt;
@@ -582,6 +580,17 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
                 &lt;/div&gt;
                 &lt;div class=&#34;modal-body&#34;&gt;
                     &lt;p&gt;On August 1st, 2006 the Paso Robles City Council passed resolution No. 06-142, a resolution of the City of Paso Robles approving changes to solid waste collection rates for Paso Robles Waste Disposal. The first component of the resolution addresses the solid waste collection surcharge. A portion of the cost incurred by the City of Paso Robles purchasing 53 acres adjacent to the municipal landfill is to be paid by a solid waste collection surcharge on all Paso Robles Waste Disposal customers. The implementation of the surcharge will take place on September 1st, 2006.&lt;/p&gt;
+                    &lt;p&gt;Initially, residential customers will pay an additional $1.10 per month or $13.20 per year and commercial customers will pay an additional $2.34 or $28.08 annually.&lt;/p&gt;
+                    &lt;h4 style=&#34;margin-top: 18px;&#34;&gt;Paso Robles Waste Disposal Rate Increase&lt;/h4&gt;
+                    &lt;p&gt;&lt;em&gt;January 1, 2007&lt;/em&gt;&lt;/br&gt;Paso Robles Waste Disposal will increase rates by the percent increase in the Consumer Price Index as published by the Bureau of Labor Statistics for “All Urban Wage Earners and Clerical Workers” SF-Oak-SJ region for the 12 month period ending 10/31/06.&lt;/p&gt;
+                    &lt;p&gt;&lt;em&gt;July 1, 2008&lt;/em&gt;&lt;/br&gt;Paso Robles Waste Disposal will increase rates by the percent increase in the Consumer Price Index as published by the Bureau of Labor Statistics for “All Urban Wage Earners and Clerical Workers” SF-Oak-SJ region for the 12 month period ending 4/30/08.&lt;/p&gt;
+                    &lt;p&gt;&lt;em&gt;July 1, 2009&lt;/em&gt;&lt;/br&gt;Paso Robles Waste Disposal will increase rates by the percent increase in the Consumer Price Index as published by the Bureau of Labor Statistics for “All Urban Wage Earners and Clerical Workers” SF-Oak-SJ region for the 12 month period ending 4/30/09.&lt;/br&gt;
+                    &lt;strong&gt;&lt;em&gt;Note: PRWD chose to waive this CPI due to the economic struggles that were occurring at the time in the community and nation.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+                    &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt;&lt;/p&gt;
+                    &lt;ol&gt;
+                        &lt;li&gt;“Solid Waste Collection Fee Adjustment” – Mike Compton, Director of Administrative Services&lt;/li&gt;
+                        &lt;li&gt;&lt;a href=&#34;http://localhost:1313/paso-waste/pdf/RES_2006-142.pdf&#34;&#34;&gt;Resolution 06-142&lt;/a&gt; – Paso Robles City Council&lt;/li&gt;
+                    &lt;/ol&gt;
                 &lt;/div&gt;
                 &lt;div class=&#34;modal-footer&#34;&gt;
                     &lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34; data-dismiss=&#34;modal&#34;&gt;Close&lt;/button&gt;
@@ -595,13 +604,13 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h3 id=&#34;bag-tags&#34;&gt;BAG TAGS&lt;/h3&gt;
 
-&lt;p&gt;If you have more trash than what fits into your regular service, you can buy tags for $XX each by calling our office at (805) 238-2381. These tags will cover a 32 gallon container whether it is a box, bag or can (50 lbs. or less).&lt;/p&gt;
+&lt;p&gt;If you have more trash than what fits into your regular service, you can buy tags for $3 each by &lt;a href=&#34;http://localhost:1313/paso-waste/sidebar/contact/&#34;&gt;calling our office&lt;/a&gt;. These tags will cover a 32-gallon container whether it is a box, bag or can (50 lbs. or less).&lt;/p&gt;
 
 &lt;div class=&#34;article-icon&#34;&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/residential/rent-a-bin.png&#34;  /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/residential/rent-a-bin.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -610,7 +619,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h3 id=&#34;rent-a-bin-service&#34;&gt;RENT-A-BIN SERVICE&lt;/h3&gt;
 
-&lt;p&gt;We offer 3- and 4-yard temporary bin service. You can order a bin any time you have a larger-than-normal volume of garbage to dispose of. These bins are great for home remodeling and construction projects. &lt;a href=&#34;https://paso-waste-site.squarespace.com/rent-a-bin&#34;&gt;Learn More &amp;gt;&amp;gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We offer 3- and 4-yard temporary bin service. You can order a bin any time you have a larger-than-normal volume of garbage to dispose of. These bins are great for home remodeling and construction projects. &lt;a href=&#34;http://localhost:1313/paso-waste/service/Rent-A-Bin/&#34;&gt;Learn More&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;in-yard-service&#34;&gt;IN-YARD SERVICE&lt;/h3&gt;
 
@@ -618,7 +627,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h3 id=&#34;bulky-items&#34;&gt;BULKY ITEMS&lt;/h3&gt;
 
-&lt;p&gt;We can collect bulky items. Please call our office at (805) 238-2381 for an estimate. Bulky items include appliances, furniture, mattresses, any over-sized item that will not fit into your container. Read below for more information about our annual Clean-Up Week for bulky items.&lt;/p&gt;
+&lt;p&gt;We can collect bulky items. Please &lt;a href=&#34;http://localhost:1313/paso-waste/sidebar/contact/&#34;&gt;call our office&lt;/a&gt; for an estimate. Bulky items include appliances, furniture, mattresses, any over-sized item that will not fit into your container. Read below for more information about our annual Clean-Up Week for bulky items.&lt;/p&gt;
 
 &lt;h2 id=&#34;holiday-schedule&#34;&gt;Holiday Schedule&lt;/h2&gt;
 
@@ -690,7 +699,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/residential/xmas_tree.png&#34;  /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/residential/xmas_tree.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -699,12 +708,12 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h3 id=&#34;christmas-tree-pick-up&#34;&gt;CHRISTMAS TREE PICK-UP&lt;/h3&gt;
 
-&lt;p&gt;For no additional charge, you can place your whole undecorated tree at the curb on your regular service day between December 28, 2015 through January 8, 2016. We will be operating an additional truck that will be picking up just the Christmas trees. If you have any questions or concerns please call our office at (805) 238-2381.&lt;/p&gt;
+&lt;p&gt;For no additional charge, you can place your whole undecorated tree at the curb on your regular service day between December 28, 2015 through January 8, 2016. We will be operating an additional truck that will be picking up just the Christmas trees. If you have any questions or concerns please &lt;a href=&#34;http://localhost:1313/paso-waste/sidebar/contact/&#34;&gt;call our office&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Instructions&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Have your tree at the curb on your regular pick-up day no later than 6:00am&lt;/li&gt;
+&lt;li&gt;Have your tree at the curb on your regular pick-up day no later than 6am&lt;/li&gt;
 &lt;li&gt;Remove all decorations&lt;/li&gt;
 &lt;li&gt;Remove the stand&lt;/li&gt;
 &lt;li&gt;Do not cut it up&lt;/li&gt;
@@ -717,7 +726,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/residential/city_cleanup.png&#34;  /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/residential/city_cleanup.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -726,7 +735,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h2 id=&#34;annual-clean-up&#34;&gt;Annual City / Residential Clean-Up&lt;/h2&gt;
 
-&lt;p&gt;This annual June event allows each single family residence to place a maximum of seven (7) items of bulk household waste for curbside pick up during the clean-up event &lt;strong&gt;FOR FREE!&lt;/strong&gt; Bulk household waste means all discarded household waste matter which is too large to be placed in a covered container including, but not limited to, vehicle tires and/or wheels, furniture, appliances, discarded carpets, discarded mattresses, discarded electronic equipment, residential wastes (including wood waste, tree branches, scrap wood) and similar large items produced from residential premises. Country Disposal Clean-Up week can be viewed here.&lt;/p&gt;
+&lt;p&gt;This annual June event allows each single family residence to place a maximum of seven (7) items of bulk household waste for curbside pick up during the clean-up event &lt;strong&gt;FOR FREE!&lt;/strong&gt; Bulk household waste means all discarded household waste matter which is too large to be placed in a covered container including, but not limited to, vehicle tires and/or wheels, furniture, appliances, discarded carpets, discarded mattresses, discarded electronic equipment, residential wastes (including wood waste, tree branches, scrap wood) and similar large items produced from residential premises. &lt;a href=&#34;http://www.countrydispsal.com/news/clean-up.php&#34;&gt;Learn more&lt;/a&gt; about Country Disposal Clean-Up week.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;ZONE 1 – JUNE 15-19, 2015 (SEE MAP)&lt;/strong&gt;&lt;/p&gt;
 
@@ -740,7 +749,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/residential/2015cleanup_map_smaller.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/residential/2015cleanup_map_smaller.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -751,15 +760,15 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
     <item>
       <title>Commercial</title>
-      <link>https://edisoncode.github.io/paso-waste/service/commercial/</link>
+      <link>http://localhost:1313/paso-waste/service/commercial/</link>
       <pubDate>Fri, 10 Jul 2015 09:37:10 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/service/commercial/</guid>
+      <guid>http://localhost:1313/paso-waste/service/commercial/</guid>
       <description>
 
-&lt;h2 id=&#34;for-business&#34;&gt;For Business&lt;/h2&gt;
+&lt;h2 id=&#34;for-businesses&#34;&gt;For Businesses&lt;/h2&gt;
 
-&lt;p&gt;Something awesome to say about how businesses &amp;lt;3 commercial services&lt;/p&gt;
+&lt;p&gt;Our commercial services are tailored to your business, whether you own a restaurant, clothing store or anything in between. We offer landfill, recycling, and organics containers to our customers.&lt;/p&gt;
 
 &lt;h2 id=&#34;bin-sizes&#34;&gt;Bin Sizes&lt;/h2&gt;
 
@@ -771,7 +780,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/commercial/1.5yard_brown.png&#34; alt=&#34;1.5-yard&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/commercial/1.5yard_brown.png&#34; alt=&#34;1.5-yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -783,7 +792,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/commercial/2yard_brown.png&#34; alt=&#34;2-yard&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/commercial/2yard_brown.png&#34; alt=&#34;2-yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -795,7 +804,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/commercial/3yard_brown.png&#34; alt=&#34;3-yard&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/commercial/3yard_brown.png&#34; alt=&#34;3-yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -807,7 +816,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/commercial/4yard_brown.png&#34; alt=&#34;4-yard&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/commercial/4yard_brown.png&#34; alt=&#34;4-yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -822,15 +831,15 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;!-- TODO:  jed needs to resolve these with js --&gt;
 
-&lt;p&gt;To view current service rates please &lt;a href=&#34;service/commercial#modal-address&#34;&gt;sign up for service&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To view current service rates please &lt;a href=&#34;#signup&#34;&gt;enter your address&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;service-frequency&#34;&gt;Service Frequency&lt;/h2&gt;
 
-&lt;p&gt;You may choose to have your containers emptied from once to six times per week. Saturday service is only available on 3 and 4-yard containers.&lt;/p&gt;
+&lt;p&gt;You may choose to have your containers emptied from once to six times per week. Saturday service is only available on 3- and 4-yard containers.&lt;/p&gt;
 
 &lt;h2 id=&#34;recycling&#34;&gt;Recycling&lt;/h2&gt;
 
-&lt;p&gt;We have three main recycling programs all of which are available to our customers at no additional charge.&lt;/p&gt;
+&lt;p&gt;We have two main recycling programs all of which are available to our customers at no additional charge.&lt;/p&gt;
 
 &lt;h3 id=&#34;why-recycle-at-your-business&#34;&gt;WHY RECYCLE AT YOUR BUSINESS?&lt;/h3&gt;
 
@@ -855,7 +864,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 &lt;li&gt;4-yard bin&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;*1.5 and 2-yard service is provided in a split-bin and must be matched with the same size garbage service because the bin is literally split in half.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;*1.5- and 2-yard service is provided in a split-bin and must be matched with the same size garbage service because the bin is literally split in half.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;We are happy to provide your business with assistance in developing a recycling plan as well as helping you determine if your waste is recyclable.&lt;/p&gt;&lt;/li&gt;
 
@@ -863,7 +872,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;p&gt;With this service you can recycle all of your organic recyclable materials (no food waste just yet). This is a great service if you have landscaping that is maintained at your business.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Container size available&lt;/strong&gt;: 96-gallon automated carts (we will give you several if needed)&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;&lt;strong&gt;Container size available&lt;/strong&gt;: 96-gallon automated carts (we will give you several if needed).&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&#34;container-placement&#34;&gt;Container Placement&lt;/h2&gt;
@@ -872,27 +881,21 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h2 id=&#34;container-cleaning&#34;&gt;Container Cleaning&lt;/h2&gt;
 
-&lt;p&gt;You can request to have you containers steam cleaned twice per year. Any additional cleanings will be billed to your account. To schedule a cleaning please &lt;a href=&#34;https://edisoncode.github.io/paso-waste/contact&#34;&gt;contact&lt;/a&gt; our office.&lt;/p&gt;
+&lt;p&gt;You can request to have you containers steam cleaned twice per year. Any additional cleanings will be billed to your account. To schedule a cleaning please &lt;a href=&#34;http://localhost:1313/paso-waste/contact&#34;&gt;contact&lt;/a&gt; our office.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Recycling</title>
-      <link>https://edisoncode.github.io/paso-waste/recycling/</link>
+      <link>http://localhost:1313/paso-waste/recycling/</link>
       <pubDate>Mon, 13 Jul 2015 09:02:05 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/recycling/</guid>
+      <guid>http://localhost:1313/paso-waste/recycling/</guid>
       <description>
 
 &lt;h2 id=&#34;when-in-doubt-recycle-it&#34;&gt;When in doubt, recycle it!&lt;/h2&gt;
 
-&lt;p&gt;Our goal is to keep this city beautiful and help make it easy for residents to do the same. Use this guide to determine which materials are considered recyclable and which are not&lt;/p&gt;
-
-&lt;div class=&#34;modal-btn&#34;&gt;
-    &lt;button type=&#34;button&#34; class=&#34;btn btn-primary btn-lg&#34; data-toggle=&#34;modal&#34; data-target=&#34;#rateModal&#34;&gt;
-                Recycling List PDF
-    &lt;/button&gt;
-&lt;/div&gt;
+&lt;p&gt;Our goal is to keep this city beautiful and help make it easy for residents to do the same. Use this guide to determine which materials are considered recyclable and which are not.&lt;/p&gt;
 
 &lt;p&gt;Any item placed in your recycling cart will be sorted by a recycling processor that will determine the type of material. As long as the item isn&amp;rsquo;t on the &amp;ldquo;Not Acceptable&amp;rdquo; list, place it in the blue cart and we&amp;rsquo;ll take care of the rest.
 &lt;div class=&#34;recyclables&#34;&gt;&lt;/p&gt;
@@ -940,28 +943,30 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 &lt;h3 id=&#34;list-columns-3&#34;&gt;Plastic&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Plastic food containers any color&lt;/li&gt;
-&lt;li&gt;Soda bottles&lt;/li&gt;
+&lt;li&gt;Containers (any color, numbers 1-7)&lt;/li&gt;
+&lt;li&gt;Water &amp;amp; soda bottles&lt;/li&gt;
 &lt;li&gt;Detergent &amp;amp; shampoo bottles&lt;/li&gt;
-&lt;li&gt;Plastic food containers marked with numbers 1-7&lt;/li&gt;
-&lt;li&gt;All types of plastic marked with numbers 1-7&lt;/li&gt;
-&lt;li&gt;All types of plastic bags (when bundled together)&lt;/li&gt;
-&lt;li&gt;Styrofoam&lt;/li&gt;
+&lt;li&gt;Plastic bags (bundled)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;list-columns-4&#34;&gt;&lt;del&gt;Not Acceptable&lt;/del&gt;&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Hazardous waste of any kind&lt;/li&gt;
+&lt;li&gt;Hazardous waste&lt;/li&gt;
+&lt;li&gt;Syrofoam&lt;/li&gt;
 &lt;li&gt;Carbon paper or photographs&lt;/li&gt;
 &lt;li&gt;Window glass&lt;/li&gt;
 &lt;li&gt;Mirrors&lt;/li&gt;
 &lt;li&gt;Light bulbs&lt;/li&gt;
-&lt;li&gt;Fluorescent light bulbs&lt;/li&gt;
-&lt;li&gt;Computers&lt;/li&gt;
-&lt;li&gt;Electronics&lt;/li&gt;
+&lt;li&gt;&lt;href=&#34;#&#34; class=&#34;btn-link&#34; data-toggle=&#34;modal&#34; data-target=&#34;#ewasteModal&#34;&gt;Fluorescent lights&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;href=&#34;#&#34; class=&#34;btn-link&#34; data-toggle=&#34;modal&#34; data-target=&#34;#ewasteModal&#34;&gt;Computers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;href=&#34;#&#34; class=&#34;btn-link&#34; data-toggle=&#34;modal&#34; data-target=&#34;#ewasteModal&#34;&gt;Electronics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;href=&#34;#&#34; class=&#34;btn-link&#34; data-toggle=&#34;modal&#34; data-target=&#34;#ewasteModal&#34;&gt;Batteries&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Needles/SHARPS&lt;/li&gt;
-&lt;li&gt;Trash&lt;/li&gt;
+&lt;li&gt;Animal waste&lt;/li&gt;
+&lt;li&gt;Food scraps&lt;/li&gt;
+&lt;li&gt;Used diapers&lt;/li&gt;
+&lt;li&gt;Landfill waste&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;/div&gt;
@@ -978,12 +983,13 @@ needs to be compostable. Animal waste is not accepted as green waste.&lt;/p&gt;
 &lt;li&gt;Grass&lt;/li&gt;
 &lt;li&gt;Leaves&lt;/li&gt;
 &lt;li&gt;Weeds&lt;/li&gt;
+&lt;li&gt;Flowers&lt;/li&gt;
 &lt;li&gt;Brush&lt;/li&gt;
-&lt;li&gt;Prunings less than 4&amp;rsquo; long and 6&amp;rdquo; in diameter&lt;/li&gt;
 &lt;li&gt;Small branches&lt;/li&gt;
+&lt;li&gt;Prunings (less than 4 feet long and 6 inches in diameter)&lt;/li&gt;
 &lt;li&gt;Unpainted scrap lumber&lt;/li&gt;
 &lt;li&gt;Fruit tree droppings&lt;/li&gt;
-&lt;li&gt;Trees cut to fit in cart&lt;/li&gt;
+&lt;li&gt;Trees (cut to fit in cart)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;list-columns-6&#34;&gt;&lt;del&gt;Not Acceptable&lt;/del&gt;&lt;/h3&gt;
@@ -993,12 +999,14 @@ Containers contaminated with trash will receive a service charge per incident. R
 offenders will have containers removed.&lt;/del&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Trash&lt;/li&gt;
 &lt;li&gt;Hazardous waste&lt;/li&gt;
-&lt;li&gt;Plastic, glass, cans, or paper (recyclables)&lt;/li&gt;
-&lt;li&gt;Poison oak, bamboo, Palm fronds, cypress, &amp;amp; ice-plant&lt;/li&gt;
+&lt;li&gt;Plastic, glass, cans or paper (recyclables)&lt;/li&gt;
 &lt;li&gt;Dirt or rocks&lt;/li&gt;
-&lt;li&gt;Food or animal waste&lt;/li&gt;
+&lt;li&gt;Poison oak, bamboo, palm fronds, cypress or ice plant&lt;/li&gt;
+&lt;li&gt;Animal waste&lt;/li&gt;
+&lt;li&gt;Food scraps&lt;/li&gt;
+&lt;li&gt;Diapers&lt;/li&gt;
+&lt;li&gt;Landfill waste&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;/div&gt;
@@ -1009,9 +1017,7 @@ offenders will have containers removed.&lt;/del&gt;&lt;/p&gt;
 &lt;p&gt;If we can not accept a material in the blue (recycle) container or green (organics) container then
 it will be placed in the gray/black (landfill) container. This also includes contaminated materials.
 Contamination can make any recyclable material ineligible for recycling. Some materials,
-like metals, can be recycled even with high levels of contamination. Other materials, like
-polystyrene, are barely recyclable to begin with, and can be rendered completely ineligible for
-recycling even with the slightest trace of contamination.&lt;/p&gt;
+like metals, can be recycled even with high levels of contamination.&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
 &lt;div class=&#34;hazardous-materials&#34;&gt;&lt;/p&gt;
@@ -1059,7 +1065,7 @@ be placed in our containers for collection:&lt;/p&gt;
                     &lt;h4 class=&#34;modal-title&#34; id=&#34;myModalLabel&#34;&gt;Oil &amp; Filters&lt;/h4&gt;
                 &lt;/div&gt;
                 &lt;div class=&#34;modal-body&#34;&gt;
-                    &lt;p&gt;Free curbside oil recycling is available. &lt;a href=&#34;https://edisoncode.github.io/paso-waste/sidebar/contact/&#34;&gt;Contact&lt;/a&gt; our office to schedule a pick-up of your used motor oil. We will provide you with a 15-quart capacity oil container and an oil filter bag.&lt;/p&gt;
+                    &lt;p&gt;Free curbside oil recycling is available. &lt;a href=&#34;http://localhost:1313/paso-waste/sidebar/contact/&#34;&gt;Contact&lt;/a&gt; our office to schedule a pick-up of your used motor oil. We will provide you with a 15-quart capacity oil container and an oil filter bag.&lt;/p&gt;
                 &lt;/div&gt;
                 &lt;div class=&#34;modal-footer&#34;&gt;
                     &lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34; data-dismiss=&#34;modal&#34;&gt;Close&lt;/button&gt;
@@ -1078,7 +1084,7 @@ be placed in our containers for collection:&lt;/p&gt;
                     &lt;h4 class=&#34;modal-title&#34; id=&#34;myModalLabel&#34;&gt;Electronic Waste, Batteries, Fluorescent Lights, Televisions&lt;/h4&gt;
                 &lt;/div&gt;
                 &lt;div class=&#34;modal-body&#34;&gt;
-                    &lt;p&gt;The San Luis Obispo Integrated Waste Management Authority had provided us with containers to accept your electronic waste, household batteries, fluorescent lamps and tubes which are located at our &lt;a href=&#34;https://edisoncode.github.io/paso-waste/sidebar/contact/&#34;&gt;office&lt;/a&gt;.&lt;/p&gt;
+                    &lt;p&gt;The San Luis Obispo Integrated Waste Management Authority had provided us with containers to accept your electronic waste, household batteries, fluorescent lamps and tubes which are located at our &lt;a href=&#34;http://localhost:1313/paso-waste/sidebar/contact/&#34;&gt;office&lt;/a&gt;.&lt;/p&gt;
                 &lt;/div&gt;
                 &lt;div class=&#34;modal-footer&#34;&gt;
                     &lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34; data-dismiss=&#34;modal&#34;&gt;Close&lt;/button&gt;
@@ -1092,15 +1098,15 @@ be placed in our containers for collection:&lt;/p&gt;
     
     <item>
       <title>Rent-A-Bin</title>
-      <link>https://edisoncode.github.io/paso-waste/service/Rent-A-Bin/</link>
+      <link>http://localhost:1313/paso-waste/service/Rent-A-Bin/</link>
       <pubDate>Fri, 10 Jul 2015 12:51:38 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/service/Rent-A-Bin/</guid>
+      <guid>http://localhost:1313/paso-waste/service/Rent-A-Bin/</guid>
       <description>
 
 &lt;h2 id=&#34;drop-off--pick-up&#34;&gt;Drop Off &amp;amp; Pick-Up&lt;/h2&gt;
 
-&lt;p&gt;These bins are handy anytime you are doing a project that will generate a larger volume of trash than you can put in your automated container. Please call our office several days ahead of time to schedule your delivery as availability is limited.&lt;/p&gt;
+&lt;p&gt;These temporary containers are dropped off at your house or business and picked up when you’re ready for them to be hauled away.&lt;/p&gt;
 
 &lt;h2 id=&#34;bin-sizes&#34;&gt;Bin Sizes&lt;/h2&gt;
 
@@ -1112,7 +1118,7 @@ be placed in our containers for collection:&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rent-a-bin/3yard_blue.png&#34; alt=&#34;3 Yard&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rent-a-bin/3yard_blue.png&#34; alt=&#34;3 Yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1124,7 +1130,7 @@ be placed in our containers for collection:&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rent-a-bin/4yard_blue.png&#34; alt=&#34;4 Yard&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rent-a-bin/4yard_blue.png&#34; alt=&#34;4 Yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1133,22 +1139,20 @@ be placed in our containers for collection:&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;To learn more about sizes and how much waste they hold, please &lt;a href=&#34;service/commercial#modal-address&#34;&gt;sign up for service&lt;/a&gt;.&lt;/p&gt;
-
 &lt;h2 id=&#34;rates&#34;&gt;Rates&lt;/h2&gt;
 
-&lt;p&gt;To view current rates please &lt;a href=&#34;service/commercial#modal-address&#34;&gt;sign up for service&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To view current rates please &lt;a href=&#34;#sign-up&#34;&gt;enter your address&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;categories-of-waste&#34;&gt;Categories of Waste&lt;/h2&gt;
 
-&lt;p&gt;There are many options for&amp;hellip;&lt;/p&gt;
+&lt;p&gt;There are many options for what these bins can hold. This includes:&lt;/p&gt;
 
 &lt;div class=&#34;clearfix&#34;&gt;
 &lt;div class=&#34;waste-categories col-md-5&#34;&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rent-a-bin/household.png&#34; alt=&#34;Household&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rent-a-bin/household.png&#34; alt=&#34;A pile of household waste for a rent-a-bin.&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1159,7 +1163,7 @@ be placed in our containers for collection:&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rent-a-bin/remodel.png&#34; alt=&#34;Remodel&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rent-a-bin/remodel.png&#34; alt=&#34;A pile of sheetrock for a rent-a-bin.&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1173,7 +1177,7 @@ be placed in our containers for collection:&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rent-a-bin/roofing.png&#34; alt=&#34;Roofing&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rent-a-bin/roofing.png&#34; alt=&#34;A pile of roofing shingles for a rent-a-bin.&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1184,7 +1188,7 @@ be placed in our containers for collection:&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rent-a-bin/sod.png&#34; alt=&#34;Sod&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rent-a-bin/sod.png&#34; alt=&#34;A pile of rolled up sod for a rent-a-bin.&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1198,7 +1202,7 @@ be placed in our containers for collection:&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rent-a-bin/concrete.png&#34; alt=&#34;Concrete&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rent-a-bin/concrete.png&#34; alt=&#34;A pile of broken up concrete for a rent-a-bin.&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1209,7 +1213,7 @@ be placed in our containers for collection:&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rent-a-bin/other.png&#34; alt=&#34;Other&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rent-a-bin/other.png&#34; alt=&#34;A pile of trash bags for a rent-a-bin.&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1222,10 +1226,10 @@ be placed in our containers for collection:&lt;/p&gt;
     
     <item>
       <title>Roll-Off</title>
-      <link>https://edisoncode.github.io/paso-waste/service/rolloff/</link>
+      <link>http://localhost:1313/paso-waste/service/rolloff/</link>
       <pubDate>Mon, 13 Jul 2015 09:02:13 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/service/rolloff/</guid>
+      <guid>http://localhost:1313/paso-waste/service/rolloff/</guid>
       <description>
 
 &lt;h2 id=&#34;our-sister-company&#34;&gt;Our Sister Company&lt;/h2&gt;
@@ -1234,7 +1238,7 @@ be placed in our containers for collection:&lt;/p&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/roll-off_logo.png&#34;  /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rolloff/roll-off_logo.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -1246,6 +1250,10 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;p&gt;To learn more and to order service, please visit &lt;a href=&#34;http://www.pasorolloff.com/&#34;&gt;PasoRolloff.com&lt;/a&gt;.&lt;/p&gt;
 
+&lt;h2 id=&#34;drop-off--pick-up&#34;&gt;Drop Off &amp;amp; Pick Up&lt;/h2&gt;
+
+&lt;p&gt;These temporary containers are dropped off at your house or business and picked up when you’re ready for them to be hauled away.&lt;/p&gt;
+
 &lt;h2 id=&#34;bin-sizes&#34;&gt;Bin Sizes&lt;/h2&gt;
 
 &lt;p&gt;You can choose from the following four container sizes:&lt;/p&gt;
@@ -1256,7 +1264,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/10yard.png&#34; alt=&#34;10 Yard&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rolloff/10yard.png&#34; alt=&#34;10 Yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1268,7 +1276,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/20yard.png&#34; alt=&#34;20 Yard&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rolloff/20yard.png&#34; alt=&#34;20 Yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1280,7 +1288,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/30yard.png&#34; alt=&#34;30 yard&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rolloff/30yard.png&#34; alt=&#34;30 yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1292,7 +1300,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/40yard.png&#34; alt=&#34;40 yard&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rolloff/40yard.png&#34; alt=&#34;40 yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1305,18 +1313,18 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;!-- TODO:  jed needs to resolve these with js --&gt;
 
-&lt;p&gt;To view current rates please &lt;a href=&#34;service/commercial#modal-address&#34;&gt;sign up for service&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To view current rates please &lt;a href=&#34;#sign-up&#34;&gt;enter your address&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;categories-of-waste&#34;&gt;Categories of Waste&lt;/h2&gt;
 
-&lt;p&gt;There are many options for&amp;hellip;&lt;/p&gt;
+&lt;p&gt;There are many options for what these bins can hold. This includes:&lt;/p&gt;
 
 &lt;div class=&#34;clearfix&#34;&gt;
 &lt;div class=&#34;waste-categories col-md-5&#34;&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/household.png&#34; alt=&#34;Household&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rolloff/household.png&#34; alt=&#34;Household&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1327,7 +1335,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/remodel.png&#34; alt=&#34;Remodel&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rolloff/remodel.png&#34; alt=&#34;Remodel&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1341,7 +1349,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/roofing.png&#34; alt=&#34;Roofing&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rolloff/roofing.png&#34; alt=&#34;Roofing&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1352,7 +1360,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/sod.png&#34; alt=&#34;Sod&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rolloff/sod.png&#34; alt=&#34;Sod&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1366,7 +1374,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/concrete.png&#34; alt=&#34;Concrete&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rolloff/concrete.png&#34; alt=&#34;Concrete&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1377,7 +1385,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/rolloff/other.png&#34; alt=&#34;Other&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/rolloff/other.png&#34; alt=&#34;Other&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1390,13 +1398,13 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
     <item>
       <title>FAQs</title>
-      <link>https://edisoncode.github.io/paso-waste/faq/</link>
+      <link>http://localhost:1313/paso-waste/faq/</link>
       <pubDate>Mon, 13 Jul 2015 09:02:55 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/faq/</guid>
+      <guid>http://localhost:1313/paso-waste/faq/</guid>
       <description>
 
-&lt;h2 id=&#34;service-questions&#34;&gt;Service Questions&lt;/h2&gt;
+&lt;h2 id=&#34;service&#34;&gt;Service&lt;/h2&gt;
 
 &lt;h3 id=&#34;how-do-i-sign-up-for-garbage-service&#34;&gt;HOW DO I SIGN UP FOR GARBAGE SERVICE?&lt;/h3&gt;
 
@@ -1404,7 +1412,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;h3 id=&#34;my-trash-was-not-emptied-what-now&#34;&gt;MY TRASH WAS NOT EMPTIED, WHAT NOW?&lt;/h3&gt;
 
-&lt;p&gt;Please call our office, 805-238-2381. If you had your can out by 6AM on your pick-up day, we will send a truck back by your house at no charge. If your can was not out, we will send a truck to empty your can and charge you our &amp;ldquo;Go Back&amp;rdquo; fee.&lt;/p&gt;
+&lt;p&gt;Please &lt;a href=&#34;http://localhost:1313/paso-waste/contact&#34;&gt;call our office&lt;/a&gt;. If you had your can out by 6AM on your pick-up day, we will send a truck back by your house at no charge. If your can was not out, we will send a truck to empty your can and charge you our &amp;ldquo;Go Back&amp;rdquo; fee.&lt;/p&gt;
 
 &lt;h3 id=&#34;do-you-pick-up-my-trash-on-holidays&#34;&gt;DO YOU PICK UP MY TRASH ON HOLIDAYS?&lt;/h3&gt;
 
@@ -1418,7 +1426,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;p&gt;We offer temporary 3 and 4 yard bin service. Call our office and they will have a container delivered to your address within a couple of business days. If you are doing a very large project and plan on having more than just a few yards of garbage you can alternatively contact Paso Robles Roll-Off, Inc. at 805-238-4897. They offer 20, 30, and 40 yard temporary containers.&lt;/p&gt;
 
-&lt;h2 id=&#34;electronic-billing-questions&#34;&gt;Electronic Billing Questions&lt;/h2&gt;
+&lt;h2 id=&#34;billing&#34;&gt;Billing&lt;/h2&gt;
 
 &lt;h3 id=&#34;autopay-ach&#34;&gt;AUTOPAY – ACH&lt;/h3&gt;
 
@@ -1431,8 +1439,6 @@ hazardous). Often we are able to offer same day or next day service for most loc
 &lt;p&gt;We can process your credit card each month for your total bill amount. This program is similar to the ACH AutoPay program except we use either your VISA or MasterCard as your payment source. You will continue to receive a paper bill and it will have a message on it saying &amp;ldquo;AutoPay Do Not Pay&amp;rdquo;.&lt;/p&gt;
 
 &lt;p&gt;These programs are great for people who do not want to worry about late payments or the hassle of mailing or hand delivering a payment.&lt;/p&gt;
-
-&lt;h2 id=&#34;traditional-billing-questions&#34;&gt;Traditional Billing Questions&lt;/h2&gt;
 
 &lt;h3 id=&#34;residential&#34;&gt;RESIDENTIAL&lt;/h3&gt;
 
@@ -1452,10 +1458,10 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
     <item>
       <title>About</title>
-      <link>https://edisoncode.github.io/paso-waste/about/</link>
+      <link>http://localhost:1313/paso-waste/about/</link>
       <pubDate>Mon, 13 Jul 2015 09:03:00 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/about/</guid>
+      <guid>http://localhost:1313/paso-waste/about/</guid>
       <description>
 
 &lt;h2 id=&#34;mission-statement&#34;&gt;Mission Statement&lt;/h2&gt;
@@ -1490,7 +1496,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;h2 id=&#34;employees&#34;&gt;Employees&lt;/h2&gt;
 
-&lt;p&gt;We have an ever-expanding group of friends and family that work for Paso Robles Waste &amp;amp; Recycle. Each of the employees that work for us are fundamental to the success of the company. Head over to our Facebook page to see who is recognized for their outstanding efforts.&lt;/p&gt;
+&lt;p&gt;We have an ever-expanding group of friends and family that work for Paso Robles Waste &amp;amp; Recycle. Each of the employees that work for us are fundamental to the success of the company. Head over to our &lt;a href=&#34;http://www.facebook.com/pasowaste&#34;&gt;Facebook&lt;/a&gt; page to see who is recognized for their outstanding efforts.&lt;/p&gt;
 
 &lt;h3 id=&#34;managers&#34;&gt;MANAGERS&lt;/h3&gt;
 
@@ -1510,11 +1516,11 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;h2 id=&#34;community&#34;&gt;Community&lt;/h2&gt;
 
-&lt;div class=&#34;article-image-center community-icons&#34;&gt;
+&lt;div class=&#34;community-icons&#34;&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://edisoncode.github.io/paso-waste/media/aboutus/community.png&#34; alt=&#34;Supported Organizations&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/paso-waste/media/aboutus/community.png&#34; alt=&#34;Supported Organizations&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1531,28 +1537,28 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
     <item>
       <title>Contact</title>
-      <link>https://edisoncode.github.io/paso-waste/contact/</link>
+      <link>http://localhost:1313/paso-waste/contact/</link>
       <pubDate>Mon, 13 Jul 2015 09:03:05 -0700</pubDate>
       
-      <guid>https://edisoncode.github.io/paso-waste/contact/</guid>
+      <guid>http://localhost:1313/paso-waste/contact/</guid>
       <description>
 
 &lt;h2 id=&#34;contact-info&#34;&gt;Contact Info&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Office Phone&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;office-phone&#34;&gt;Office Phone&lt;/h3&gt;
 
 &lt;p&gt;(805) 238-2381
 (option 1 for customer service)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Fax&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;fax&#34;&gt;Fax&lt;/h3&gt;
 
 &lt;p&gt;(805) 238-6387&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;email&#34;&gt;Email&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:service@prwaste.com&#34;&gt;service@prwaste.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Social Media&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;social-media&#34;&gt;Social Media&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.facebook.com/pasowaste&#34;&gt;Facebook.com/pasowaste&lt;/a&gt;&lt;/p&gt;
 
@@ -1562,12 +1568,14 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;p&gt;Our office is open Monday through Friday from 8:00am to 5:00pm. The office does close for most major holidays but our trucks will run their regular routes. Learn more about our &lt;a href=&#34;service/residential#holiday-schedule&#34;&gt;Christmas Week schedule&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Office Location&lt;/strong&gt;
-2951 Wallace Drive
+&lt;h3 id=&#34;office-location&#34;&gt;Office Location&lt;/h3&gt;
+
+&lt;p&gt;2951 Wallace Drive&lt;br/&gt;
 Paso Robles, CA 93446&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Mailing Address&lt;/strong&gt;
-P.O. Box 278
+&lt;h3 id=&#34;mailing-address&#34;&gt;Mailing Address&lt;/h3&gt;
+
+&lt;p&gt;P.O. Box 278&lt;br/&gt;
 Paso Robles, CA 93446&lt;/p&gt;
 </description>
     </item>

@@ -204,8 +204,7 @@ a:hover,
 	color: #fff;
 }
 
-.wastemate-hero-signup-form .input-group-btn:last-child > .btn,
-.wastemate-hero-signup-form .input-group-btn:last-child > .btn-group {
+.wastemate-hero-signup-form .input-group-btn:last-child > .btn {
     margin-left: 0;
 }
 
@@ -224,8 +223,8 @@ a:hover,
 }
 
 .wastemate-hero-signup a	{
-		color: #fff;
-		text-decoration: underline;
+	color: #fff;
+	text-decoration: underline;
 }
 
 
@@ -307,18 +306,17 @@ a:hover,
 	font-weight: 300;
 }
 
-.inner-nav .container .lob .icon {
-	float: left;
-	margin-right: 20px;
+.description a {
+	color: #fff;
+	text-decoration: underline;
+}
+
+.description a:hover{
+	cursor: pointer
 }
 
 .inner-nav .container .lob .title {
 	overflow:hidden;
-}
-
-.inner-nav .container .lob a {
-	color: #fff;
-	text-decoration: underline;
 }
 
 .inner-nav .nav-col-1 a:hover,
@@ -368,16 +366,27 @@ main	{
 
 main h2,
 .sidebar h2 {
-	margin-top: 40px;
+	margin-top: 20px;
 	margin-bottom: 10px;
 	color: #0081c6;
 	font-weight: 200;
 	font-size: 4.1em;
 }
 
-.content > h2:first-of-type,
-.sidebar h2:first-of-type {
-		margin-top: 0;
+.content > h2:first-of-type{
+	margin-top: 0;
+}
+
+.sidebar > h2:first-of-type{
+	margin-top: 16px;
+}
+
+.sidebar:last-child {
+	margin-bottom: 20px;
+}
+
+.sidebar img {
+	margin-top: 10px;
 }
 
 main	h3,
@@ -387,7 +396,6 @@ main	ul li,
 main	ol li ul li,
 .sidebar h3,
 .sidebar p,
-.sidebar ol li,
 .sidebar ul li {
   font-size: 1.6em;
   font-weight: normal;
@@ -399,6 +407,7 @@ main	ol li ul li,
 main	ol li ul li,
 main	ol li p {
   font-size: 1em;
+  list-style-type: disc;
 }
 
 main	h3,
@@ -418,49 +427,51 @@ main ol	{
   padding-left: 20px;
 }
 
-main ol li ul,
-.sidebar ol li ul	{
-  padding-left: 20px;
-  margin-bottom: 10px;
-  margin-left: 30px;
+main ol li ul	{
+  padding-left: 17px;
 }
 
-main ol li ul li
-.sidebar ol li ul li	{
-  font-size: 1em;
-  list-style: disc;
+main ol li p + ul	{
+  margin-bottom: 10px;
 }
 
 #list-commercial + ol li,
 #list-commercial + ol li	p:first-of-type	{
   color: #0081c6;
-  margin-left: 0px;
+  margin-left: 0;
   font-weight: 600;
+}
+
+#instructions + ol li	{
+  font-weight: 600;
+}
+
+#instructions + ol li ul li	{
+  font-weight: 400;
 }
 
 #list-commercial + ol li ul li	{
   color: #333;
   font-weight: 400;
+  margin-left: 23px;
 }
 
 [id |= list-columns]  + ul {
-    -moz-column-count: 2;
-    -moz-column-gap: 20px;
-    -webkit-column-count: 2;
-    -webkit-column-gap: 20px;
-    column-count: 2;
-    column-gap: 20px;
-    padding-left: 0;
+	-moz-column-count: 2;
+	-moz-column-gap: 20px;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 20px;
+	column-count: 2;
+	column-gap: 20px;
+	padding-left: 0;
 }
 
 [id |= list-columns]  + ul li {
-    list-style-position: outside;
-    margin-left: 1em;
+	margin-left: 17px;
 }
 
-main ul li p,
 main ol li	p	{
-  margin-left: 30px;
+  margin-left: 20px;
 }
 
 .sidebar ul	{
@@ -470,14 +481,7 @@ main ol li	p	{
 .sidebar ul li	{
   list-style: none;
   padding-left: 0;
-}
-
-.markdown-block ol li	{
-	font-weight: 700;
-}
-
-.markdown-block ol li ul li	{
-	font-weight: 300;
+  padding-bottom: 10px;
 }
 
 .btn-primary	{
@@ -510,22 +514,8 @@ main ol li	p	{
 	background: url("../media/recycling/hazardous.png") no-repeat;
 }
 
-
-
-
-
-
-#content + p + figure	{
-	display: none;
-	float: left;
-}
-
-
-
-/* Overrides different inlines styles between FF and Chrome */
-.index-section-image img.loaded	{
-	top: 0 !important;
-	width: 100% !important;
+.organics ul:last-of-type	{
+	padding-left: 17px;
 }
 
 .center {
@@ -545,43 +535,7 @@ main ol li	p	{
 	height: auto;
 }
 
-.xmas-tree img	{
-	width: 200px;
-	float: left;
-	margin-right: 20px;
-}
-
-.banner-thumbnail-wrapper {
-  background-color: fade(#ccc,100%);
-  .color-overlay {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-color: #ccc;
-    z-index: 99;
-  }
-}
-
-.banner-thumbnail-wrapper {
-  position: relative;
-  overflow: hidden;
-  padding: 5px 0;
-  width: 100%;
-}
-
-#thumbnail {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-}
-
-.container>.navbar-header,
 .container-fluid>.navbar-header,
-.container>.navbar-collapse,
 .container-fluid>.navbar-collapse {
 	margin-right: 6%;
 	margin-left: 6%;
@@ -704,14 +658,6 @@ del	{
   padding: 0 15px;
 }
 
-.modal-body ol,
-.modal-body ul	{
-	padding-left: 0;
-}
-
-
-
-
 
 
 /* Footer */
@@ -781,7 +727,6 @@ footer .copyright	{
     .navbar-header {
       float: none;
     }
-    .navbar-left,
     .navbar-right {
       float: none !important;
     }
@@ -810,24 +755,15 @@ footer .copyright	{
       padding-top: 10px;
       padding-bottom: 10px;
     }
-    .collapse.in	{
-  		display:block !important;
-		}
-
-		.navbar-fixed-bottom .navbar-collapse,
 		.navbar-fixed-top .navbar-collapse {
 				max-height: none;
 		}
 
-		.container>.navbar-header,
 		.container-fluid>.navbar-header,
-		.container>.navbar-collapse,
 		.container-fluid>.navbar-collapse {
 			margin-right: 15px !important;
 			margin-left: 15px !important;
 			}
-
-		.navbar > .container .navbar-brand,
 		.navbar > .container-fluid .navbar-brand {
 				margin-left: 0 !important;
 		}
@@ -863,18 +799,6 @@ footer .copyright	{
 			font-size: 4.2em;
 		}
 
-		#heroImage.home .wastemate-hero-signup	{
-			margin-top: 0;
-		}
-
-		.col-md-3.wastemate-hero-signup-form	{
-			width: 33%;
-		}
-
-		.inner-nav .container .lob .icon {
-			display: none;
-		}
-
 		footer h2.about,
 		footer h2.contact	{
 			margin-top: 20px;
@@ -890,10 +814,6 @@ footer .copyright	{
 
 		#heroImage.home .bg-image {
 			background-position: 100% 50% !important;
-		}
-
-		.col-md-3.wastemate-hero-signup-form	{
-			width: 50%;
 		}
 
 		.landing-nav .col-md-3	{
@@ -914,8 +834,28 @@ footer .copyright	{
 			 margin-left: 35px;
 		}
 
+		#heroImage {
+			min-height: 0;
+			padding-top: 0;
+		}
+
+		#heroImage.home {
+				padding-top: 0;
+		}
+
+		.bg-image {
+			position: relative;
+		}
+
+		.wastemate-hero-signup	{
+				border-radius: 0;
+				box-shadow: none;
+				margin-top: 0;
+		}
+
 		.wastemate-hero-title h1 {
 			font-size: 3em;
+			margin: 10px 0;
 		}
 
 		#heroImage.home .wastemate-hero-signup	{
@@ -926,12 +866,8 @@ footer .copyright	{
 			width: none;
 		}
 
-		.inner-nav {
-			padding: 15px 0;
-		}
-
-		.site-summary {
-				font-size: 1.9em;
+		.inner-nav .site-summary {
+				font-size: 1.6em;
 		}
 
 		.inner-nav .lob	{
@@ -945,12 +881,12 @@ footer .copyright	{
 			display: none;
 		}
 
-		main	{
-			padding: 15px;
-		}
-
 		.sidebar {
 			padding: 20px;
+		}
+
+		footer	{
+			text-align: center;
 		}
 
 		footer ul,
@@ -973,14 +909,20 @@ footer .copyright	{
 			column-count: 1;
 		}
 
+		.modal-btn	{
+			display: block;
+		}
+
+		.modal-btn +.modal-btn	{
+			margin-top: 10px;
+			margin-left: 0;
+		}
+
 }
+
 
 /* 750px */
 @media (max-width: 768px){
-
-		.col-md-3.wastemate-hero-signup-form	{
-			width: 50%;
-		}
 
 		.landing-nav .col-md-3	{
 			width: 50%;
@@ -997,6 +939,11 @@ footer .copyright	{
 			width: 60%;
 		}
 
+		.landing-service {
+			padding-top: 0;
+		}
+		
+		
 		.bin-sizes .bin,
 		.waste-categories	{
 			display: block;
@@ -1019,13 +966,27 @@ footer .copyright	{
 
 @media (max-width: 600px){
 
-		.col-md-3.wastemate-hero-signup-form	{
-			width:100%;
-		}
-
 		.landing-nav .col-md-3	{
 			width: 100%;
 		}
 }
 
 
+.modal {
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) { 
+  .modal:before {
+    display: inline-block;
+    vertical-align: middle;
+    content: " ";
+    height: 100%;
+  }
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
