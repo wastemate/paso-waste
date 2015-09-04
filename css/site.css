@@ -356,6 +356,10 @@ a:hover,
 
 /* CONTENT STYLES */
 
+#content {
+	background-color: #fff;
+}
+
 main	{
 	padding: 20px 0;
 }
