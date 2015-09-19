@@ -146,7 +146,10 @@ a:hover,
   display: table-cell;
 	text-align: center;
   vertical-align: middle;
-  color: #fff;
+}
+
+.wastemate-hero-center-content a {
+	text-decoration: underline;
 }
 
 .wastemate-hero-title h1 {
@@ -159,7 +162,7 @@ a:hover,
 
 .wastemate-hero-signup	{
 	margin-top: 25px;
-	background-color: rgba(175,175,172,.8);
+	background-color: rgba(255,255,255,.8);
 	border-radius: 10px;
 	box-shadow: 0px 0px 19px 0px rgba(0,0,0,0.75);
 }
@@ -167,7 +170,7 @@ a:hover,
 .wastemate-hero-signup-title	{
   font-weight: 600;
   text-transform: uppercase;
-  font-size: 2.2em;
+  font-size: 1.9em;
  	color: #0081c6;
   margin-top: 15px;
 
@@ -177,12 +180,13 @@ a:hover,
 	border: 1px solid #0081c6;
 	border-radius: 4px;
 	padding: 0;
+	margin-bottom: 15px;
 }
 
 .wastemate-hero-signup-form .input-group .input-group-addon,
 .wastemate-hero-signup-form .form-control.au-target,
 .wastemate-hero-signup-form .btn-search	{
-	color: #fff;
+	color: #0081c6;
 	border: 0;
 	background: none;
 }
@@ -197,11 +201,11 @@ a:hover,
 }
 
 .wastemate-hero-signup-form .form-control::-moz-placeholder {
-	color: #fff;
+	color: #ccc;
 }
 
 .wastemate-hero-signup-form .form-control::-webkit-input-placeholder {
-	color: #fff;
+	color: #ccc
 }
 
 .wastemate-hero-signup-form .input-group-btn:last-child > .btn {
@@ -217,16 +221,10 @@ a:hover,
 }
 
 .wastemate-hero-signup-existing	{
-	padding-top: 10px;
+	padding-bottom: 10px;
 	font-weight: 500;
 	font-size: 1.6em;
 }
-
-.wastemate-hero-signup a	{
-	color: #fff;
-	text-decoration: underline;
-}
-
 
 /* HOMEPAGE ROW OF BINS */
 .landing-nav-contianer {
@@ -355,6 +353,10 @@ a:hover,
 
 
 /* CONTENT STYLES */
+
+#content {
+	background-color: #fff;
+}
 
 main	{
 	padding: 20px 0;
@@ -489,6 +491,10 @@ main ol li	p	{
   border-color: #6cb33e;
   color: #58595b;
 	font-size: 1em;
+}
+
+.btn-trans {
+	background-color: rgba(0,0,0,0.0);
 }
 
 .recyclables,

@@ -45,3 +45,27 @@ $(document).ready(function () {
     console.log(ex);
   }
 });
+
+/**
+ * Ordering box
+ */
+$(document).ready(function () {
+		var initStep = $('#sign-up-choices');
+		var orderStep = $('#sign-up-wastemate');
+		var existingStep = $('#sign-up-existing');
+		orderStep.hide();
+		existingStep.hide();
+    $('#choose-existing').on('click', function(){
+      initStep.hide();
+      existingStep.show();
+    });
+    $('#choose-new').on('click', function(){
+      initStep.hide();
+      orderStep.show();
+    });
+    $('.close').on('click', function(){
+      orderStep.hide();
+		  existingStep.hide();
+      initStep.show();
+    });
+	});
