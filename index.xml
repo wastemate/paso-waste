@@ -418,7 +418,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h2 id=&#34;service&#34;&gt;Service&lt;/h2&gt;
 
-&lt;p&gt;To start service please &lt;a href=&#34;#sign-up&#34;&gt;sign up&lt;/a&gt;. To pay for existing service please &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f&#34;&gt;log in.&lt;/a&gt; All residential accounts receive weekly automated pick-up and include waste, organics, and commingle curbside recycling services.&lt;/p&gt;
+&lt;p&gt;To start service please &lt;a data-toggle=&#34;modal&#34; data-target=&#34;#signUp&#34;&gt;sign up&lt;/a&gt;. To pay for existing service please &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f&#34;&gt;log in.&lt;/a&gt; All residential accounts receive weekly automated pick-up and include waste, organics, and commingle curbside recycling services.&lt;/p&gt;
 
 &lt;h2 id=&#34;containers&#34;&gt;Containers&lt;/h2&gt;
 
@@ -565,7 +565,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;p&gt;To view your bill, please visit &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f0&#34;&gt;Pay Bill&lt;/a&gt;. Payment methods accepted are cash, check, and VISA/MasterCard. We also offer recurring monthly ACH or VISA/MasterCard payments in addition to e-Invoices.&lt;/p&gt;
 
-&lt;p&gt;To view current rates please &lt;a href=&#34;#sign-up&#34;&gt;enter your address&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To view current rates please &lt;a data-toggle=&#34;modal&#34; data-target=&#34;#signUp&#34;&gt;enter your address&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&#34;modal-btn&#34;&gt;
     &lt;button type=&#34;button&#34; class=&#34;btn btn-primary btn-lg&#34; data-toggle=&#34;modal&#34; data-target=&#34;#rateModal&#34;&gt;
@@ -825,13 +825,13 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;To learn more please &lt;a href=&#34;service/commercial#modal-address&#34;&gt;sign up for service&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To learn more please &lt;a data-toggle=&#34;modal&#34; data-target=&#34;#signUp&#34;&gt;sign up for service&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;rates&#34;&gt;Rates&lt;/h2&gt;
 
 &lt;!-- TODO:  jed needs to resolve these with js --&gt;
 
-&lt;p&gt;To view current service rates please &lt;a href=&#34;#signup&#34;&gt;enter your address&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To view current service rates please &lt;a data-toggle=&#34;modal&#34; data-target=&#34;#signUp&#34;&gt;enter your address&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;service-frequency&#34;&gt;Service Frequency&lt;/h2&gt;
 
@@ -1141,7 +1141,7 @@ be placed in our containers for collection:&lt;/p&gt;
 
 &lt;h2 id=&#34;rates&#34;&gt;Rates&lt;/h2&gt;
 
-&lt;p&gt;To view current rates please &lt;a href=&#34;#sign-up&#34;&gt;enter your address&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To view current rates please &lt;a data-toggle=&#34;modal&#34; data-target=&#34;#signUp&#34;&gt;enter your address&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;categories-of-waste&#34;&gt;Categories of Waste&lt;/h2&gt;
 
@@ -1313,7 +1313,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;!-- TODO:  jed needs to resolve these with js --&gt;
 
-&lt;p&gt;To view current rates please &lt;a href=&#34;#sign-up&#34;&gt;enter your address&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To view current rates please &lt;a data-toggle=&#34;modal&#34; data-target=&#34;#signUp&#34;&gt;enter your address&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;categories-of-waste&#34;&gt;Categories of Waste&lt;/h2&gt;
 
@@ -1408,7 +1408,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;h3 id=&#34;how-do-i-sign-up-for-garbage-service&#34;&gt;HOW DO I SIGN UP FOR GARBAGE SERVICE?&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.ordertrashservice.com/&#34;&gt;Sign up online&lt;/a&gt; or &lt;a href=&#34;http://www.ordertrashservice.com/contact&#34;&gt;call our office&lt;/a&gt; and one of our friendly customer service representatives will help you get your service started.&lt;/p&gt;
+&lt;p&gt;&lt;a data-toggle=&#34;modal&#34; data-target=&#34;#signUp&#34;&gt;Sign up online&lt;/a&gt; or &lt;a href=&#34;http://www.ordertrashservice.com/contact&#34;&gt;call our office&lt;/a&gt; and one of our friendly customer service representatives will help you get your service started.&lt;/p&gt;
 
 &lt;h3 id=&#34;my-trash-was-not-emptied-what-now&#34;&gt;MY TRASH WAS NOT EMPTIED, WHAT NOW?&lt;/h3&gt;
 
@@ -1460,7 +1460,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;p&gt;If you would like us to automatically debit your savings or checking account on the 10th (or shortly after if the 10th is not a business day) each month, this program is for you. Customers enrolled in the program still receive a paper bill but it will have a message saying &amp;ldquo;AutoPay Do Not Pay&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;In order to enroll in our automated ACH payments program you need to complete an application form that gives us permission to debit your bank account. &lt;a href=&#34;http://www.ordertrashservice.com/&#34;&gt;Download the file&lt;/a&gt; or &lt;a href=&#34;http://www.ordertrashservice.com/contact&#34;&gt;contact our office&lt;/a&gt; and we will mail/fax you a copy.&lt;/p&gt;
+&lt;p&gt;In order to enroll in our automated ACH payments program you need to complete an application form that gives us permission to debit your bank account. &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f0&#34;&gt;Enroll for ACH online&lt;/a&gt; or &lt;a href=&#34;http://www.ordertrashservice.com/contact&#34;&gt;contact our office&lt;/a&gt; and we will mail/fax you a copy of the form to fill out.&lt;/p&gt;
 
 &lt;h3 id=&#34;autopay-credit-card&#34;&gt;AUTOPAY – CREDIT CARD&lt;/h3&gt;
 
@@ -1592,7 +1592,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;iframe width=&#34;100%&#34; height=&#34;200&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; src=&#34;https://www.google.com/maps/embed/v1/place?q=2951%20Wallace%20Drive%2C%20Paso%20Robles%2C%20CA%2C%20United%20States&amp;key=AIzaSyDZspx1zEYwbVyAxxd56a7dkUltNnLOFc0&#34;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&#34;hours-location&#34;&gt;Hours &amp;amp; Location&lt;/h2&gt;
+&lt;h2 id=&#34;hours--location&#34;&gt;Hours &amp;amp; Location&lt;/h2&gt;
 
 &lt;p&gt;Our office is open Monday through Friday from 8:00am to 5:00pm. The office does close for most major holidays but our trucks will run their regular routes. Learn more about our &lt;a href=&#34;http://www.ordertrashservice.com/service/residential/#holiday-schedule&#34;&gt;Christmas Week schedule&lt;/a&gt;.&lt;/p&gt;
 

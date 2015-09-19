@@ -124,43 +124,62 @@
 	</style>
 	
 	<div class="bg-image">
-		<div class="wastemate-hero-center">
-			<div id="sign-up-choices" class="wastemate-hero-center-content">
-	    		<div class="col-md-3 center-block wastemate-hero-signup inside clearfix">
-      				<h2 class="wastemate-hero-signup-title">Order Trash Service</h2>
-					<div class="center-block wastemate-hero-signup-existing">
-						<div class="row">
-							<div class="col-md-6">
-								<button id="choose-new" type="submit" class="btn btn-primary btn-trans" style="font-size: .85em;width: 100%;">New Customer</button>
-							</div>
-							<div class="col-md-6">
-								<button id="choose-existing" type="submit" class="btn btn-primary btn-trans" style="font-size: .85em;width: 100%;">Existing Customer</button>
-							</div>
+	<div class="wastemate-hero-center">
+		<div id="sign-up-choices" class="wastemate-hero-center-content">
+			<div class="col-md-3 center-block wastemate-hero-signup inside clearfix">
+				<h2 class="wastemate-hero-signup-title">Order Trash Service</h2>
+				<div class="center-block wastemate-hero-signup-existing">
+					<div class="row">
+						<div class="col-md-6">
+							<button id="choose-new" type="submit" class="btn btn-primary btn-trans" style="font-size: .85em;width: 100%;">New Customer</button>
+						</div>
+						<div class="col-md-6">
+							<button id="choose-existing" type="submit" class="btn btn-primary btn-trans" style="font-size: .85em;width: 100%;">Existing Customer</button>
 						</div>
 					</div>
-	    		</div>
+				</div>
 			</div>
-			<div id="sign-up-wastemate" class="wastemate-hero-center-content" style="display: none;">
-	    		<div class="col-md-3 center-block wastemate-hero-signup inside clearfix">
-      				<button type="button" class="close" aria-label="back" style="margin-top: 6px;"><span aria-hidden="true"><i class="fa fa-times-circle"></i></span></button>
-					<h2 class="wastemate-hero-signup-title">New Customer</h2>
+		</div>
+		<div id="sign-up-wastemate" class="wastemate-hero-center-content" style="display: none;">
+			<div class="col-md-3 center-block wastemate-hero-signup inside clearfix">
+				<button type="button" class="close" aria-label="back" style="margin-top: 6px;"><span aria-hidden="true"><i class="fa fa-times-circle"></i></span></button>
+				<h2 class="wastemate-hero-signup-title">New Customer</h2>
+				<div class="center-block wastemate-hero-signup-form">
+						<div class="input-group">
+						<span class="input-group-addon marker"><i class="fa fa-map-marker"></i></span>
+						<input name="street_address" value.bind="address" class="form-control au-target simplePlaceholder" id="street_address" placeholder="1234 Main St" autocomplete="off">
+						<span class="input-group-btn">
+							<button type="submit" class="btn btn-search chevron"><i class="fa fa-chevron-circle-right"></i></button>
+						</span>
+						</div>
+				</div>
+			</div>
+		</div>
+		<div id="sign-up-existing" class="wastemate-hero-center-content" style="display: none;">
+			<div class="col-md-3 center-block wastemate-hero-signup inside clearfix">
+				<button type="button" class="close" aria-label="back" style="margin-top: 6px;"><span aria-hidden="true"><i class="fa fa-times-circle"></i></span></button>
+				<h2 class="wastemate-hero-signup-title">Existing Customer</h2>		
+				<div class="center-block wastemate-hero-signup-existing">
+					<p>Unfortunately, updating an existing account online is not available at this time. <a href="https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f">Pay Bill</a> or <a href="http://www.ordertrashservice.com/contact/">contact</a> our office.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="modal fade" id="signUp" tabindex="-1" role="dialog" aria-labelledby="signUpLabel" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-body center-block wastemate-hero-signup-modal inside clearfix">
+					<button type="button" class="close" data-dismiss="modal" aria-label="back" style="margin-top: 6px;"><span aria-hidden="true"><i class="fa fa-times-circle"></i></span></button>
+					<h2 class="wastemate-hero-signup-title">Order Trash Service</h2>
 					<div class="center-block wastemate-hero-signup-form">
-							<div class="input-group">
+						<div class="input-group">
 							<span class="input-group-addon marker"><i class="fa fa-map-marker"></i></span>
-							<input name="street_address" value.bind="address" class="form-control au-target simplePlaceholder" id="street_address" placeholder="1234 Main St" autocomplete="off">
+							<input name="floating_address" value.bind="address" class="form-control au-target simplePlaceholder" id="floating_address" placeholder="1234 Main St" autocomplete="off">
 							<span class="input-group-btn">
 								<button type="submit" class="btn btn-search chevron"><i class="fa fa-chevron-circle-right"></i></button>
 							</span>
-							</div>
-					</div>
-	    		</div>
-			</div>
-			<div id="sign-up-existing" class="wastemate-hero-center-content" style="display: none;">
-	    		<div class="col-md-3 center-block wastemate-hero-signup inside clearfix">
-      				<button type="button" class="close" aria-label="back" style="margin-top: 6px;"><span aria-hidden="true"><i class="fa fa-times-circle"></i></span></button>
-					<h2 class="wastemate-hero-signup-title">Existing Customer</h2>		
-					<div class="center-block wastemate-hero-signup-existing">
-						<p>Unfortunately, updating an existing account online is not available at this time. <a href="https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f">Pay Bill</a> or <a href="http://www.ordertrashservice.com/contact/">contact</a> our office.</p>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -295,7 +314,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 <!-- TODO:  jed needs to resolve these with js -->
 
-<p>To view current rates please <a href="#sign-up">enter your address</a>.</p>
+<p>To view current rates please <a data-toggle="modal" data-target="#signUp">enter your address</a>.</p>
 
 <h2 id="categories-of-waste">Categories of Waste</h2>
 
@@ -1049,7 +1068,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 						<li><a href="http://www.ordertrashservice.com/recycling/#recyclables">Recyclables</a></li>
 						<li><a href="http://www.ordertrashservice.com/recycling/#organics">Organics</a></li>
 						<li><a href="http://www.ordertrashservice.com/recycling/#landfill">Landfill</a></li>
-						<li><a href="http://www.ordertrashservice.com/recycling/#hazardous-mataterials">Hazardous Materials</a></li>
+						<li><a href="http://www.ordertrashservice.com/recycling/#hazardous-materials">Hazardous Materials</a></li>
 					</ul>
 					<h2 class="about"><a href="http://www.ordertrashservice.com/about/">About</a></h2>
 					<ul>
@@ -1072,7 +1091,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 					<h2 class="contact"><a href="http://www.ordertrashservice.com/contact/">Contact</a></h2>
 					<ul>
 						<li><a href="http://www.ordertrashservice.com/contact/#contact-info">Contact Info</a></li>
-						<li><a href="http://www.ordertrashservice.com/contact/#hours-locations">Hours & Location</a></li>
+						<li><a href="http://www.ordertrashservice.com/contact/#hours--location">Hours & Location</a></li>
 						<li><a href="http://www.ordertrashservice.com/contact/#resources">Resources</a></li>
 					</ul>
 				</div>
@@ -1090,8 +1109,9 @@ hazardous). Often we are able to offer same day or next day service for most loc
 					<h2><a href="http://www.ordertrashservice.com/faq/">FAQs</a></h2>
 					<ul>
 						<li><a href="http://www.ordertrashservice.com/faq/#service">Service</a></li>
-						<li><a href="http://www.ordertrashservice.com/faq/#electronic-billing">Electronic Billing</a></li>
-						<li><a href="http://www.ordertrashservice.com/faq/#traditional-billing">Traditional Billing</a></li>
+						<li><a href="http://www.ordertrashservice.com/faq/#recycling">Recycling</a></li>
+						<li><a href="http://www.ordertrashservice.com/faq/#hazardous-materials">Hazardous Materials</a></li>
+						<li><a href="http://www.ordertrashservice.com/faq/#billing">Billing</a></li>
 						<li><a href="http://www.ordertrashservice.com/faq/#website-issues">Website Issues</a></li>
 					</ul>
 				</div>

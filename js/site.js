@@ -57,7 +57,7 @@ $(document).ready(function () {
 });
 
 /**
- * Ordering box
+ * WasteMate Sign Up interactions
  */
 $(document).ready(function () {
 		var initStep = $('#sign-up-choices');
