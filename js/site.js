@@ -19,6 +19,16 @@ $('a[href*=#]:not([href=#])').on('click', function(event){
 });
 
 /**
+ * Open all links to other sites in a new window
+ */
+$('a[href]').each(function(){
+  var sameHost = location.hostname === this.hostname;
+  if(!sameHost){
+    $(this).attr("target","_blank");
+  }
+});
+
+/**
  *  Fix the Green Bar when it touches the nav
  */
 $(document).ready(function () {
