@@ -107,6 +107,8 @@ $(document).ready(function () {
     console.log("Error handled -- Greenbar fixed scroll spy");
     console.log(ex);
   }
+  //force inital calc
+  jQuery(window).trigger('resize').trigger('scroll');
 });
 
 /**
