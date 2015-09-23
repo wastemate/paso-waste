@@ -113,13 +113,15 @@
 	  
 	<script>
 		$(document).ready(function(){
+			var isMobile = $('#heroImage').css('display')=='none'; 
+			if(isMobile){
+				return; 
+			}
 			$('.parallax-window').parallax({imageSrc: 'http:\/\/www.ordertrashservice.com\/media\/residential\/residential_header_1920.jpg', positionY: '-10', naturalHeight: '250'});	
 		});
 	</script>
-	<div id="heroImage" class="index-section-image inside content-fill">
+	<div id="heroImage" class="index-section-image inside content-fill hidden-xs hidden-sm">
 		<div class="bg-image parallax-window">
-	
-
 
 
 	<div class="wastemate-hero-center">

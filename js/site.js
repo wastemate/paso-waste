@@ -71,9 +71,21 @@ $('a[href]').each(function(){
  */
 $(document).ready(function () {
   try {
-    var $obj = $('#greenBar');
+    var isMobile = $('#heroImage').css('display')=='none'; //hero is hidden on mobile
     var self = {};
     self.$bar = $('#greenBar');
+    if(isMobile){
+      if(self.$bar.length){
+        self.$bar.css({
+          'margin-top': '45px'
+        });
+      } else {
+        $('#siteSummary').css({
+          'margin-top': '45px'
+        });
+      }
+      return; //bail out nothing else to do!
+    }
     self.$content = $('#content');      
     self.$win = $(window);
     self.$doc = $(document);  
@@ -107,8 +119,7 @@ $(document).ready(function () {
     console.log("Error handled -- Greenbar fixed scroll spy");
     console.log(ex);
   }
-  //force inital calc
-  jQuery(window).trigger('resize').trigger('scroll');
+  
 });
 
 /**

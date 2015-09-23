@@ -111,11 +111,18 @@
 	<div class="container-fluid" id="body">
 		
 	
-		<div id="heroImage" class="home content-fill">
-			<div class="bg-image" data-parallax="scroll" data-image-src="http://www.ordertrashservice.com/media/homepage/homepage_header_1920.jpg">
-				
+		<script>
+			$(document).ready(function(){
+				var isMobile = $('#heroImage').css('display')=='none'; 
+				if(isMobile){
+					return; 
+				}
+				$('.parallax-window').parallax({imageSrc: 'http:\/\/www.ordertrashservice.com\/media\/homepage\/homepage_header_1920.jpg', naturalHeight: '250'});	
+			});
+		</script>
+		<div id="heroImage" class="home content-fill hidden-xs hidden-sm">
+			<div class="bg-image parallax-window">
 	
-
 
 
 	<div class="wastemate-hero-center">
@@ -183,7 +190,7 @@
 </div>
 
 		
-		<div class="container-fluid inner-nav">
+		<div class="container-fluid inner-nav" id="siteSummary">
 			<div class="container float-middle">
 				<div class="row">
 					<div class="site-summary col-md-12 center-block">
