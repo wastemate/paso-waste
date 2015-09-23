@@ -43,6 +43,8 @@
     <link rel="stylesheet" href="http://www.ordertrashservice.com/css/bootstrap.min.css">
 <link rel="stylesheet" href="http://www.ordertrashservice.com/css/site.css">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     
   </head>
 
@@ -109,8 +111,13 @@
 	<div class="container-fluid" id="body">
 	  
 	  
+	<script>
+		$(document).ready(function(){
+			$('.parallax-window').parallax({imageSrc: 'http:\/\/www.ordertrashservice.com\/media\/aboutus\/aboutus_header_1920.jpg', positionY: '-50', naturalHeight: '250'});	
+		});
+	</script>
 	<div id="heroImage" class="index-section-image inside content-fill">
-		<div class="bg-image" data-parallax="scroll" data-image-src="http://www.ordertrashservice.com/media/aboutus/aboutus_header_1920.jpg">
+		<div class="bg-image parallax-window">
 	
 
 
@@ -1064,8 +1071,6 @@
 
 <script src="//use.typekit.net/lil3oyc.js"></script>
 <script>try{Typekit.load();}catch(e){}</script>
-
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
