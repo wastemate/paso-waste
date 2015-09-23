@@ -19,6 +19,44 @@ $('a[href*=#]:not([href=#])').on('click', function(event){
 });
 
 /**
+ * Parrallax header input box on scroll
+ */
+$(document).ready(function(){
+  var self = {};
+  self.$inputObj = $('.wastemate-hero-center');
+  self.speed = 1 - 0.525;
+  
+  self.$win = $(window);
+  self.$doc = $(document);  
+  self.winHeight = self.$win.height();
+  self.docHeight = self.$doc.height();
+  self.scrollTopMax = self.docHeight - self.winHeight;
+  
+  var renderScroll = function(){
+    if(!this.isBusy){
+      this.isBusy = true;
+      window.requestAnimationFrame(function(){
+        var scrollTop = Math.max(0, Math.min(self.scrollTopMax, self.$win.scrollTop()));
+        var offsetTop = scrollTop * self.speed;
+        self.$inputObj.css({
+            top: offsetTop
+          });
+        this.isBusy = false;
+      });
+    }
+  }
+  self.$win.on('scroll.px.parallax', function(){
+    renderScroll();
+  });
+  self.$win.on('resize.px.parallax', function(){
+    self.winHeight = self.$win.height();
+    self.docHeight = self.$doc.height();
+    self.scrollTopMax = self.docHeight - self.winHeight;
+    renderScroll();
+  });
+});
+
+/**
  * Open all links to other sites in a new window
  */
 $('a[href]').each(function(){
@@ -34,19 +72,34 @@ $('a[href]').each(function(){
 $(document).ready(function () {
   try {
     var $obj = $('#greenBar');
-    if($obj){
-      var top = ($obj.offset().top - parseFloat($obj.css('marginTop').replace(/auto/, 0))) - $('#header').height();  
-      $(window).scroll(function (event) {
-        // what the y position of the scroll is
-        var y = $(this).scrollTop();
-        
-        // whether that's below the form
-        if (y >= top) {
-          // if so, ad the fixed class
-          $obj.addClass('fixed-below-navbar');
+    var self = {};
+    self.$bar = $('#greenBar');
+    self.$content = $('#content');      
+    self.$win = $(window);
+    self.$doc = $(document);  
+    self.baseOffsetTop = self.$bar.offset().top;
+    self.headerHeight = $('#header').outerHeight();
+    self.barHeight = self.$bar.outerHeight();
+    if(self.$bar){
+      //recalc when window resized
+      self.$win.on('resize.px.parallax', function(){
+        self.baseOffsetTop = self.$bar.offset().top;
+      });
+      //check position when scrolling  
+      self.$win.on('scroll.px.parallax', function(){
+        var offset = (self.$win.scrollTop() - self.baseOffsetTop) + self.headerHeight;
+        if(offset >= 0){
+           self.$bar.css({
+            position: 'fixed',
+            'z-index': 1000,
+            top: self.headerHeight
+          });
+          self.$content.css({
+            'padding-top': self.barHeight
+          })
         } else {
-          // otherwise remove it
-          $obj.removeClass('fixed-below-navbar');
+          self.$bar.removeAttr( 'style' );
+          self.$content.removeAttr( 'style' );
         }
       });
     }
