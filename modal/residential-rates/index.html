@@ -125,68 +125,66 @@
 			<div class="bg-image parallax-window">
 	
 
-
-	<div class="wastemate-hero-center">
-		<div id="sign-up-choices" class="wastemate-hero-center-content">
-			<div class="col-md-3 center-block wastemate-hero-signup inside clearfix">
-				<h2 class="wastemate-hero-signup-title">Order Trash Service</h2>
-				<div class="center-block wastemate-hero-signup-existing">
-					<div class="row">
-						<div class="col-md-6">
-							<button id="choose-new" type="submit" class="btn btn-primary btn-trans" style="font-size: .85em;width: 100%;">New Customer</button>
-						</div>
-						<div class="col-md-6">
-							<button id="choose-existing" type="submit" class="btn btn-primary btn-trans" style="font-size: .85em;width: 100%;">Existing Customer</button>
-						</div>
+<div class="wastemate-hero-center">
+	<div id="sign-up-choices" class="wastemate-hero-center-content">
+		<div class="col-md-3 center-block wastemate-hero-signup inside clearfix">
+			<h2 class="wastemate-hero-signup-title">Order Trash Service</h2>
+			<div class="center-block wastemate-hero-signup-existing">
+				<div class="row">
+					<div class="col-md-6">
+						<button id="choose-new" type="submit" class="btn btn-primary btn-trans" style="font-size: .85em;width: 100%;">New Customer</button>
+					</div>
+					<div class="col-md-6">
+						<button id="choose-existing" type="submit" class="btn btn-primary btn-trans" style="font-size: .85em;width: 100%;">Existing Customer</button>
 					</div>
 				</div>
 			</div>
 		</div>
-		<div id="sign-up-wastemate" class="wastemate-hero-center-content" style="display: none;">
-			<div class="col-md-3 center-block wastemate-hero-signup inside clearfix">
-				<button type="button" class="close" aria-label="back" style="margin-top: 6px;"><span aria-hidden="true"><i class="fa fa-times-circle"></i></span></button>
-				<h2 class="wastemate-hero-signup-title">New Customer</h2>
-				<div class="center-block wastemate-hero-signup-form">
-						<div class="input-group">
-						<span class="input-group-addon marker"><i class="fa fa-map-marker"></i></span>
-						<input name="street_address" value.bind="address" class="form-control au-target simplePlaceholder" id="street_address" placeholder="1234 Main St" autocomplete="off">
-						<span class="input-group-btn">
-							<button type="submit" class="btn btn-search chevron"><i class="fa fa-chevron-circle-right"></i></button>
-						</span>
-						</div>
-				</div>
+	</div>
+	<div id="sign-up-wastemate" class="wastemate-hero-center-content" style="display: none;">
+		<div class="col-md-3 center-block wastemate-hero-signup inside clearfix">
+			<button type="button" class="close" aria-label="back" style="margin-top: 6px;"><span aria-hidden="true"><i class="fa fa-times-circle"></i></span></button>
+			<h2 class="wastemate-hero-signup-title">New Customer</h2>
+			<div class="center-block wastemate-hero-signup-form">
+					<div class="input-group">
+					<span class="input-group-addon marker"><i class="fa fa-map-marker"></i></span>
+					<input name="street_address" value.bind="address" class="form-control au-target simplePlaceholder" id="street_address" placeholder="1234 Main St" autocomplete="off">
+					<span class="input-group-btn">
+						<button type="submit" class="btn btn-search chevron"><i class="fa fa-chevron-circle-right"></i></button>
+					</span>
+					</div>
 			</div>
 		</div>
-		<div id="sign-up-existing" class="wastemate-hero-center-content" style="display: none;">
-			<div class="col-md-3 center-block wastemate-hero-signup inside clearfix">
-				<button type="button" class="close" aria-label="back" style="margin-top: 6px;"><span aria-hidden="true"><i class="fa fa-times-circle"></i></span></button>
-				<h2 class="wastemate-hero-signup-title">Existing Customer</h2>		
-				<div class="center-block wastemate-hero-signup-existing">
-					<p>Unfortunately, updating an existing account online is not available at this time. <a href="https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f">Pay Bill</a> or <a href="https://www.ordertrashservice.com/contact/">contact</a> our office.</p>
-				</div>
+	</div>
+	<div id="sign-up-existing" class="wastemate-hero-center-content" style="display: none;">
+		<div class="col-md-3 center-block wastemate-hero-signup inside clearfix">
+			<button type="button" class="close" aria-label="back" style="margin-top: 6px;"><span aria-hidden="true"><i class="fa fa-times-circle"></i></span></button>
+			<h2 class="wastemate-hero-signup-title">Existing Customer</h2>		
+			<div class="center-block wastemate-hero-signup-existing">
+				<p>Unfortunately, updating an existing account online is not available at this time. <a href="https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f">Pay Bill</a> or <a href="https://www.ordertrashservice.com/contact/">contact</a> our office.</p>
 			</div>
 		</div>
 	</div>
 </div>
 <div class="modal fade" id="signUp" tabindex="-1" role="dialog" aria-labelledby="signUpLabel" aria-hidden="true">
-		<div class="modal-dialog" role="document">
-			<div class="modal-content">
-				<div class="modal-body center-block wastemate-hero-signup-modal inside clearfix">
-					<button type="button" class="close" data-dismiss="modal" aria-label="back" style="margin-top: 6px;"><span aria-hidden="true"><i class="fa fa-times-circle"></i></span></button>
-					<h2 class="wastemate-hero-signup-title">Order Trash Service</h2>
-					<div class="center-block wastemate-hero-signup-form">
-						<div class="input-group">
-							<span class="input-group-addon marker"><i class="fa fa-map-marker"></i></span>
-							<input name="floating_address" value.bind="address" class="form-control au-target simplePlaceholder" id="floating_address" placeholder="1234 Main St" autocomplete="off">
-							<span class="input-group-btn">
-								<button type="submit" class="btn btn-search chevron"><i class="fa fa-chevron-circle-right"></i></button>
-							</span>
-						</div>
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-body center-block wastemate-hero-signup-modal inside clearfix">
+				<button type="button" class="close" data-dismiss="modal" aria-label="back" style="margin-top: 6px;"><span aria-hidden="true"><i class="fa fa-times-circle"></i></span></button>
+				<h2 class="wastemate-hero-signup-title">Order Trash Service</h2>
+				<div class="center-block wastemate-hero-signup-form">
+					<div class="input-group">
+						<span class="input-group-addon marker"><i class="fa fa-map-marker"></i></span>
+						<input name="floating_address" value.bind="address" class="form-control au-target simplePlaceholder" id="floating_address" placeholder="1234 Main St" autocomplete="off">
+						<span class="input-group-btn">
+							<button type="submit" class="btn btn-search chevron"><i class="fa fa-chevron-circle-right"></i></button>
+						</span>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
+</div>
 </div>
 </div>
 
@@ -977,7 +975,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 <script src="//use.typekit.net/lil3oyc.js"></script>
 <script>try{Typekit.load();}catch(e){}</script>
 
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
 <script src="https://www.ordertrashservice.com/js/site.js"></script>
 <script src="https://www.ordertrashservice.com/js/parallax.min.js"></script>
@@ -996,11 +994,14 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 <script src="//cdnjs.cloudflare.com/ajax/libs/knockout/3.3.0/knockout-min.js"></script>
 <script src="//maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyDkNkOrlhv8qDAznL8boO3lMXBQUAopnt0"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
-<script src="https://www.ordertrashservice.com/js/wastemate.min.js"></script>
+<script src="https://www.ordertrashservice.com/js/wastemate.min.js"></script>-
 
 <script>
 	var wma_viewModel;
-	$(document).ready(function () {
+	function initWasteMate(){
+		if(wma_viewModel){
+			return;
+		}
 		var appKey = '6YJjl9Tlu9gml6IR0YfXrOIkY9SxqCfP2bshQELI';
 		var jsKey = 'DEIXEICevT5qkR1zQxvj8PVHrvWu4XPKN2QUhhmL';
 		wma_viewModel = new viewModel();
@@ -1015,8 +1016,10 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 			setupLiveAddressGoogle(wma_viewModel);
 			
 			$.each(categories, function (index, category) {
-			wma_viewModel.categories.push(category);
+				wma_viewModel.categories.push(category);
 			});
+			
+			bindViewFormatters();
 		}, function (err) {
 			
 			console.log(err);
@@ -1024,6 +1027,6 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 			$('#loading').fadeOut();
 			$('#initialize').fadeIn();
 		});
-	});
+	}
 </script>
 </body>

@@ -136,6 +136,7 @@ $(document).ready(function () {
       existingStep.show();
     });
     $('#choose-new').on('click', function(){
+      initWasteMate();
       initStep.hide();
       orderStep.show();
     });
@@ -144,4 +145,4 @@ $(document).ready(function () {
 		  existingStep.hide();
       initStep.show();
     });
-	});
+	}); 
