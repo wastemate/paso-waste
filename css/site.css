@@ -107,7 +107,7 @@ a:hover,
   margin-left: auto;
 }
 
-#siteSummary {
+#siteSummary, #greenBar {
 	position: relative;
 	z-index: 90;
 }
