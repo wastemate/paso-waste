@@ -4,19 +4,32 @@
  * Smooth Scrolling to intrapage anchors
  */
 var $root = $('html, body');
-$('a[href*=#]:not([href=#])').on('click', function(event){     
-	var samePath = location.pathname.replace(/^\//,'') === this.pathname.replace(/^\//,'');
-	var sameHost = location.hostname === this.hostname;
-	if (samePath && sameHost){
-		event.preventDefault();
-		var hash = this.hash;
-		$root.animate({
-			scrollTop: $(hash).offset().top - 105
-		}, 500, function(){
-			window.location.hash = hash;
-		});
-	}
-});
+$(document).ready(function(){
+  var offset = $('#header').outerHeight() + $('#greenBar').outerHeight() - 2;
+  //page loaded with a hash in the url
+  if(window.location.hash.length){
+    var hash = window.location.hash;
+    $root.animate({
+        scrollTop: $(hash).offset().top - offset
+      }, 500, function(){
+        window.location.hash = hash;
+      });
+  }
+  
+  $('a[href*=#]:not([href=#])').on('click', function(event){     
+    var samePath = location.pathname.replace(/^\//,'') === this.pathname.replace(/^\//,'');
+    var sameHost = location.hostname === this.hostname;
+    if (samePath && sameHost){
+      event.preventDefault();
+      var hash = this.hash;
+      $root.animate({
+        scrollTop: $(hash).offset().top - offset
+      }, 500, function(){
+        window.location.hash = hash;
+      });
+    }
+  });
+})
 
 /**
  * Parrallax header input box on scroll
@@ -77,11 +90,11 @@ $(document).ready(function () {
     if(isMobile){
       if(self.$bar.length){
         self.$bar.css({
-          'margin-top': '45px'
+          'margin-top': '70px'
         });
       } else {
         $('#siteSummary').css({
-          'margin-top': '45px'
+          'margin-top': '70px'
         });
       }
       return; //bail out nothing else to do!
@@ -126,7 +139,17 @@ $(document).ready(function () {
  * WasteMate Sign Up interactions
  */
 $(document).ready(function () {
-		var initStep = $('#sign-up-choices');
+		var isMobile = $('#heroImage').css('display')=='none'; //hero is hidden on mobile
+    if(isMobile){
+      try {
+        initWasteMate(); // init on load  
+      } catch(ex) {
+        console.log(ex);
+      }
+      
+     return; 
+    }
+    var initStep = $('#sign-up-choices');
 		var orderStep = $('#sign-up-wastemate');
 		var existingStep = $('#sign-up-existing');
 		orderStep.hide();
@@ -145,4 +168,12 @@ $(document).ready(function () {
 		  existingStep.hide();
       initStep.show();
     });
-	}); 
+	});
+  
+ $(document).ready(function(){
+   $('[data-toggle="collapse"]').on('click', function(event){
+     console.log('clicked');
+     console.log(event);
+     event.preventDefault();
+   });
+ })
