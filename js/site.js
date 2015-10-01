@@ -7,13 +7,17 @@ var $root = $('html, body');
 $(document).ready(function(){
   var offset = $('#header').outerHeight() + $('#greenBar').outerHeight() - 2;
   //page loaded with a hash in the url
-  if(window.location.hash.length){
-    var hash = window.location.hash;
+  var hash = window.location.hash;
+  if(hash.length){
+    try {
     $root.animate({
         scrollTop: $(hash).offset().top - offset
       }, 500, function(){
         window.location.hash = hash;
       });
+    } catch (ex) {
+      //non issue, wastemate adds some hashes that aren't mapped on the page
+    }
   }
   
   $('a[href*=#]:not([href=#])').on('click', function(event){     

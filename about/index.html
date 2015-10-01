@@ -615,8 +615,8 @@
 		<div class="wma-product__desc-wrap custom_desc-wrap">
 		<div class="wma-base__light-border  wma-product__desc custom_product_desc">
 			<span class="wma-product__dollar-sign" data-bind="visible: price > 0">$</span>
-			<span class="wma-product__price" data-bind="visible: (price > 0), text: (price > 0 ? price : '')"></span>
-			<p class="wma-product__price-text" data-bind="visible: (price == 0), text: (price > 0 ? '' : 'Price included with landfill')"></p>
+			<span class="wma-product__price wma-product__oc-price" data-bind="visible: (price > 0), text: (price > 0 ? price : '')"></span>
+			<p class="wma-product__price-text" data-bind="visible: (price == 0), text: (price > 0 ? '' : 'Call for price')"></p>
 			<p class="wma-product__description" data-bind="text: description"></p>
 		</div>
 		</div>
@@ -684,7 +684,7 @@
 				</div>
 				<div class="wma-product__desc-wrap">
 				<div class="wma-base__light-border  wma-product__desc">
-					<p class="wma-product__price" data-bind="text: (price > 0 ? ('$' + price) : 'Included')"></p>
+					<p class="wma-product__price wma-product__oc-price" data-bind="text: (price > 0 ? ('$' + price) : 'Included')"></p>
 					<p class="wma-product__size" data-bind="text: name"></p>
 					<p class="wma-product__description" data-bind="text: description"></p>
 				</div>
@@ -711,12 +711,25 @@
 				<label for='wma-rolloff-terms-b'>
 					<span>
 					<em>
-					I understand that I will be charged $X per ton over XX tons included in base fare.
+						I understand that I will be charged $<span data-bind="text: materialCost"></span> per ton over <span data-bind="text: includedMaterial"></span> tons included in base price.
 					</em>
 					</span>
 				</label>
 				</div>
-
+				
+				<div class="clearfix"></div>
+                      
+				<div class="wma-form__checkbox">
+				<input type="checkbox" id='wma-rolloff-terms-c' data-bind="checked: $root.rolloffTermsUnderstandRent">
+				<label for='wma-rolloff-terms-c'>
+					<span>
+					<em>
+						I understand that I will be charged $<span data-bind="text: rent"></span> per day after <span data-bind="text: rentDays"></span> days included in base price.
+					</em>
+					</span>
+				</label>
+				</div>
+				
 				<br><br>
 
 				<div class="wma-footer__next">
@@ -1106,14 +1119,12 @@
 		var jsKey = 'DEIXEICevT5qkR1zQxvj8PVHrvWu4XPKN2QUhhmL';
 		wma_viewModel = new viewModel();
 		ko.applyBindings(wma_viewModel);
+		setupLiveAddressGoogle(wma_viewModel);
 		wastemate.initialize(appKey, jsKey).then(function (categories) {
 			
 			wma_viewModel.shouldShowWMA(false);
 			
-			wma_viewModel.show('search');
-			
-			
-			setupLiveAddressGoogle(wma_viewModel);
+			wma_viewModel.show('search');	
 			
 			$.each(categories, function (index, category) {
 				wma_viewModel.categories.push(category);
