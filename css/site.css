@@ -825,8 +825,15 @@ footer .copyright	{
 
 
 @media (max-width: 992px){
-
-
+		
+		#greenBar{
+			margin-top: 70px;
+		}
+		
+		#siteSummary {
+          margin-top: 70px;
+        }
+		
 		#heroImage.home .bg-image {
 			background-position: 100% 50% !important;
 		}

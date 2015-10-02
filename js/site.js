@@ -143,14 +143,15 @@ $(document).ready(function () {
  * WasteMate Sign Up interactions
  */
 $(document).ready(function () {
-		var isMobile = $('#heroImage').css('display')=='none'; //hero is hidden on mobile
+		//Always initialize wastemate, needs to be ready to handle address input on demand
+    try {
+      initWasteMate(); // init on load  
+    } catch(ex) {
+      console.log(ex);
+    }
+    
+    var isMobile = $('#heroImage').css('display')=='none'; //hero is hidden on mobile
     if(isMobile){
-      try {
-        initWasteMate(); // init on load  
-      } catch(ex) {
-        console.log(ex);
-      }
-      
      return; 
     }
     var initStep = $('#sign-up-choices');
