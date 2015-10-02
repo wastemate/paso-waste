@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sidebars on Paso Robles Waste &amp; Recycle</title>
-    <link>https://www.prwaste.com/sidebar/</link>
+    <link>http://localhost:1313/sidebar/</link>
     <description>Recent content in Sidebars on Paso Robles Waste &amp; Recycle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jul 2015 10:06:50 -0700</lastBuildDate>
-    <atom:link href="https://www.prwaste.com/sidebar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/sidebar/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>https://www.prwaste.com/sidebar/aboutSide/</link>
+      <link>http://localhost:1313/sidebar/aboutSide/</link>
       <pubDate>Mon, 13 Jul 2015 10:06:50 -0700</pubDate>
       
-      <guid>https://www.prwaste.com/sidebar/aboutSide/</guid>
+      <guid>http://localhost:1313/sidebar/aboutSide/</guid>
       <description>
 
 &lt;h2 id=&#34;environment&#34;&gt;Environment&lt;/h2&gt;
@@ -24,7 +24,7 @@
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://www.prwaste.com/media/aboutus/3G_logo.png&#34; alt=&#34;3G CNG &amp;amp; FLEET&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/media/aboutus/3G_logo.png&#34; alt=&#34;3G CNG &amp;amp; FLEET&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -48,10 +48,10 @@
     
     <item>
       <title>contact</title>
-      <link>https://www.prwaste.com/sidebar/contactSide/</link>
+      <link>http://localhost:1313/sidebar/contactSide/</link>
       <pubDate>Mon, 13 Jul 2015 10:06:50 -0700</pubDate>
       
-      <guid>https://www.prwaste.com/sidebar/contactSide/</guid>
+      <guid>http://localhost:1313/sidebar/contactSide/</guid>
       <description>
 
 &lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
