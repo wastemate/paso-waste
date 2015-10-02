@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paso Robles Waste &amp; Recycle</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.prwaste.com/</link>
     <description>Recent content on Paso Robles Waste &amp; Recycle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jul 2015 22:53:48 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.prwaste.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>residential rates</title>
-      <link>http://localhost:1313/modal/residential-rates/</link>
+      <link>https://www.prwaste.com/modal/residential-rates/</link>
       <pubDate>Mon, 13 Jul 2015 22:53:48 -0700</pubDate>
       
-      <guid>http://localhost:1313/modal/residential-rates/</guid>
+      <guid>https://www.prwaste.com/modal/residential-rates/</guid>
       <description>
 
 &lt;h3 id=&#34;city-surcharge&#34;&gt;City Surcharge&lt;/h3&gt;
@@ -45,10 +45,10 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
     <item>
       <title>service agreement</title>
-      <link>http://localhost:1313/modal/service-agreement/</link>
+      <link>https://www.prwaste.com/modal/service-agreement/</link>
       <pubDate>Mon, 13 Jul 2015 22:53:48 -0700</pubDate>
       
-      <guid>http://localhost:1313/modal/service-agreement/</guid>
+      <guid>https://www.prwaste.com/modal/service-agreement/</guid>
       <description>
 
 &lt;h3 id=&#34;service-agreement&#34;&gt;Service Agreement&lt;/h3&gt;
@@ -59,10 +59,10 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
     <item>
       <title>commercial rates</title>
-      <link>http://localhost:1313/modal/commercial-rates/</link>
+      <link>https://www.prwaste.com/modal/commercial-rates/</link>
       <pubDate>Mon, 13 Jul 2015 17:29:59 -0700</pubDate>
       
-      <guid>http://localhost:1313/modal/commercial-rates/</guid>
+      <guid>https://www.prwaste.com/modal/commercial-rates/</guid>
       <description>
 
 &lt;h5 id=&#34;commercial-rates&#34;&gt;Commercial Rates&lt;/h5&gt;
@@ -302,10 +302,10 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
     <item>
       <title>about</title>
-      <link>http://localhost:1313/sidebar/aboutSide/</link>
+      <link>https://www.prwaste.com/sidebar/aboutSide/</link>
       <pubDate>Mon, 13 Jul 2015 10:06:50 -0700</pubDate>
       
-      <guid>http://localhost:1313/sidebar/aboutSide/</guid>
+      <guid>https://www.prwaste.com/sidebar/aboutSide/</guid>
       <description>
 
 &lt;h2 id=&#34;environment&#34;&gt;Environment&lt;/h2&gt;
@@ -315,7 +315,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/aboutus/3G_logo.png&#34; alt=&#34;3G CNG &amp;amp; FLEET&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/aboutus/3G_logo.png&#34; alt=&#34;3G CNG &amp;amp; FLEET&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -339,10 +339,10 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
     <item>
       <title>contact</title>
-      <link>http://localhost:1313/sidebar/contactSide/</link>
+      <link>https://www.prwaste.com/sidebar/contactSide/</link>
       <pubDate>Mon, 13 Jul 2015 10:06:50 -0700</pubDate>
       
-      <guid>http://localhost:1313/sidebar/contactSide/</guid>
+      <guid>https://www.prwaste.com/sidebar/contactSide/</guid>
       <description>
 
 &lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
@@ -399,17 +399,17 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
     <item>
       <title>Residential</title>
-      <link>http://localhost:1313/service/residential/</link>
+      <link>https://www.prwaste.com/service/residential/</link>
       <pubDate>Fri, 10 Jul 2015 09:27:37 -0700</pubDate>
       
-      <guid>http://localhost:1313/service/residential/</guid>
+      <guid>https://www.prwaste.com/service/residential/</guid>
       <description>
 
 &lt;div class=&#34;article-icon&#34;&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/residential/landfill_cart.png&#34;  /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/residential/landfill_cart.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -446,7 +446,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/residential/3_ft_space.png&#34;  /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/residential/3_ft_space.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -455,7 +455,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h2 id=&#34;recycling&#34;&gt;Recycling&lt;/h2&gt;
 
-&lt;p&gt;View our list of &lt;a href=&#34;http://localhost:1313/recycling&#34;&gt;recyclable materials&lt;/a&gt; and check back for updates. Our list increases as recycling technology improves. We offer weekly curbside pick-up of household commingled recyclables (blue cart) and organics waste (green cart) for all residential customers.&lt;/p&gt;
+&lt;p&gt;View our list of &lt;a href=&#34;https://www.prwaste.com/recycling&#34;&gt;recyclable materials&lt;/a&gt; and check back for updates. Our list increases as recycling technology improves. We offer weekly curbside pick-up of household commingled recyclables (blue cart) and organics waste (green cart) for all residential customers.&lt;/p&gt;
 
 &lt;h3 id=&#34;contamination&#34;&gt;CONTAMINATION&lt;/h3&gt;
 
@@ -465,7 +465,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/residential/motor-oil.png&#34;  /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/residential/motor-oil.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -474,7 +474,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h3 id=&#34;motor-oil&#34;&gt;MOTOR OIL&lt;/h3&gt;
 
-&lt;p&gt;It’s easy, convenient and free. &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;Call our office&lt;/a&gt; to schedule a pick-up of your used motor oil. We will provide you with a 15-quart capacity oil container and an oil filter bag.&lt;/p&gt;
+&lt;p&gt;It’s easy, convenient and free. &lt;a href=&#34;https://www.prwaste.com/contact&#34;&gt;Call our office&lt;/a&gt; to schedule a pick-up of your used motor oil. We will provide you with a 15-quart capacity oil container and an oil filter bag.&lt;/p&gt;
 
 &lt;h3 id=&#34;batteries-%2f-e-waste&#34;&gt;BATTERIES AND ELECTRONIC WASTE&lt;/h3&gt;
 
@@ -484,7 +484,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/residential/batteries.png&#34;  /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/residential/batteries.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -550,7 +550,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/residential/lightbulb.png&#34;  /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/residential/lightbulb.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -589,7 +589,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
                     &lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt;&lt;/p&gt;
                     &lt;ol&gt;
                         &lt;li&gt;“Solid Waste Collection Fee Adjustment” – Mike Compton, Director of Administrative Services&lt;/li&gt;
-                        &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/RES_2006-142.pdf&#34; target=&#34;_blank&#34;&gt;Resolution 06-142&lt;/a&gt; – Paso Robles City Council&lt;/li&gt;
+                        &lt;li&gt;&lt;a href=&#34;https://www.prwaste.com/pdf/RES_2006-142.pdf&#34; target=&#34;_blank&#34;&gt;Resolution 06-142&lt;/a&gt; – Paso Robles City Council&lt;/li&gt;
                     &lt;/ol&gt;
                 &lt;/div&gt;
                 &lt;div class=&#34;modal-footer&#34;&gt;
@@ -604,13 +604,13 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h3 id=&#34;bag-tags&#34;&gt;BAG TAGS&lt;/h3&gt;
 
-&lt;p&gt;If you have more trash than what fits into your regular service, you can buy tags for $3 each by &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;calling our office&lt;/a&gt;. These tags will cover a 32-gallon container whether it is a box, bag or can (50 lbs. or less).&lt;/p&gt;
+&lt;p&gt;If you have more trash than what fits into your regular service, you can buy tags for $3 each by &lt;a href=&#34;https://www.prwaste.com/contact/&#34;&gt;calling our office&lt;/a&gt;. These tags will cover a 32-gallon container whether it is a box, bag or can (50 lbs. or less).&lt;/p&gt;
 
 &lt;div class=&#34;article-icon&#34;&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/residential/rent-a-bin.png&#34;  /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/residential/rent-a-bin.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -619,7 +619,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h3 id=&#34;rent-a-bin-service&#34;&gt;RENT-A-BIN SERVICE&lt;/h3&gt;
 
-&lt;p&gt;We offer 3- and 4-yard temporary bin service. You can order a bin any time you have a larger-than-normal volume of garbage to dispose of. These bins are great for home remodeling and construction projects. &lt;a href=&#34;http://localhost:1313/service/Rent-A-Bin/&#34;&gt;Learn More&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We offer 3- and 4-yard temporary bin service. You can order a bin any time you have a larger-than-normal volume of garbage to dispose of. These bins are great for home remodeling and construction projects. &lt;a href=&#34;https://www.prwaste.com/service/Rent-A-Bin/&#34;&gt;Learn More&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;in-yard-service&#34;&gt;IN-YARD SERVICE&lt;/h3&gt;
 
@@ -627,7 +627,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h3 id=&#34;bulky-items&#34;&gt;BULKY ITEMS&lt;/h3&gt;
 
-&lt;p&gt;We can collect bulky items. Please &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;call our office&lt;/a&gt; for an estimate. Bulky items include appliances, furniture, mattresses, any over-sized item that will not fit into your container. Read below for more information about our annual Clean-Up Week for bulky items.&lt;/p&gt;
+&lt;p&gt;We can collect bulky items. Please &lt;a href=&#34;https://www.prwaste.com/contact/&#34;&gt;call our office&lt;/a&gt; for an estimate. Bulky items include appliances, furniture, mattresses, any over-sized item that will not fit into your container. Read below for more information about our annual Clean-Up Week for bulky items.&lt;/p&gt;
 
 &lt;h2 id=&#34;holiday-schedule&#34;&gt;Holiday Schedule&lt;/h2&gt;
 
@@ -699,7 +699,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/residential/xmas_tree.png&#34;  /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/residential/xmas_tree.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -708,7 +708,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h3 id=&#34;christmas-tree-pick-up&#34;&gt;CHRISTMAS TREE PICK-UP&lt;/h3&gt;
 
-&lt;p&gt;For no additional charge, you can place your whole (please cut trees that are taller than 6&amp;rsquo;) undecorated tree at the curb on your regular service day between December 28, 2015 through January 8, 2016. We will be operating an additional truck that will be picking up just the Christmas trees. We are unable to accept flocked trees (fake snow) since they can not be composted. If you have any questions or concerns please &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;call our office&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For no additional charge, you can place your whole (please cut trees that are taller than 6&amp;rsquo;) undecorated tree at the curb on your regular service day between December 28, 2015 through January 8, 2016. We will be operating an additional truck that will be picking up just the Christmas trees. We are unable to accept flocked trees (fake snow) since they can not be composted. If you have any questions or concerns please &lt;a href=&#34;https://www.prwaste.com/contact/&#34;&gt;call our office&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Instructions&lt;/strong&gt;&lt;/p&gt;
 
@@ -726,7 +726,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/residential/city_cleanup.png&#34;  /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/residential/city_cleanup.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -749,7 +749,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/residential/2015cleanup_map_smaller.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/residential/2015cleanup_map_smaller.png&#34; alt=&#34;Annual Cleanup Map &#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -760,10 +760,10 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
     <item>
       <title>Commercial</title>
-      <link>http://localhost:1313/service/commercial/</link>
+      <link>https://www.prwaste.com/service/commercial/</link>
       <pubDate>Fri, 10 Jul 2015 09:37:10 -0700</pubDate>
       
-      <guid>http://localhost:1313/service/commercial/</guid>
+      <guid>https://www.prwaste.com/service/commercial/</guid>
       <description>
 
 &lt;h2 id=&#34;for-businesses&#34;&gt;For Businesses&lt;/h2&gt;
@@ -780,7 +780,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/commercial/1.5yard_brown.png&#34; alt=&#34;1.5-yard&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/commercial/1.5yard_brown.png&#34; alt=&#34;1.5-yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -792,7 +792,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/commercial/2yard_brown.png&#34; alt=&#34;2-yard&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/commercial/2yard_brown.png&#34; alt=&#34;2-yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -804,7 +804,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/commercial/3yard_brown.png&#34; alt=&#34;3-yard&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/commercial/3yard_brown.png&#34; alt=&#34;3-yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -816,7 +816,7 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/commercial/4yard_brown.png&#34; alt=&#34;4-yard&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/commercial/4yard_brown.png&#34; alt=&#34;4-yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -881,16 +881,16 @@ Paso Robles Waste Disposal will increase rates by the percent increase in the Co
 
 &lt;h2 id=&#34;container-cleaning&#34;&gt;Container Cleaning&lt;/h2&gt;
 
-&lt;p&gt;You can request to have you containers steam cleaned twice per year. Any additional cleanings will be billed to your account. To schedule a cleaning please &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;contact&lt;/a&gt; our office.&lt;/p&gt;
+&lt;p&gt;You can request to have you containers steam cleaned twice per year. Any additional cleanings will be billed to your account. To schedule a cleaning please &lt;a href=&#34;https://www.prwaste.com/contact&#34;&gt;contact&lt;/a&gt; our office.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Recycling</title>
-      <link>http://localhost:1313/recycling/</link>
+      <link>https://www.prwaste.com/recycling/</link>
       <pubDate>Mon, 13 Jul 2015 09:02:05 -0700</pubDate>
       
-      <guid>http://localhost:1313/recycling/</guid>
+      <guid>https://www.prwaste.com/recycling/</guid>
       <description>
 
 &lt;h2 id=&#34;when-in-doubt-recycle-it&#34;&gt;When in doubt, recycle it!&lt;/h2&gt;
@@ -1065,7 +1065,7 @@ be placed in our containers for collection:&lt;/p&gt;
                     &lt;h4 class=&#34;modal-title&#34; id=&#34;myModalLabel&#34;&gt;Oil &amp; Filters&lt;/h4&gt;
                 &lt;/div&gt;
                 &lt;div class=&#34;modal-body&#34;&gt;
-                    &lt;p&gt;Free curbside oil recycling is available. &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;Contact&lt;/a&gt; our office to schedule a pick-up of your used motor oil. We will provide you with a 15-quart capacity oil container and an oil filter bag.&lt;/p&gt;
+                    &lt;p&gt;Free curbside oil recycling is available. &lt;a href=&#34;https://www.prwaste.com/contact/&#34;&gt;Contact&lt;/a&gt; our office to schedule a pick-up of your used motor oil. We will provide you with a 15-quart capacity oil container and an oil filter bag.&lt;/p&gt;
                 &lt;/div&gt;
                 &lt;div class=&#34;modal-footer&#34;&gt;
                     &lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34; data-dismiss=&#34;modal&#34;&gt;Close&lt;/button&gt;
@@ -1084,7 +1084,7 @@ be placed in our containers for collection:&lt;/p&gt;
                     &lt;h4 class=&#34;modal-title&#34; id=&#34;myModalLabel&#34;&gt;Electronic Waste, Batteries, Fluorescent Lights, Televisions&lt;/h4&gt;
                 &lt;/div&gt;
                 &lt;div class=&#34;modal-body&#34;&gt;
-                    &lt;p&gt;The San Luis Obispo Integrated Waste Management Authority had provided us with containers to accept your electronic waste, household batteries, fluorescent lamps and tubes which are located at our &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;office&lt;/a&gt;.&lt;/p&gt;
+                    &lt;p&gt;The San Luis Obispo Integrated Waste Management Authority had provided us with containers to accept your electronic waste, household batteries, fluorescent lamps and tubes which are located at our &lt;a href=&#34;https://www.prwaste.com/contact/&#34;&gt;office&lt;/a&gt;.&lt;/p&gt;
                 &lt;/div&gt;
                 &lt;div class=&#34;modal-footer&#34;&gt;
                     &lt;button type=&#34;button&#34; class=&#34;btn btn-default&#34; data-dismiss=&#34;modal&#34;&gt;Close&lt;/button&gt;
@@ -1098,10 +1098,10 @@ be placed in our containers for collection:&lt;/p&gt;
     
     <item>
       <title>Rent-A-Bin</title>
-      <link>http://localhost:1313/service/Rent-A-Bin/</link>
+      <link>https://www.prwaste.com/service/Rent-A-Bin/</link>
       <pubDate>Fri, 10 Jul 2015 12:51:38 -0700</pubDate>
       
-      <guid>http://localhost:1313/service/Rent-A-Bin/</guid>
+      <guid>https://www.prwaste.com/service/Rent-A-Bin/</guid>
       <description>
 
 &lt;h2 id=&#34;drop-off--pick-up&#34;&gt;Drop Off &amp;amp; Pick-Up&lt;/h2&gt;
@@ -1118,7 +1118,7 @@ be placed in our containers for collection:&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rent-a-bin/3yard_blue.png&#34; alt=&#34;3 Yard&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rent-a-bin/3yard_blue.png&#34; alt=&#34;3 Yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1130,7 +1130,7 @@ be placed in our containers for collection:&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rent-a-bin/4yard_blue.png&#34; alt=&#34;4 Yard&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rent-a-bin/4yard_blue.png&#34; alt=&#34;4 Yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1152,7 +1152,7 @@ be placed in our containers for collection:&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rent-a-bin/household.png&#34; alt=&#34;A pile of household waste for a rent-a-bin.&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rent-a-bin/household.png&#34; alt=&#34;A pile of household waste for a rent-a-bin.&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1163,7 +1163,7 @@ be placed in our containers for collection:&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rent-a-bin/remodel.png&#34; alt=&#34;A pile of sheetrock for a rent-a-bin.&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rent-a-bin/remodel.png&#34; alt=&#34;A pile of sheetrock for a rent-a-bin.&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1177,7 +1177,7 @@ be placed in our containers for collection:&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rent-a-bin/roofing.png&#34; alt=&#34;A pile of roofing shingles for a rent-a-bin.&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rent-a-bin/roofing.png&#34; alt=&#34;A pile of roofing shingles for a rent-a-bin.&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1188,7 +1188,7 @@ be placed in our containers for collection:&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rent-a-bin/sod.png&#34; alt=&#34;A pile of rolled up sod for a rent-a-bin.&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rent-a-bin/sod.png&#34; alt=&#34;A pile of rolled up sod for a rent-a-bin.&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1202,7 +1202,7 @@ be placed in our containers for collection:&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rent-a-bin/concrete.png&#34; alt=&#34;A pile of broken up concrete for a rent-a-bin.&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rent-a-bin/concrete.png&#34; alt=&#34;A pile of broken up concrete for a rent-a-bin.&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1213,7 +1213,7 @@ be placed in our containers for collection:&lt;/p&gt;
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rent-a-bin/other.png&#34; alt=&#34;A pile of trash bags for a rent-a-bin.&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rent-a-bin/other.png&#34; alt=&#34;A pile of trash bags for a rent-a-bin.&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1226,10 +1226,10 @@ be placed in our containers for collection:&lt;/p&gt;
     
     <item>
       <title>Roll-Off</title>
-      <link>http://localhost:1313/service/rolloff/</link>
+      <link>https://www.prwaste.com/service/rolloff/</link>
       <pubDate>Mon, 13 Jul 2015 09:02:13 -0700</pubDate>
       
-      <guid>http://localhost:1313/service/rolloff/</guid>
+      <guid>https://www.prwaste.com/service/rolloff/</guid>
       <description>
 
 &lt;h2 id=&#34;our-sister-company&#34;&gt;Our Sister Company&lt;/h2&gt;
@@ -1238,7 +1238,7 @@ be placed in our containers for collection:&lt;/p&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rolloff/roll-off_logo.png&#34;  /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rolloff/roll-off_logo.png&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -1264,7 +1264,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rolloff/10yard.png&#34; alt=&#34;10 Yard&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rolloff/10yard.png&#34; alt=&#34;10 Yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1276,7 +1276,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rolloff/20yard.png&#34; alt=&#34;20 Yard&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rolloff/20yard.png&#34; alt=&#34;20 Yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1288,7 +1288,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rolloff/30yard.png&#34; alt=&#34;30 yard&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rolloff/30yard.png&#34; alt=&#34;30 yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1300,7 +1300,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rolloff/40yard.png&#34; alt=&#34;40 yard&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rolloff/40yard.png&#34; alt=&#34;40 yard&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1324,7 +1324,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rolloff/household.png&#34; alt=&#34;Household&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rolloff/household.png&#34; alt=&#34;Household&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1335,7 +1335,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rolloff/remodel.png&#34; alt=&#34;Remodel&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rolloff/remodel.png&#34; alt=&#34;Remodel&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1349,7 +1349,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rolloff/roofing.png&#34; alt=&#34;Roofing&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rolloff/roofing.png&#34; alt=&#34;Roofing&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1360,7 +1360,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rolloff/sod.png&#34; alt=&#34;Sod&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rolloff/sod.png&#34; alt=&#34;Sod&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1374,7 +1374,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rolloff/concrete.png&#34; alt=&#34;Concrete&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rolloff/concrete.png&#34; alt=&#34;Concrete&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1385,7 +1385,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/rolloff/other.png&#34; alt=&#34;Other&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rolloff/other.png&#34; alt=&#34;Other&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1398,33 +1398,33 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
     <item>
       <title>FAQs</title>
-      <link>http://localhost:1313/faq/</link>
+      <link>https://www.prwaste.com/faq/</link>
       <pubDate>Mon, 13 Jul 2015 09:02:55 -0700</pubDate>
       
-      <guid>http://localhost:1313/faq/</guid>
+      <guid>https://www.prwaste.com/faq/</guid>
       <description>
 
 &lt;h2 id=&#34;service&#34;&gt;Service&lt;/h2&gt;
 
 &lt;h3 id=&#34;how-do-i-sign-up-for-garbage-service&#34;&gt;HOW DO I SIGN UP FOR GARBAGE SERVICE?&lt;/h3&gt;
 
-&lt;p&gt;&lt;a data-toggle=&#34;modal&#34; data-target=&#34;#signUp&#34;&gt;Sign up online&lt;/a&gt; or &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;call our office&lt;/a&gt; and one of our friendly customer service representatives will help you get your service started.&lt;/p&gt;
+&lt;p&gt;&lt;a data-toggle=&#34;modal&#34; data-target=&#34;#signUp&#34;&gt;Sign up online&lt;/a&gt; or &lt;a href=&#34;https://www.prwaste.com/contact&#34;&gt;call our office&lt;/a&gt; and one of our friendly customer service representatives will help you get your service started.&lt;/p&gt;
 
 &lt;h3 id=&#34;my-trash-was-not-emptied-what-now&#34;&gt;MY TRASH WAS NOT EMPTIED, WHAT NOW?&lt;/h3&gt;
 
-&lt;p&gt;Please &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;call our office&lt;/a&gt;. If you had your container out on the curb by 6am on your pick-up day, we will send a truck back by your house at no charge. If your container was not out, we will send a truck to empty your can and charge you our &amp;ldquo;Go Back&amp;rdquo; fee.&lt;/p&gt;
+&lt;p&gt;Please &lt;a href=&#34;https://www.prwaste.com/contact&#34;&gt;call our office&lt;/a&gt;. If you had your container out on the curb by 6am on your pick-up day, we will send a truck back by your house at no charge. If your container was not out, we will send a truck to empty your can and charge you our &amp;ldquo;Go Back&amp;rdquo; fee.&lt;/p&gt;
 
 &lt;h3 id=&#34;do-you-pick-up-my-trash-on-holidays&#34;&gt;DO YOU PICK UP MY TRASH ON HOLIDAYS?&lt;/h3&gt;
 
-&lt;p&gt;Yes! We provide service on your regularly-scheduled service day 51 weeks a year. The only week that is interrupted is Christmas Week. &lt;a href=&#34;http://localhost:1313/service/residential&#34;&gt;Learn more&lt;/a&gt; about this year&amp;rsquo;s Christmas schedule.&lt;/p&gt;
+&lt;p&gt;Yes! We provide service on your regularly-scheduled service day 51 weeks a year. The only week that is interrupted is Christmas Week. &lt;a href=&#34;https://www.prwaste.com/service/residential&#34;&gt;Learn more&lt;/a&gt; about this year&amp;rsquo;s Christmas schedule.&lt;/p&gt;
 
 &lt;h3 id=&#34;i-occasionally-have-more-trash-than-will-fit-in-my-container&#34;&gt;I OCCASIONALLY HAVE MORE TRASH THAN WILL FIT IN MY CONTAINER&lt;/h3&gt;
 
-&lt;p&gt;Please &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;call our office&lt;/a&gt;. One of our customer service representatives will provide you with a Bag Tag for $3. You can use the tags any time you have extra garbage. Your driver will check the extra bags that you place at the curb for a tag and if you have one, they will take the bag. Our trucks have cameras on them to document your extra garbage. If your container is overfull the driver will empty it after taking a picture and add the extra charge to your account.&lt;/p&gt;
+&lt;p&gt;Please &lt;a href=&#34;https://www.prwaste.com/contact&#34;&gt;call our office&lt;/a&gt;. One of our customer service representatives will provide you with a Bag Tag for $3. You can use the tags any time you have extra garbage. Your driver will check the extra bags that you place at the curb for a tag and if you have one, they will take the bag. Our trucks have cameras on them to document your extra garbage. If your container is overfull the driver will empty it after taking a picture and add the extra charge to your account.&lt;/p&gt;
 
 &lt;h3 id=&#34;i-am-doing-a-project-and-have-a-lot-of-extra-garbage&#34;&gt;I AM DOING A PROJECT AND HAVE A LOT OF EXTRA GARBAGE&lt;/h3&gt;
 
-&lt;p&gt;We offer temporary 3- and 4-yard bin service. &lt;a href=&#34;http://localhost:1313/service/rent-a-bins&#34;&gt;Learn more&lt;/a&gt; about Rent-A-Bins. If you are doing a very large project and plan on having more than just a few yards of garbage you can alternatively contact &lt;a href=&#34;http://localhost:1313/service/roll-off&#34;&gt;Paso Robles Roll-Off, Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We offer temporary 3- and 4-yard bin service. &lt;a href=&#34;https://www.prwaste.com/service/rent-a-bins&#34;&gt;Learn more&lt;/a&gt; about Rent-A-Bins. If you are doing a very large project and plan on having more than just a few yards of garbage you can alternatively contact &lt;a href=&#34;https://www.prwaste.com/service/roll-off&#34;&gt;Paso Robles Roll-Off, Inc.&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;recycling&#34;&gt;Recycling&lt;/h2&gt;
 
@@ -1436,7 +1436,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;h3 id=&#34;what-is-recyclable&#34;&gt;WHAT IS RECYCLABLE?&lt;/h3&gt;
 
-&lt;p&gt;Visit our &lt;a href=&#34;http://localhost:1313/recycling&#34;&gt;Recycling&lt;/a&gt; list for more information.&lt;/p&gt;
+&lt;p&gt;Visit our &lt;a href=&#34;https://www.prwaste.com/recycling&#34;&gt;Recycling&lt;/a&gt; list for more information.&lt;/p&gt;
 
 &lt;h2 id=&#34;hazardous-materials&#34;&gt;Hazardous Materials&lt;/h2&gt;
 
@@ -1460,7 +1460,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;p&gt;If you would like us to automatically debit your savings or checking account on the 10th (or shortly after if the 10th is not a business day) each month, this program is for you. Customers enrolled in the program still receive a paper bill but it will have a message saying &amp;ldquo;AutoPay Do Not Pay&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;In order to enroll in our automated ACH payments program you need to complete an application form that gives us permission to debit your bank account. &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f0&#34;&gt;Enroll for ACH online&lt;/a&gt; or &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;contact our office&lt;/a&gt; and we will mail/fax you a copy of the form to fill out.&lt;/p&gt;
+&lt;p&gt;In order to enroll in our automated ACH payments program you need to complete an application form that gives us permission to debit your bank account. &lt;a href=&#34;https://pasorobleswastedisposal.onlineportal.us.com/User/Login?ReturnUrl=%2f0&#34;&gt;Enroll for ACH online&lt;/a&gt; or &lt;a href=&#34;https://www.prwaste.com/contact&#34;&gt;contact our office&lt;/a&gt; and we will mail/fax you a copy of the form to fill out.&lt;/p&gt;
 
 &lt;h3 id=&#34;autopay-credit-card&#34;&gt;AUTOPAY – CREDIT CARD&lt;/h3&gt;
 
@@ -1486,10 +1486,10 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://www.prwaste.com/about/</link>
       <pubDate>Mon, 13 Jul 2015 09:03:00 -0700</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://www.prwaste.com/about/</guid>
       <description>
 
 &lt;h2 id=&#34;mission-statement&#34;&gt;Mission Statement&lt;/h2&gt;
@@ -1546,7 +1546,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/aboutus/community.png&#34; alt=&#34;Supported Organizations&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/aboutus/community.png&#34; alt=&#34;Supported Organizations&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -1563,10 +1563,10 @@ hazardous). Often we are able to offer same day or next day service for most loc
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://www.prwaste.com/contact/</link>
       <pubDate>Mon, 13 Jul 2015 09:03:05 -0700</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://www.prwaste.com/contact/</guid>
       <description>
 
 &lt;h2 id=&#34;contact-info&#34;&gt;Contact Info&lt;/h2&gt;
@@ -1592,7 +1592,7 @@ hazardous). Often we are able to offer same day or next day service for most loc
 
 &lt;h2 id=&#34;hours--location&#34;&gt;Hours &amp;amp; Location&lt;/h2&gt;
 
-&lt;p&gt;Our office is open Monday through Friday from 8:00am to 5:00pm. The office does close for most major holidays but our trucks will run their regular routes. Learn more about our &lt;a href=&#34;http://localhost:1313/service/residential/#holiday-schedule&#34;&gt;Christmas Week schedule&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our office is open Monday through Friday from 8:00am to 5:00pm. The office does close for most major holidays but our trucks will run their regular routes. Learn more about our &lt;a href=&#34;https://www.prwaste.com/service/residential/#holiday-schedule&#34;&gt;Christmas Week schedule&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;office-location&#34;&gt;Office Location&lt;/h3&gt;
 
