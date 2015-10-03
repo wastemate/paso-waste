@@ -92,15 +92,6 @@ $(document).ready(function () {
     var self = {};
     self.$bar = $('#greenBar');
     if(isMobile){
-      if(self.$bar.length){
-        self.$bar.css({
-          'margin-top': '70px'
-        });
-      } else {
-        $('#siteSummary').css({
-          'margin-top': '70px'
-        });
-      }
       return; //bail out nothing else to do!
     }
     self.$content = $('#content');      
