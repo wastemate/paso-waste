@@ -818,11 +818,7 @@ footer .copyright	{
 		footer h2.contact	{
 			margin-top: 20px;
 		}
-
-
-
 }
-
 
 @media (max-width: 992px){
 		
@@ -1005,7 +1001,25 @@ footer .copyright	{
     content: " ";
     height: 100%;
   }
+ 
+	.navbar-collapse.collapse {
+		display: none!important;
+		height: auto!important;
+		padding-bottom: 0;
+		overflow: visible!important;
+	}
+	
+	.navbar-collapse.collapse.in {
+    	display: block!important;
+	}
 }
+
+@media (min-width: 1201px){
+	.navbar-collapse.collapse {
+		display: block!important;
+	}
+}
+
 
 .modal-dialog {
   display: inline-block;
