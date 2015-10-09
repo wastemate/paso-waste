@@ -262,6 +262,7 @@
 		<div class="wma-base__container wma-base__panel-light" data-bind="visible: shouldShowBillingInfo, template: {name: 'wma-base-service-info'}"></div>
 		<form autocomplete='on' class="wma-base__container wma-base__padded wma-base__panel-light" data-bind="visible: shouldShowPaymentInfo, template: {name:'wma-base-payment-info'}"></form>
 		<div class="wma-products__container wma-confirmation__content" data-bind="visible: shouldShowConfirmation, template: {name: 'wma-products-confirmation'}"></div>
+		<div class="wma-products__container" data-bind="visible: shouldShowProcessing, template: {name: 'wma-order-processing'}"></div>
 		<div class="wma-footer__next" data-bind="visible: shouldShowProcessNavFooter, template: {name: 'wma-footer-next'}"></div>
 	</script>
 
@@ -883,6 +884,12 @@
 		<p class="wma-base__pad">If you have any questions, please <a href="#">contact us.</a></p>
 		<a href="#">Order additional services</a>
 	</div>
+	</script>
+	
+	 <script type="text/html" id="wma-order-processing">
+		<div class="wma-products__product-wrap wma-base__horz-center" style="min-height: 265px;">
+			<p style="padding-top: 65px;"><span class="spinner-loader"></span></br>Processing your order!</br></br><i>This can take up to 1 minute to complete.</i></p>
+		</div>
 	</script>
           
 	<script type="text/html" id="wma-footer-next">
