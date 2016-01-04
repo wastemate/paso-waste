@@ -564,7 +564,7 @@
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://www.prwaste.com/media/rent-a-bin/remodel.png&#34; alt=&#34;A pile of sheetrock for a rent-a-bin.&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rent-a-bin/woodwaste.png&#34; alt=&#34;A pile of wood for a rent-a-bin.&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -578,7 +578,7 @@
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://www.prwaste.com/media/rent-a-bin/roofing.png&#34; alt=&#34;A pile of roofing shingles for a rent-a-bin.&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rent-a-bin/greenwaste.png&#34; alt=&#34;A pile of greenwaste for a rent-a-bin.&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -589,37 +589,12 @@
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://www.prwaste.com/media/rent-a-bin/sod.png&#34; alt=&#34;A pile of rolled up sod for a rent-a-bin.&#34; /&gt;
+        &lt;img src=&#34;https://www.prwaste.com/media/rent-a-bin/other.png&#34; alt=&#34;A pile of trash for a rent-a-bin.&#34; /&gt;
     
     
 &lt;/figure&gt;
 
     &lt;h3&gt;Sod&lt;/h3&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;clearfix&#34;&gt;
-&lt;div class=&#34;waste-categories col-md-5&#34;&gt;
-    
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://www.prwaste.com/media/rent-a-bin/concrete.png&#34; alt=&#34;A pile of broken up concrete for a rent-a-bin.&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-    &lt;h3&gt;Concrete / Brick&lt;/h3&gt;
-&lt;/div&gt;
-&lt;div class=&#34;waste-categories col-md-5&#34;&gt;
-    
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://www.prwaste.com/media/rent-a-bin/other.png&#34; alt=&#34;A pile of trash bags for a rent-a-bin.&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-    &lt;h3&gt;Other&lt;/h3&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
