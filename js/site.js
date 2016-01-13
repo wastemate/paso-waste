@@ -134,13 +134,6 @@ $(document).ready(function () {
  * WasteMate Sign Up interactions
  */
 $(document).ready(function () {
-		//Always initialize wastemate, needs to be ready to handle address input on demand
-    try {
-      initWasteMate(); // init on load  
-    } catch(ex) {
-      console.log(ex);
-    }
-    
     var isMobile = $('#heroImage').css('display')=='none'; //hero is hidden on mobile
     if(isMobile){
      return; 
@@ -155,7 +148,7 @@ $(document).ready(function () {
       existingStep.show();
     });
     $('#choose-new').on('click', function(){
-      initWasteMate();
+      
       initStep.hide();
       orderStep.show();
     });
