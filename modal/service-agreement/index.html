@@ -1125,7 +1125,7 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.14.30/js/bootstrap-datetimepicker.min.js"></script>
 <script src="https://www.promisejs.org/polyfills/promise-6.1.0.min.js"></script>
-<script src="https://www.prwaste.com/js/parse-1.4.2.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/parse/1.9.2/parse.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/knockout/3.3.0/knockout-min.js"></script>
 <script src="//maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyDkNkOrlhv8qDAznL8boO3lMXBQUAopnt0"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
@@ -1133,13 +1133,15 @@
 <script type="text/javascript">
 	var _wastemate = _wastemate || {'ui': {}, 'user': {}};
 	_wastemate['APP_KEY']= '6YJjl9Tlu9gml6IR0YfXrOIkY9SxqCfP2bshQELI';
-	_wastemate['JS_KEY']  = 'DEIXEICevT5qkR1zQxvj8PVHrvWu4XPKN2QUhhmL';
+	_wastemate['JS_KEY']  = '';
 	_wastemate['REQUIRE_CC'] = true;           		
 	_wastemate['REQUIRE_REMOVAL_DATE'] = false; 	
 	_wastemate['ui']['widget'] = true;          	
 	_wastemate['ui']['search'] = 'floating_address';
 	_wastemate['ui']['main'] = 'street_address';    
 	_wastemate['ui']['hide'] = 'body'; 				
+	
+	Parse.serverURL = "https://wastemate-parse.herokuapp.com/parse";
 </script>
 <script src="https://www.prwaste.com/js/wastemate.min.js"></script>
 </body>
